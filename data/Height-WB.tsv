@@ -1,0 +1,3161 @@
+"Code"	"Country"	"variable"	"value"
+40	"Austria"	"1810"	0
+56	"Belgium"	"1810"	163.1
+250	"France"	"1810"	163.9
+276	"Germany"	"1810"	167.8
+528	"Netherlands"	"1810"	166
+756	"Switzerland"	"1810"	0
+208	"Denmark"	"1810"	0
+233	"Estonia"	"1810"	0
+246	"Finland"	"1810"	171.9
+372	"Ireland"	"1810"	168
+428	"Latvia"	"1810"	0
+440	"Lithuania"	"1810"	0
+578	"Norway"	"1810"	168.6
+752	"Sweden"	"1810"	0
+826	"United Kingdom"	"1810"	169.7
+8	"Albania"	"1810"	0
+70	"Bosnia and Herzegovina"	"1810"	0
+191	"Croatia"	"1810"	163.2
+300	"Greece"	"1810"	0
+380	"Italy"	"1810"	164.1
+620	"Portugal"	"1810"	165.493
+688	"Serbia"	"1810"	0
+705	"Slovenia"	"1810"	0
+724	"Spain"	"1810"	0
+807	"Former Yugoslav Republic of Macedonia"	"1810"	0
+112	"Belarus"	"1810"	0
+100	"Bulgaria"	"1810"	0
+203	"Czech Republic"	"1810"	164
+348	"Hungary"	"1810"	164.7
+616	"Poland"	"1810"	0
+498	"Republic of Moldova"	"1810"	0
+642	"Romania"	"1810"	0
+643	"Russian Federation"	"1810"	159.8
+703	"Slovakia"	"1810"	0
+804	"Ukraine"	"1810"	0
+124	"Canada"	"1810"	171.5
+840	"United States of America"	"1810"	0
+192	"Cuba"	"1810"	0
+214	"Dominican Republic"	"1810"	0
+332	"Haiti"	"1810"	0
+388	"Jamaica"	"1810"	0
+630	"Puerto Rico"	"1810"	0
+780	"Trinidad and Tobago"	"1810"	0
+188	"Costa Rica"	"1810"	0
+222	"El Salvador"	"1810"	0
+320	"Guatemala"	"1810"	0
+340	"Honduras"	"1810"	0
+484	"Mexico"	"1810"	161.26
+558	"Nicaragua"	"1810"	0
+591	"Panama"	"1810"	0
+32	"Argentina"	"1810"	168.8
+68	"Bolivia (Plurinational State of)"	"1810"	0
+76	"Brazil"	"1810"	164.3
+152	"Chile"	"1810"	0
+170	"Colombia"	"1810"	0
+218	"Ecuador"	"1810"	0
+328	"Guyana"	"1810"	0
+600	"Paraguay"	"1810"	0
+604	"Peru"	"1810"	163.4
+858	"Uruguay"	"1810"	0
+36	"Australia"	"1810"	0
+554	"New Zealand"	"1810"	0
+598	"Papua New Guinea"	"1810"	0
+4	"Afghanistan"	"1810"	0
+50	"Bangladesh"	"1810"	0
+356	"India"	"1810"	0
+364	"Iran (Islamic Republic of)"	"1810"	0
+524	"Nepal"	"1810"	0
+586	"Pakistan"	"1810"	0
+144	"Sri Lanka"	"1810"	0
+156	"China"	"1810"	165.7
+344	"Hong Kong China"	"1810"	0
+408	"Democratic People's Republic of Korea"	"1810"	0
+392	"Japan"	"1810"	0
+496	"Mongolia"	"1810"	0
+410	"Korea"	"1810"	0
+9002	"Taiwan"	"1810"	0
+116	"Cambodia"	"1810"	0
+360	"Indonesia"	"1810"	161.277
+418	"Lao People's Democratic Republic"	"1810"	0
+458	"Malaysia"	"1810"	0
+104	"Myanmar"	"1810"	0
+608	"Philippines"	"1810"	0
+702	"Singapore"	"1810"	0
+764	"Thailand"	"1810"	0
+704	"Viet Nam"	"1810"	0
+51	"Armenia"	"1810"	0
+31	"Azerbaijan"	"1810"	0
+48	"Bahrain"	"1810"	0
+196	"Cyprus"	"1810"	0
+268	"Georgia"	"1810"	0
+368	"Iraq"	"1810"	0
+376	"Israel"	"1810"	0
+400	"Jordan"	"1810"	0
+414	"Kuwait"	"1810"	0
+422	"Lebanon"	"1810"	0
+275	"Palestinian Authority"	"1810"	0
+512	"Oman"	"1810"	0
+682	"Saudi Arabia"	"1810"	0
+760	"Syrian Arab Republic"	"1810"	0
+792	"Turkey"	"1810"	0
+784	"United Arab Emirates"	"1810"	0
+887	"Yemen"	"1810"	0
+398	"Kazakhstan"	"1810"	0
+417	"Kyrgyzstan"	"1810"	0
+762	"Tajikistan"	"1810"	0
+795	"Turkmenistan"	"1810"	0
+860	"Uzbekistan"	"1810"	0
+12	"Algeria"	"1810"	0
+818	"Egypt"	"1810"	0
+434	"Libya"	"1810"	0
+504	"Morocco"	"1810"	0
+729	"Sudan (North)"	"1810"	0
+788	"Tunisia"	"1810"	0
+204	"Benin"	"1810"	164.9
+854	"Burkina Faso"	"1810"	166.29
+132	"Cape Verde"	"1810"	0
+384	"Cote d'Ivoire"	"1810"	165.1
+270	"Gambia"	"1810"	0
+288	"Ghana"	"1810"	164.1
+324	"Guinea"	"1810"	0
+624	"Guinea-Bissau"	"1810"	165.4
+430	"Liberia"	"1810"	0
+466	"Mali"	"1810"	0
+478	"Mauritania"	"1810"	0
+562	"Niger"	"1810"	0
+566	"Nigeria"	"1810"	165.2
+686	"Senegal"	"1810"	165.4
+694	"Sierra Leone"	"1810"	164.682
+768	"Togo"	"1810"	0
+24	"Angola"	"1810"	160.5
+120	"Cameroon"	"1810"	165.9
+140	"Central African Republic"	"1810"	0
+148	"Chad"	"1810"	0
+178	"Congo"	"1810"	163.3
+180	"Democratic Republic of the Congo"	"1810"	163.3
+226	"Equatorial Guinea"	"1810"	0
+266	"Gabon"	"1810"	165.4
+72	"Botswana"	"1810"	0
+426	"Lesotho"	"1810"	0
+516	"Namibia"	"1810"	0
+710	"South Africa"	"1810"	0
+748	"Swaziland"	"1810"	0
+108	"Burundi"	"1810"	0
+174	"Comoros"	"1810"	0
+262	"Djibouti"	"1810"	0
+232	"Eritrea"	"1810"	0
+404	"Kenya"	"1810"	0
+450	"Madagascar"	"1810"	0
+454	"Malawi"	"1810"	0
+480	"Mauritius"	"1810"	0
+508	"Mozambique"	"1810"	164.1
+646	"Rwanda"	"1810"	0
+706	"Somalia"	"1810"	0
+800	"Uganda"	"1810"	0
+834	"United Republic of Tanzania"	"1810"	0
+894	"Zambia"	"1810"	0
+716	"Zimbabwe"	"1810"	0
+40	"Austria"	"1820"	163.7
+56	"Belgium"	"1820"	163.7
+250	"France"	"1820"	163.9
+276	"Germany"	"1820"	167.3
+528	"Netherlands"	"1820"	165.1
+756	"Switzerland"	"1820"	167.6
+208	"Denmark"	"1820"	166.95
+233	"Estonia"	"1820"	0
+246	"Finland"	"1820"	170.05
+372	"Ireland"	"1820"	165.4
+428	"Latvia"	"1820"	0
+440	"Lithuania"	"1820"	0
+578	"Norway"	"1820"	167.5
+752	"Sweden"	"1820"	0
+826	"United Kingdom"	"1820"	169.1
+8	"Albania"	"1820"	0
+70	"Bosnia and Herzegovina"	"1820"	0
+191	"Croatia"	"1820"	163.6
+300	"Greece"	"1820"	0
+380	"Italy"	"1820"	165.8
+620	"Portugal"	"1820"	166.338
+688	"Serbia"	"1820"	0
+705	"Slovenia"	"1820"	0
+724	"Spain"	"1820"	0
+807	"Former Yugoslav Republic of Macedonia"	"1820"	0
+112	"Belarus"	"1820"	0
+100	"Bulgaria"	"1820"	0
+203	"Czech Republic"	"1820"	163
+348	"Hungary"	"1820"	164.3
+616	"Poland"	"1820"	0
+498	"Republic of Moldova"	"1820"	0
+642	"Romania"	"1820"	0
+643	"Russian Federation"	"1820"	162.1
+703	"Slovakia"	"1820"	0
+804	"Ukraine"	"1820"	164.1
+124	"Canada"	"1820"	171.5
+840	"United States of America"	"1820"	172.2
+192	"Cuba"	"1820"	0
+214	"Dominican Republic"	"1820"	0
+332	"Haiti"	"1820"	0
+388	"Jamaica"	"1820"	0
+630	"Puerto Rico"	"1820"	0
+780	"Trinidad and Tobago"	"1820"	0
+188	"Costa Rica"	"1820"	0
+222	"El Salvador"	"1820"	0
+320	"Guatemala"	"1820"	0
+340	"Honduras"	"1820"	0
+484	"Mexico"	"1820"	160.36
+558	"Nicaragua"	"1820"	0
+591	"Panama"	"1820"	0
+32	"Argentina"	"1820"	169.9
+68	"Bolivia (Plurinational State of)"	"1820"	0
+76	"Brazil"	"1820"	164.3
+152	"Chile"	"1820"	0
+170	"Colombia"	"1820"	0
+218	"Ecuador"	"1820"	0
+328	"Guyana"	"1820"	0
+600	"Paraguay"	"1820"	0
+604	"Peru"	"1820"	162.6
+858	"Uruguay"	"1820"	0
+36	"Australia"	"1820"	0
+554	"New Zealand"	"1820"	0
+598	"Papua New Guinea"	"1820"	0
+4	"Afghanistan"	"1820"	0
+50	"Bangladesh"	"1820"	0
+356	"India"	"1820"	0
+364	"Iran (Islamic Republic of)"	"1820"	0
+524	"Nepal"	"1820"	0
+586	"Pakistan"	"1820"	0
+144	"Sri Lanka"	"1820"	0
+156	"China"	"1820"	165.8
+344	"Hong Kong China"	"1820"	0
+408	"Democratic People's Republic of Korea"	"1820"	0
+392	"Japan"	"1820"	0
+496	"Mongolia"	"1820"	0
+410	"Korea"	"1820"	0
+9002	"Taiwan"	"1820"	0
+116	"Cambodia"	"1820"	0
+360	"Indonesia"	"1820"	161.277
+418	"Lao People's Democratic Republic"	"1820"	0
+458	"Malaysia"	"1820"	0
+104	"Myanmar"	"1820"	0
+608	"Philippines"	"1820"	0
+702	"Singapore"	"1820"	0
+764	"Thailand"	"1820"	0
+704	"Viet Nam"	"1820"	0
+51	"Armenia"	"1820"	0
+31	"Azerbaijan"	"1820"	0
+48	"Bahrain"	"1820"	0
+196	"Cyprus"	"1820"	0
+268	"Georgia"	"1820"	0
+368	"Iraq"	"1820"	0
+376	"Israel"	"1820"	0
+400	"Jordan"	"1820"	0
+414	"Kuwait"	"1820"	0
+422	"Lebanon"	"1820"	0
+275	"Palestinian Authority"	"1820"	0
+512	"Oman"	"1820"	0
+682	"Saudi Arabia"	"1820"	0
+760	"Syrian Arab Republic"	"1820"	0
+792	"Turkey"	"1820"	0
+784	"United Arab Emirates"	"1820"	0
+887	"Yemen"	"1820"	0
+398	"Kazakhstan"	"1820"	0
+417	"Kyrgyzstan"	"1820"	0
+762	"Tajikistan"	"1820"	0
+795	"Turkmenistan"	"1820"	0
+860	"Uzbekistan"	"1820"	0
+12	"Algeria"	"1820"	0
+818	"Egypt"	"1820"	0
+434	"Libya"	"1820"	0
+504	"Morocco"	"1820"	0
+729	"Sudan (North)"	"1820"	0
+788	"Tunisia"	"1820"	0
+204	"Benin"	"1820"	164.9
+854	"Burkina Faso"	"1820"	165.36
+132	"Cape Verde"	"1820"	0
+384	"Cote d'Ivoire"	"1820"	165.1
+270	"Gambia"	"1820"	0
+288	"Ghana"	"1820"	164.1
+324	"Guinea"	"1820"	0
+624	"Guinea-Bissau"	"1820"	165.4
+430	"Liberia"	"1820"	0
+466	"Mali"	"1820"	0
+478	"Mauritania"	"1820"	0
+562	"Niger"	"1820"	0
+566	"Nigeria"	"1820"	162.239
+686	"Senegal"	"1820"	165.4
+694	"Sierra Leone"	"1820"	162.16
+768	"Togo"	"1820"	0
+24	"Angola"	"1820"	160.5
+120	"Cameroon"	"1820"	165.9
+140	"Central African Republic"	"1820"	0
+148	"Chad"	"1820"	0
+178	"Congo"	"1820"	163.3
+180	"Democratic Republic of the Congo"	"1820"	163.3
+226	"Equatorial Guinea"	"1820"	0
+266	"Gabon"	"1820"	165.4
+72	"Botswana"	"1820"	0
+426	"Lesotho"	"1820"	0
+516	"Namibia"	"1820"	0
+710	"South Africa"	"1820"	0
+748	"Swaziland"	"1820"	0
+108	"Burundi"	"1820"	0
+174	"Comoros"	"1820"	0
+262	"Djibouti"	"1820"	0
+232	"Eritrea"	"1820"	0
+404	"Kenya"	"1820"	0
+450	"Madagascar"	"1820"	0
+454	"Malawi"	"1820"	0
+480	"Mauritius"	"1820"	0
+508	"Mozambique"	"1820"	164.1
+646	"Rwanda"	"1820"	0
+706	"Somalia"	"1820"	0
+800	"Uganda"	"1820"	0
+834	"United Republic of Tanzania"	"1820"	0
+894	"Zambia"	"1820"	0
+716	"Zimbabwe"	"1820"	0
+40	"Austria"	"1830"	163.4
+56	"Belgium"	"1830"	164
+250	"France"	"1830"	164
+276	"Germany"	"1830"	166.8
+528	"Netherlands"	"1830"	164.2
+756	"Switzerland"	"1830"	166.3
+208	"Denmark"	"1830"	165.4
+233	"Estonia"	"1830"	0
+246	"Finland"	"1830"	169.5
+372	"Ireland"	"1830"	168.1
+428	"Latvia"	"1830"	0
+440	"Lithuania"	"1830"	0
+578	"Norway"	"1830"	168.9
+752	"Sweden"	"1830"	168.1
+826	"United Kingdom"	"1830"	166.7
+8	"Albania"	"1830"	0
+70	"Bosnia and Herzegovina"	"1830"	0
+191	"Croatia"	"1830"	163.5
+300	"Greece"	"1830"	0
+380	"Italy"	"1830"	164.1
+620	"Portugal"	"1830"	165.292
+688	"Serbia"	"1830"	0
+705	"Slovenia"	"1830"	0
+724	"Spain"	"1830"	161
+807	"Former Yugoslav Republic of Macedonia"	"1830"	0
+112	"Belarus"	"1830"	0
+100	"Bulgaria"	"1830"	0
+203	"Czech Republic"	"1830"	163.5
+348	"Hungary"	"1830"	164.1
+616	"Poland"	"1830"	0
+498	"Republic of Moldova"	"1830"	0
+642	"Romania"	"1830"	0
+643	"Russian Federation"	"1830"	163
+703	"Slovakia"	"1830"	0
+804	"Ukraine"	"1830"	164.8
+124	"Canada"	"1830"	171.5
+840	"United States of America"	"1830"	173.5
+192	"Cuba"	"1830"	0
+214	"Dominican Republic"	"1830"	0
+332	"Haiti"	"1830"	0
+388	"Jamaica"	"1830"	0
+630	"Puerto Rico"	"1830"	0
+780	"Trinidad and Tobago"	"1830"	0
+188	"Costa Rica"	"1830"	0
+222	"El Salvador"	"1830"	0
+320	"Guatemala"	"1830"	0
+340	"Honduras"	"1830"	0
+484	"Mexico"	"1830"	160.36
+558	"Nicaragua"	"1830"	0
+591	"Panama"	"1830"	0
+32	"Argentina"	"1830"	170.9
+68	"Bolivia (Plurinational State of)"	"1830"	0
+76	"Brazil"	"1830"	164.8
+152	"Chile"	"1830"	0
+170	"Colombia"	"1830"	0
+218	"Ecuador"	"1830"	0
+328	"Guyana"	"1830"	0
+600	"Paraguay"	"1830"	0
+604	"Peru"	"1830"	162.5
+858	"Uruguay"	"1830"	0
+36	"Australia"	"1830"	0
+554	"New Zealand"	"1830"	0
+598	"Papua New Guinea"	"1830"	0
+4	"Afghanistan"	"1830"	0
+50	"Bangladesh"	"1830"	0
+356	"India"	"1830"	0
+364	"Iran (Islamic Republic of)"	"1830"	0
+524	"Nepal"	"1830"	0
+586	"Pakistan"	"1830"	0
+144	"Sri Lanka"	"1830"	0
+156	"China"	"1830"	165.8
+344	"Hong Kong China"	"1830"	0
+408	"Democratic People's Republic of Korea"	"1830"	0
+392	"Japan"	"1830"	0
+496	"Mongolia"	"1830"	0
+410	"Korea"	"1830"	0
+9002	"Taiwan"	"1830"	0
+116	"Cambodia"	"1830"	0
+360	"Indonesia"	"1830"	161.277
+418	"Lao People's Democratic Republic"	"1830"	0
+458	"Malaysia"	"1830"	0
+104	"Myanmar"	"1830"	0
+608	"Philippines"	"1830"	0
+702	"Singapore"	"1830"	0
+764	"Thailand"	"1830"	0
+704	"Viet Nam"	"1830"	157.9
+51	"Armenia"	"1830"	0
+31	"Azerbaijan"	"1830"	0
+48	"Bahrain"	"1830"	0
+196	"Cyprus"	"1830"	0
+268	"Georgia"	"1830"	0
+368	"Iraq"	"1830"	0
+376	"Israel"	"1830"	0
+400	"Jordan"	"1830"	0
+414	"Kuwait"	"1830"	0
+422	"Lebanon"	"1830"	0
+275	"Palestinian Authority"	"1830"	0
+512	"Oman"	"1830"	0
+682	"Saudi Arabia"	"1830"	0
+760	"Syrian Arab Republic"	"1830"	0
+792	"Turkey"	"1830"	0
+784	"United Arab Emirates"	"1830"	0
+887	"Yemen"	"1830"	0
+398	"Kazakhstan"	"1830"	0
+417	"Kyrgyzstan"	"1830"	0
+762	"Tajikistan"	"1830"	0
+795	"Turkmenistan"	"1830"	0
+860	"Uzbekistan"	"1830"	0
+12	"Algeria"	"1830"	0
+818	"Egypt"	"1830"	0
+434	"Libya"	"1830"	0
+504	"Morocco"	"1830"	0
+729	"Sudan (North)"	"1830"	0
+788	"Tunisia"	"1830"	0
+204	"Benin"	"1830"	164.9
+854	"Burkina Faso"	"1830"	166.72
+132	"Cape Verde"	"1830"	0
+384	"Cote d'Ivoire"	"1830"	165.1
+270	"Gambia"	"1830"	0
+288	"Ghana"	"1830"	164.1
+324	"Guinea"	"1830"	0
+624	"Guinea-Bissau"	"1830"	165.4
+430	"Liberia"	"1830"	0
+466	"Mali"	"1830"	0
+478	"Mauritania"	"1830"	0
+562	"Niger"	"1830"	0
+566	"Nigeria"	"1830"	162.239
+686	"Senegal"	"1830"	165.4
+694	"Sierra Leone"	"1830"	162.16
+768	"Togo"	"1830"	0
+24	"Angola"	"1830"	160.5
+120	"Cameroon"	"1830"	165.9
+140	"Central African Republic"	"1830"	0
+148	"Chad"	"1830"	0
+178	"Congo"	"1830"	163.3
+180	"Democratic Republic of the Congo"	"1830"	163.3
+226	"Equatorial Guinea"	"1830"	0
+266	"Gabon"	"1830"	165.4
+72	"Botswana"	"1830"	0
+426	"Lesotho"	"1830"	0
+516	"Namibia"	"1830"	0
+710	"South Africa"	"1830"	0
+748	"Swaziland"	"1830"	0
+108	"Burundi"	"1830"	0
+174	"Comoros"	"1830"	0
+262	"Djibouti"	"1830"	0
+232	"Eritrea"	"1830"	0
+404	"Kenya"	"1830"	0
+450	"Madagascar"	"1830"	0
+454	"Malawi"	"1830"	0
+480	"Mauritius"	"1830"	0
+508	"Mozambique"	"1830"	164.1
+646	"Rwanda"	"1830"	0
+706	"Somalia"	"1830"	0
+800	"Uganda"	"1830"	0
+834	"United Republic of Tanzania"	"1830"	0
+894	"Zambia"	"1830"	0
+716	"Zimbabwe"	"1830"	0
+40	"Austria"	"1840"	164.8
+56	"Belgium"	"1840"	165.1
+250	"France"	"1840"	164.3
+276	"Germany"	"1840"	166.6
+528	"Netherlands"	"1840"	164.5
+756	"Switzerland"	"1840"	166.3
+208	"Denmark"	"1840"	165.4
+233	"Estonia"	"1840"	166.7
+246	"Finland"	"1840"	169.5
+372	"Ireland"	"1840"	160.9
+428	"Latvia"	"1840"	166.5
+440	"Lithuania"	"1840"	165.3
+578	"Norway"	"1840"	168
+752	"Sweden"	"1840"	167.9
+826	"United Kingdom"	"1840"	166.5
+8	"Albania"	"1840"	0
+70	"Bosnia and Herzegovina"	"1840"	0
+191	"Croatia"	"1840"	161.2
+300	"Greece"	"1840"	0
+380	"Italy"	"1840"	162
+620	"Portugal"	"1840"	163.539
+688	"Serbia"	"1840"	0
+705	"Slovenia"	"1840"	0
+724	"Spain"	"1840"	163.7
+807	"Former Yugoslav Republic of Macedonia"	"1840"	0
+112	"Belarus"	"1840"	163.9
+100	"Bulgaria"	"1840"	0
+203	"Czech Republic"	"1840"	164.8
+348	"Hungary"	"1840"	164
+616	"Poland"	"1840"	163.1
+498	"Republic of Moldova"	"1840"	165.1
+642	"Romania"	"1840"	164
+643	"Russian Federation"	"1840"	164.2
+703	"Slovakia"	"1840"	0
+804	"Ukraine"	"1840"	164.1
+124	"Canada"	"1840"	170.4
+840	"United States of America"	"1840"	172.2
+192	"Cuba"	"1840"	0
+214	"Dominican Republic"	"1840"	0
+332	"Haiti"	"1840"	0
+388	"Jamaica"	"1840"	0
+630	"Puerto Rico"	"1840"	0
+780	"Trinidad and Tobago"	"1840"	0
+188	"Costa Rica"	"1840"	0
+222	"El Salvador"	"1840"	0
+320	"Guatemala"	"1840"	0
+340	"Honduras"	"1840"	0
+484	"Mexico"	"1840"	162.5
+558	"Nicaragua"	"1840"	0
+591	"Panama"	"1840"	0
+32	"Argentina"	"1840"	169.6
+68	"Bolivia (Plurinational State of)"	"1840"	0
+76	"Brazil"	"1840"	164.6
+152	"Chile"	"1840"	0
+170	"Colombia"	"1840"	0
+218	"Ecuador"	"1840"	0
+328	"Guyana"	"1840"	0
+600	"Paraguay"	"1840"	0
+604	"Peru"	"1840"	161.3
+858	"Uruguay"	"1840"	0
+36	"Australia"	"1840"	0
+554	"New Zealand"	"1840"	0
+598	"Papua New Guinea"	"1840"	0
+4	"Afghanistan"	"1840"	0
+50	"Bangladesh"	"1840"	0
+356	"India"	"1840"	160.304
+364	"Iran (Islamic Republic of)"	"1840"	0
+524	"Nepal"	"1840"	0
+586	"Pakistan"	"1840"	165.1
+144	"Sri Lanka"	"1840"	0
+156	"China"	"1840"	166.2
+344	"Hong Kong China"	"1840"	0
+408	"Democratic People's Republic of Korea"	"1840"	0
+392	"Japan"	"1840"	0
+496	"Mongolia"	"1840"	0
+410	"Korea"	"1840"	0
+9002	"Taiwan"	"1840"	0
+116	"Cambodia"	"1840"	161.6
+360	"Indonesia"	"1840"	160.352
+418	"Lao People's Democratic Republic"	"1840"	159.6
+458	"Malaysia"	"1840"	159.3
+104	"Myanmar"	"1840"	0
+608	"Philippines"	"1840"	0
+702	"Singapore"	"1840"	0
+764	"Thailand"	"1840"	0
+704	"Viet Nam"	"1840"	157.5
+51	"Armenia"	"1840"	0
+31	"Azerbaijan"	"1840"	0
+48	"Bahrain"	"1840"	0
+196	"Cyprus"	"1840"	0
+268	"Georgia"	"1840"	165.5
+368	"Iraq"	"1840"	0
+376	"Israel"	"1840"	0
+400	"Jordan"	"1840"	0
+414	"Kuwait"	"1840"	0
+422	"Lebanon"	"1840"	0
+275	"Palestinian Authority"	"1840"	0
+512	"Oman"	"1840"	0
+682	"Saudi Arabia"	"1840"	0
+760	"Syrian Arab Republic"	"1840"	0
+792	"Turkey"	"1840"	0
+784	"United Arab Emirates"	"1840"	0
+887	"Yemen"	"1840"	0
+398	"Kazakhstan"	"1840"	165.3
+417	"Kyrgyzstan"	"1840"	0
+762	"Tajikistan"	"1840"	0
+795	"Turkmenistan"	"1840"	0
+860	"Uzbekistan"	"1840"	0
+12	"Algeria"	"1840"	0
+818	"Egypt"	"1840"	0
+434	"Libya"	"1840"	0
+504	"Morocco"	"1840"	0
+729	"Sudan (North)"	"1840"	0
+788	"Tunisia"	"1840"	0
+204	"Benin"	"1840"	164.9
+854	"Burkina Faso"	"1840"	162.59
+132	"Cape Verde"	"1840"	0
+384	"Cote d'Ivoire"	"1840"	165.1
+270	"Gambia"	"1840"	0
+288	"Ghana"	"1840"	164.1
+324	"Guinea"	"1840"	0
+624	"Guinea-Bissau"	"1840"	165.4
+430	"Liberia"	"1840"	0
+466	"Mali"	"1840"	0
+478	"Mauritania"	"1840"	0
+562	"Niger"	"1840"	0
+566	"Nigeria"	"1840"	162.239
+686	"Senegal"	"1840"	165.4
+694	"Sierra Leone"	"1840"	162.16
+768	"Togo"	"1840"	0
+24	"Angola"	"1840"	160.5
+120	"Cameroon"	"1840"	165.9
+140	"Central African Republic"	"1840"	0
+148	"Chad"	"1840"	0
+178	"Congo"	"1840"	163.3
+180	"Democratic Republic of the Congo"	"1840"	163.3
+226	"Equatorial Guinea"	"1840"	0
+266	"Gabon"	"1840"	165.4
+72	"Botswana"	"1840"	0
+426	"Lesotho"	"1840"	0
+516	"Namibia"	"1840"	0
+710	"South Africa"	"1840"	0
+748	"Swaziland"	"1840"	0
+108	"Burundi"	"1840"	0
+174	"Comoros"	"1840"	0
+262	"Djibouti"	"1840"	0
+232	"Eritrea"	"1840"	0
+404	"Kenya"	"1840"	0
+450	"Madagascar"	"1840"	0
+454	"Malawi"	"1840"	0
+480	"Mauritius"	"1840"	0
+508	"Mozambique"	"1840"	164.1
+646	"Rwanda"	"1840"	0
+706	"Somalia"	"1840"	0
+800	"Uganda"	"1840"	0
+834	"United Republic of Tanzania"	"1840"	0
+894	"Zambia"	"1840"	0
+716	"Zimbabwe"	"1840"	0
+40	"Austria"	"1850"	165.8
+56	"Belgium"	"1850"	166.1
+250	"France"	"1850"	165.2
+276	"Germany"	"1850"	163.8
+528	"Netherlands"	"1850"	165.3
+756	"Switzerland"	"1850"	166.3
+208	"Denmark"	"1850"	167.4
+233	"Estonia"	"1850"	166.7
+246	"Finland"	"1850"	169.5
+372	"Ireland"	"1850"	160.9
+428	"Latvia"	"1850"	166.5
+440	"Lithuania"	"1850"	165.3
+578	"Norway"	"1850"	169.1
+752	"Sweden"	"1850"	168.4
+826	"United Kingdom"	"1850"	165.6
+8	"Albania"	"1850"	0
+70	"Bosnia and Herzegovina"	"1850"	0
+191	"Croatia"	"1850"	168.1
+300	"Greece"	"1850"	0
+380	"Italy"	"1850"	162.9
+620	"Portugal"	"1850"	164.16
+688	"Serbia"	"1850"	166.2
+705	"Slovenia"	"1850"	0
+724	"Spain"	"1850"	162.5
+807	"Former Yugoslav Republic of Macedonia"	"1850"	0
+112	"Belarus"	"1850"	163.9
+100	"Bulgaria"	"1850"	0
+203	"Czech Republic"	"1850"	165.5
+348	"Hungary"	"1850"	163.7
+616	"Poland"	"1850"	163.1
+498	"Republic of Moldova"	"1850"	165.1
+642	"Romania"	"1850"	163.4
+643	"Russian Federation"	"1850"	163.4
+703	"Slovakia"	"1850"	164.1
+804	"Ukraine"	"1850"	163.1
+124	"Canada"	"1850"	172.466
+840	"United States of America"	"1850"	171.1
+192	"Cuba"	"1850"	0
+214	"Dominican Republic"	"1850"	0
+332	"Haiti"	"1850"	0
+388	"Jamaica"	"1850"	0
+630	"Puerto Rico"	"1850"	0
+780	"Trinidad and Tobago"	"1850"	0
+188	"Costa Rica"	"1850"	0
+222	"El Salvador"	"1850"	0
+320	"Guatemala"	"1850"	0
+340	"Honduras"	"1850"	0
+484	"Mexico"	"1850"	163.4
+558	"Nicaragua"	"1850"	0
+591	"Panama"	"1850"	0
+32	"Argentina"	"1850"	168.2
+68	"Bolivia (Plurinational State of)"	"1850"	0
+76	"Brazil"	"1850"	164.5
+152	"Chile"	"1850"	0
+170	"Colombia"	"1850"	0
+218	"Ecuador"	"1850"	0
+328	"Guyana"	"1850"	0
+600	"Paraguay"	"1850"	0
+604	"Peru"	"1850"	161.8
+858	"Uruguay"	"1850"	0
+36	"Australia"	"1850"	170
+554	"New Zealand"	"1850"	0
+598	"Papua New Guinea"	"1850"	0
+4	"Afghanistan"	"1850"	0
+50	"Bangladesh"	"1850"	161.807
+356	"India"	"1850"	161.823
+364	"Iran (Islamic Republic of)"	"1850"	165.33
+524	"Nepal"	"1850"	0
+586	"Pakistan"	"1850"	162
+144	"Sri Lanka"	"1850"	0
+156	"China"	"1850"	166.2
+344	"Hong Kong China"	"1850"	0
+408	"Democratic People's Republic of Korea"	"1850"	0
+392	"Japan"	"1850"	0
+496	"Mongolia"	"1850"	0
+410	"Korea"	"1850"	0
+9002	"Taiwan"	"1850"	163.855
+116	"Cambodia"	"1850"	163.2
+360	"Indonesia"	"1850"	160.58
+418	"Lao People's Democratic Republic"	"1850"	160
+458	"Malaysia"	"1850"	159.3
+104	"Myanmar"	"1850"	161.1
+608	"Philippines"	"1850"	0
+702	"Singapore"	"1850"	0
+764	"Thailand"	"1850"	0
+704	"Viet Nam"	"1850"	158.4
+51	"Armenia"	"1850"	169.324
+31	"Azerbaijan"	"1850"	170.185
+48	"Bahrain"	"1850"	0
+196	"Cyprus"	"1850"	0
+268	"Georgia"	"1850"	165.5
+368	"Iraq"	"1850"	0
+376	"Israel"	"1850"	169.06
+400	"Jordan"	"1850"	0
+414	"Kuwait"	"1850"	0
+422	"Lebanon"	"1850"	166.45
+275	"Palestinian Authority"	"1850"	0
+512	"Oman"	"1850"	0
+682	"Saudi Arabia"	"1850"	0
+760	"Syrian Arab Republic"	"1850"	166.34
+792	"Turkey"	"1850"	168.66
+784	"United Arab Emirates"	"1850"	0
+887	"Yemen"	"1850"	162.26
+398	"Kazakhstan"	"1850"	164.6
+417	"Kyrgyzstan"	"1850"	0
+762	"Tajikistan"	"1850"	0
+795	"Turkmenistan"	"1850"	0
+860	"Uzbekistan"	"1850"	0
+12	"Algeria"	"1850"	0
+818	"Egypt"	"1850"	166.35
+434	"Libya"	"1850"	0
+504	"Morocco"	"1850"	0
+729	"Sudan (North)"	"1850"	0
+788	"Tunisia"	"1850"	0
+204	"Benin"	"1850"	164.9
+854	"Burkina Faso"	"1850"	162.59
+132	"Cape Verde"	"1850"	0
+384	"Cote d'Ivoire"	"1850"	170.523
+270	"Gambia"	"1850"	0
+288	"Ghana"	"1850"	164.1
+324	"Guinea"	"1850"	0
+624	"Guinea-Bissau"	"1850"	165.4
+430	"Liberia"	"1850"	0
+466	"Mali"	"1850"	166.467
+478	"Mauritania"	"1850"	0
+562	"Niger"	"1850"	0
+566	"Nigeria"	"1850"	162.239
+686	"Senegal"	"1850"	165.4
+694	"Sierra Leone"	"1850"	162.16
+768	"Togo"	"1850"	0
+24	"Angola"	"1850"	160.5
+120	"Cameroon"	"1850"	165.9
+140	"Central African Republic"	"1850"	0
+148	"Chad"	"1850"	0
+178	"Congo"	"1850"	167.605
+180	"Democratic Republic of the Congo"	"1850"	163.3
+226	"Equatorial Guinea"	"1850"	0
+266	"Gabon"	"1850"	165.4
+72	"Botswana"	"1850"	0
+426	"Lesotho"	"1850"	0
+516	"Namibia"	"1850"	0
+710	"South Africa"	"1850"	0
+748	"Swaziland"	"1850"	0
+108	"Burundi"	"1850"	0
+174	"Comoros"	"1850"	0
+262	"Djibouti"	"1850"	0
+232	"Eritrea"	"1850"	0
+404	"Kenya"	"1850"	0
+450	"Madagascar"	"1850"	0
+454	"Malawi"	"1850"	0
+480	"Mauritius"	"1850"	0
+508	"Mozambique"	"1850"	164.1
+646	"Rwanda"	"1850"	0
+706	"Somalia"	"1850"	0
+800	"Uganda"	"1850"	0
+834	"United Republic of Tanzania"	"1850"	0
+894	"Zambia"	"1850"	0
+716	"Zimbabwe"	"1850"	0
+40	"Austria"	"1860"	166.4
+56	"Belgium"	"1860"	166.6
+250	"France"	"1860"	165.4
+276	"Germany"	"1860"	165.5
+528	"Netherlands"	"1860"	166.5
+756	"Switzerland"	"1860"	166.3
+208	"Denmark"	"1860"	168.1
+233	"Estonia"	"1860"	166.7
+246	"Finland"	"1860"	167.3
+372	"Ireland"	"1860"	160.9
+428	"Latvia"	"1860"	166.5
+440	"Lithuania"	"1860"	165.3
+578	"Norway"	"1860"	169.7
+752	"Sweden"	"1860"	169.3
+826	"United Kingdom"	"1860"	166.6
+8	"Albania"	"1860"	0
+70	"Bosnia and Herzegovina"	"1860"	0
+191	"Croatia"	"1860"	165.9
+300	"Greece"	"1860"	0
+380	"Italy"	"1860"	163.1
+620	"Portugal"	"1860"	164.066
+688	"Serbia"	"1860"	166.2
+705	"Slovenia"	"1860"	0
+724	"Spain"	"1860"	162.7
+807	"Former Yugoslav Republic of Macedonia"	"1860"	0
+112	"Belarus"	"1860"	163.9
+100	"Bulgaria"	"1860"	0
+203	"Czech Republic"	"1860"	166
+348	"Hungary"	"1860"	165.3
+616	"Poland"	"1860"	165.5
+498	"Republic of Moldova"	"1860"	165.1
+642	"Romania"	"1860"	164.1
+643	"Russian Federation"	"1860"	163.3
+703	"Slovakia"	"1860"	163.5
+804	"Ukraine"	"1860"	163.1
+124	"Canada"	"1860"	172
+840	"United States of America"	"1860"	170.6
+192	"Cuba"	"1860"	0
+214	"Dominican Republic"	"1860"	0
+332	"Haiti"	"1860"	0
+388	"Jamaica"	"1860"	0
+630	"Puerto Rico"	"1860"	0
+780	"Trinidad and Tobago"	"1860"	0
+188	"Costa Rica"	"1860"	0
+222	"El Salvador"	"1860"	0
+320	"Guatemala"	"1860"	0
+340	"Honduras"	"1860"	0
+484	"Mexico"	"1860"	162.9
+558	"Nicaragua"	"1860"	0
+591	"Panama"	"1860"	0
+32	"Argentina"	"1860"	167.4
+68	"Bolivia (Plurinational State of)"	"1860"	0
+76	"Brazil"	"1860"	165
+152	"Chile"	"1860"	0
+170	"Colombia"	"1860"	0
+218	"Ecuador"	"1860"	0
+328	"Guyana"	"1860"	0
+600	"Paraguay"	"1860"	0
+604	"Peru"	"1860"	161.7
+858	"Uruguay"	"1860"	0
+36	"Australia"	"1860"	170.6
+554	"New Zealand"	"1860"	172.4
+598	"Papua New Guinea"	"1860"	0
+4	"Afghanistan"	"1860"	0
+50	"Bangladesh"	"1860"	162.346
+356	"India"	"1860"	162.979
+364	"Iran (Islamic Republic of)"	"1860"	165.33
+524	"Nepal"	"1860"	0
+586	"Pakistan"	"1860"	164.6
+144	"Sri Lanka"	"1860"	0
+156	"China"	"1860"	165.7
+344	"Hong Kong China"	"1860"	0
+408	"Democratic People's Republic of Korea"	"1860"	0
+392	"Japan"	"1860"	0
+496	"Mongolia"	"1860"	0
+410	"Korea"	"1860"	0
+9002	"Taiwan"	"1860"	163.86
+116	"Cambodia"	"1860"	164.9
+360	"Indonesia"	"1860"	160.43
+418	"Lao People's Democratic Republic"	"1860"	159
+458	"Malaysia"	"1860"	161
+104	"Myanmar"	"1860"	164
+608	"Philippines"	"1860"	155
+702	"Singapore"	"1860"	0
+764	"Thailand"	"1860"	160.1
+704	"Viet Nam"	"1860"	158.3
+51	"Armenia"	"1860"	167.62
+31	"Azerbaijan"	"1860"	170.816
+48	"Bahrain"	"1860"	0
+196	"Cyprus"	"1860"	168.783
+268	"Georgia"	"1860"	163
+368	"Iraq"	"1860"	0
+376	"Israel"	"1860"	168.85
+400	"Jordan"	"1860"	0
+414	"Kuwait"	"1860"	0
+422	"Lebanon"	"1860"	167.16
+275	"Palestinian Authority"	"1860"	0
+512	"Oman"	"1860"	0
+682	"Saudi Arabia"	"1860"	0
+760	"Syrian Arab Republic"	"1860"	167.98
+792	"Turkey"	"1860"	169.06
+784	"United Arab Emirates"	"1860"	0
+887	"Yemen"	"1860"	161.12
+398	"Kazakhstan"	"1860"	164.6
+417	"Kyrgyzstan"	"1860"	0
+762	"Tajikistan"	"1860"	165
+795	"Turkmenistan"	"1860"	0
+860	"Uzbekistan"	"1860"	0
+12	"Algeria"	"1860"	0
+818	"Egypt"	"1860"	167.69
+434	"Libya"	"1860"	0
+504	"Morocco"	"1860"	0
+729	"Sudan (North)"	"1860"	0
+788	"Tunisia"	"1860"	0
+204	"Benin"	"1860"	164.9
+854	"Burkina Faso"	"1860"	162.59
+132	"Cape Verde"	"1860"	0
+384	"Cote d'Ivoire"	"1860"	170.523
+270	"Gambia"	"1860"	0
+288	"Ghana"	"1860"	167.757
+324	"Guinea"	"1860"	0
+624	"Guinea-Bissau"	"1860"	165.4
+430	"Liberia"	"1860"	0
+466	"Mali"	"1860"	166.467
+478	"Mauritania"	"1860"	0
+562	"Niger"	"1860"	0
+566	"Nigeria"	"1860"	162.239
+686	"Senegal"	"1860"	172.545
+694	"Sierra Leone"	"1860"	162.16
+768	"Togo"	"1860"	165.345
+24	"Angola"	"1860"	160.5
+120	"Cameroon"	"1860"	165.145
+140	"Central African Republic"	"1860"	0
+148	"Chad"	"1860"	0
+178	"Congo"	"1860"	166.043
+180	"Democratic Republic of the Congo"	"1860"	163.3
+226	"Equatorial Guinea"	"1860"	0
+266	"Gabon"	"1860"	165.4
+72	"Botswana"	"1860"	0
+426	"Lesotho"	"1860"	0
+516	"Namibia"	"1860"	0
+710	"South Africa"	"1860"	0
+748	"Swaziland"	"1860"	0
+108	"Burundi"	"1860"	0
+174	"Comoros"	"1860"	0
+262	"Djibouti"	"1860"	0
+232	"Eritrea"	"1860"	166.282
+404	"Kenya"	"1860"	0
+450	"Madagascar"	"1860"	163.918
+454	"Malawi"	"1860"	0
+480	"Mauritius"	"1860"	0
+508	"Mozambique"	"1860"	164.1
+646	"Rwanda"	"1860"	0
+706	"Somalia"	"1860"	0
+800	"Uganda"	"1860"	0
+834	"United Republic of Tanzania"	"1860"	0
+894	"Zambia"	"1860"	0
+716	"Zimbabwe"	"1860"	0
+40	"Austria"	"1870"	167.2
+56	"Belgium"	"1870"	166.6
+250	"France"	"1870"	165.5
+276	"Germany"	"1870"	166.9
+528	"Netherlands"	"1870"	167.1
+756	"Switzerland"	"1870"	164.7
+208	"Denmark"	"1870"	168.1
+233	"Estonia"	"1870"	167.6
+246	"Finland"	"1870"	167.3
+372	"Ireland"	"1870"	168.45
+428	"Latvia"	"1870"	166.5
+440	"Lithuania"	"1870"	165.3
+578	"Norway"	"1870"	170.4
+752	"Sweden"	"1870"	170.3
+826	"United Kingdom"	"1870"	167.15
+8	"Albania"	"1870"	0
+70	"Bosnia and Herzegovina"	"1870"	0
+191	"Croatia"	"1870"	166.8
+300	"Greece"	"1870"	168.5
+380	"Italy"	"1870"	163.5
+620	"Portugal"	"1870"	164.688
+688	"Serbia"	"1870"	169.7
+705	"Slovenia"	"1870"	168.3
+724	"Spain"	"1870"	162.6
+807	"Former Yugoslav Republic of Macedonia"	"1870"	0
+112	"Belarus"	"1870"	163.9
+100	"Bulgaria"	"1870"	0
+203	"Czech Republic"	"1870"	167
+348	"Hungary"	"1870"	166.388
+616	"Poland"	"1870"	166.3
+498	"Republic of Moldova"	"1870"	165.1
+642	"Romania"	"1870"	165.367
+643	"Russian Federation"	"1870"	165.8
+703	"Slovakia"	"1870"	165.1
+804	"Ukraine"	"1870"	164.6
+124	"Canada"	"1870"	171.2
+840	"United States of America"	"1870"	171.1
+192	"Cuba"	"1870"	167.1
+214	"Dominican Republic"	"1870"	0
+332	"Haiti"	"1870"	0
+388	"Jamaica"	"1870"	0
+630	"Puerto Rico"	"1870"	0
+780	"Trinidad and Tobago"	"1870"	0
+188	"Costa Rica"	"1870"	0
+222	"El Salvador"	"1870"	0
+320	"Guatemala"	"1870"	0
+340	"Honduras"	"1870"	0
+484	"Mexico"	"1870"	163.7
+558	"Nicaragua"	"1870"	0
+591	"Panama"	"1870"	0
+32	"Argentina"	"1870"	167.6
+68	"Bolivia (Plurinational State of)"	"1870"	0
+76	"Brazil"	"1870"	166.5
+152	"Chile"	"1870"	0
+170	"Colombia"	"1870"	161.085
+218	"Ecuador"	"1870"	0
+328	"Guyana"	"1870"	0
+600	"Paraguay"	"1870"	0
+604	"Peru"	"1870"	161.3
+858	"Uruguay"	"1870"	0
+36	"Australia"	"1870"	170.053
+554	"New Zealand"	"1870"	172.4
+598	"Papua New Guinea"	"1870"	0
+4	"Afghanistan"	"1870"	168.4
+50	"Bangladesh"	"1870"	163.684
+356	"India"	"1870"	163.782
+364	"Iran (Islamic Republic of)"	"1870"	168.26
+524	"Nepal"	"1870"	0
+586	"Pakistan"	"1870"	165.2
+144	"Sri Lanka"	"1870"	162.5
+156	"China"	"1870"	165.8
+344	"Hong Kong China"	"1870"	0
+408	"Democratic People's Republic of Korea"	"1870"	163.41
+392	"Japan"	"1870"	0
+496	"Mongolia"	"1870"	0
+410	"Korea"	"1870"	163.41
+9002	"Taiwan"	"1870"	163.36
+116	"Cambodia"	"1870"	159
+360	"Indonesia"	"1870"	158.085
+418	"Lao People's Democratic Republic"	"1870"	159.1
+458	"Malaysia"	"1870"	157.2
+104	"Myanmar"	"1870"	161.3
+608	"Philippines"	"1870"	159.5
+702	"Singapore"	"1870"	0
+764	"Thailand"	"1870"	161.5
+704	"Viet Nam"	"1870"	158.3
+51	"Armenia"	"1870"	167.62
+31	"Azerbaijan"	"1870"	170.816
+48	"Bahrain"	"1870"	0
+196	"Cyprus"	"1870"	169.778
+268	"Georgia"	"1870"	163
+368	"Iraq"	"1870"	0
+376	"Israel"	"1870"	168.85
+400	"Jordan"	"1870"	0
+414	"Kuwait"	"1870"	0
+422	"Lebanon"	"1870"	167.16
+275	"Palestinian Authority"	"1870"	0
+512	"Oman"	"1870"	0
+682	"Saudi Arabia"	"1870"	0
+760	"Syrian Arab Republic"	"1870"	167.98
+792	"Turkey"	"1870"	170.08
+784	"United Arab Emirates"	"1870"	0
+887	"Yemen"	"1870"	161.12
+398	"Kazakhstan"	"1870"	163.4
+417	"Kyrgyzstan"	"1870"	0
+762	"Tajikistan"	"1870"	164.8
+795	"Turkmenistan"	"1870"	0
+860	"Uzbekistan"	"1870"	0
+12	"Algeria"	"1870"	0
+818	"Egypt"	"1870"	166.88
+434	"Libya"	"1870"	0
+504	"Morocco"	"1870"	0
+729	"Sudan (North)"	"1870"	167.99
+788	"Tunisia"	"1870"	0
+204	"Benin"	"1870"	164.9
+854	"Burkina Faso"	"1870"	171.2
+132	"Cape Verde"	"1870"	0
+384	"Cote d'Ivoire"	"1870"	169.756
+270	"Gambia"	"1870"	0
+288	"Ghana"	"1870"	167.757
+324	"Guinea"	"1870"	169.885
+624	"Guinea-Bissau"	"1870"	165.4
+430	"Liberia"	"1870"	0
+466	"Mali"	"1870"	166.467
+478	"Mauritania"	"1870"	0
+562	"Niger"	"1870"	167.298
+566	"Nigeria"	"1870"	165.612
+686	"Senegal"	"1870"	168.157
+694	"Sierra Leone"	"1870"	162.16
+768	"Togo"	"1870"	165.345
+24	"Angola"	"1870"	160.5
+120	"Cameroon"	"1870"	165.715
+140	"Central African Republic"	"1870"	0
+148	"Chad"	"1870"	169.793
+178	"Congo"	"1870"	166.043
+180	"Democratic Republic of the Congo"	"1870"	165.734
+226	"Equatorial Guinea"	"1870"	0
+266	"Gabon"	"1870"	165.4
+72	"Botswana"	"1870"	0
+426	"Lesotho"	"1870"	0
+516	"Namibia"	"1870"	0
+710	"South Africa"	"1870"	0
+748	"Swaziland"	"1870"	0
+108	"Burundi"	"1870"	0
+174	"Comoros"	"1870"	0
+262	"Djibouti"	"1870"	0
+232	"Eritrea"	"1870"	166.282
+404	"Kenya"	"1870"	0
+450	"Madagascar"	"1870"	163.918
+454	"Malawi"	"1870"	166.65
+480	"Mauritius"	"1870"	0
+508	"Mozambique"	"1870"	167.05
+646	"Rwanda"	"1870"	0
+706	"Somalia"	"1870"	0
+800	"Uganda"	"1870"	168.07
+834	"United Republic of Tanzania"	"1870"	167.769
+894	"Zambia"	"1870"	0
+716	"Zimbabwe"	"1870"	0
+40	"Austria"	"1880"	167.7
+56	"Belgium"	"1880"	166.6
+250	"France"	"1880"	165.9
+276	"Germany"	"1880"	167.9
+528	"Netherlands"	"1880"	168.5
+756	"Switzerland"	"1880"	166.8
+208	"Denmark"	"1880"	169.5
+233	"Estonia"	"1880"	167.6
+246	"Finland"	"1880"	167.3
+372	"Ireland"	"1880"	168.7
+428	"Latvia"	"1880"	170.6
+440	"Lithuania"	"1880"	165.3
+578	"Norway"	"1880"	171.1
+752	"Sweden"	"1880"	171.2
+826	"United Kingdom"	"1880"	167.95
+8	"Albania"	"1880"	170.1
+70	"Bosnia and Herzegovina"	"1880"	0
+191	"Croatia"	"1880"	168.9
+300	"Greece"	"1880"	167.26
+380	"Italy"	"1880"	163.9
+620	"Portugal"	"1880"	164.161
+688	"Serbia"	"1880"	167.1
+705	"Slovenia"	"1880"	168.3
+724	"Spain"	"1880"	163.9
+807	"Former Yugoslav Republic of Macedonia"	"1880"	0
+112	"Belarus"	"1880"	163.9
+100	"Bulgaria"	"1880"	167.6
+203	"Czech Republic"	"1880"	167.6
+348	"Hungary"	"1880"	169.1
+616	"Poland"	"1880"	166.8
+498	"Republic of Moldova"	"1880"	165.1
+642	"Romania"	"1880"	164.1
+643	"Russian Federation"	"1880"	166.6
+703	"Slovakia"	"1880"	165.8
+804	"Ukraine"	"1880"	165.4
+124	"Canada"	"1880"	171.2
+840	"United States of America"	"1880"	169.5
+192	"Cuba"	"1880"	166.8
+214	"Dominican Republic"	"1880"	0
+332	"Haiti"	"1880"	0
+388	"Jamaica"	"1880"	0
+630	"Puerto Rico"	"1880"	0
+780	"Trinidad and Tobago"	"1880"	0
+188	"Costa Rica"	"1880"	0
+222	"El Salvador"	"1880"	0
+320	"Guatemala"	"1880"	0
+340	"Honduras"	"1880"	0
+484	"Mexico"	"1880"	163.9
+558	"Nicaragua"	"1880"	0
+591	"Panama"	"1880"	0
+32	"Argentina"	"1880"	167.565
+68	"Bolivia (Plurinational State of)"	"1880"	0
+76	"Brazil"	"1880"	166.1
+152	"Chile"	"1880"	0
+170	"Colombia"	"1880"	162.08
+218	"Ecuador"	"1880"	0
+328	"Guyana"	"1880"	159.16
+600	"Paraguay"	"1880"	0
+604	"Peru"	"1880"	161.5
+858	"Uruguay"	"1880"	164.98
+36	"Australia"	"1880"	171.1
+554	"New Zealand"	"1880"	172.7
+598	"Papua New Guinea"	"1880"	152.359
+4	"Afghanistan"	"1880"	165.69
+50	"Bangladesh"	"1880"	162.061
+356	"India"	"1880"	162.427
+364	"Iran (Islamic Republic of)"	"1880"	165.19
+524	"Nepal"	"1880"	162.433
+586	"Pakistan"	"1880"	165.2
+144	"Sri Lanka"	"1880"	162.5
+156	"China"	"1880"	165.3
+344	"Hong Kong China"	"1880"	0
+408	"Democratic People's Republic of Korea"	"1880"	160.1
+392	"Japan"	"1880"	157.79
+496	"Mongolia"	"1880"	0
+410	"Korea"	"1880"	160.1
+9002	"Taiwan"	"1880"	162.898
+116	"Cambodia"	"1880"	161.7
+360	"Indonesia"	"1880"	158.58
+418	"Lao People's Democratic Republic"	"1880"	159.1
+458	"Malaysia"	"1880"	157.2
+104	"Myanmar"	"1880"	160.698
+608	"Philippines"	"1880"	158.9
+702	"Singapore"	"1880"	0
+764	"Thailand"	"1880"	162.3
+704	"Viet Nam"	"1880"	157.7
+51	"Armenia"	"1880"	167.62
+31	"Azerbaijan"	"1880"	170.816
+48	"Bahrain"	"1880"	0
+196	"Cyprus"	"1880"	169.086
+268	"Georgia"	"1880"	163
+368	"Iraq"	"1880"	168.37
+376	"Israel"	"1880"	168.85
+400	"Jordan"	"1880"	0
+414	"Kuwait"	"1880"	0
+422	"Lebanon"	"1880"	167.16
+275	"Palestinian Authority"	"1880"	0
+512	"Oman"	"1880"	0
+682	"Saudi Arabia"	"1880"	0
+760	"Syrian Arab Republic"	"1880"	162.2
+792	"Turkey"	"1880"	167.414
+784	"United Arab Emirates"	"1880"	0
+887	"Yemen"	"1880"	160.77
+398	"Kazakhstan"	"1880"	163.4
+417	"Kyrgyzstan"	"1880"	165.26
+762	"Tajikistan"	"1880"	166.6
+795	"Turkmenistan"	"1880"	0
+860	"Uzbekistan"	"1880"	0
+12	"Algeria"	"1880"	0
+818	"Egypt"	"1880"	162.99
+434	"Libya"	"1880"	0
+504	"Morocco"	"1880"	168.6
+729	"Sudan (North)"	"1880"	169.865
+788	"Tunisia"	"1880"	0
+204	"Benin"	"1880"	164.9
+854	"Burkina Faso"	"1880"	171.463
+132	"Cape Verde"	"1880"	0
+384	"Cote d'Ivoire"	"1880"	169.756
+270	"Gambia"	"1880"	0
+288	"Ghana"	"1880"	167.8
+324	"Guinea"	"1880"	169.885
+624	"Guinea-Bissau"	"1880"	165.4
+430	"Liberia"	"1880"	0
+466	"Mali"	"1880"	171.043
+478	"Mauritania"	"1880"	0
+562	"Niger"	"1880"	173
+566	"Nigeria"	"1880"	167.873
+686	"Senegal"	"1880"	168.157
+694	"Sierra Leone"	"1880"	162.16
+768	"Togo"	"1880"	165.345
+24	"Angola"	"1880"	168.8
+120	"Cameroon"	"1880"	166.556
+140	"Central African Republic"	"1880"	167.1
+148	"Chad"	"1880"	168.969
+178	"Congo"	"1880"	166.043
+180	"Democratic Republic of the Congo"	"1880"	163.2
+226	"Equatorial Guinea"	"1880"	0
+266	"Gabon"	"1880"	165.4
+72	"Botswana"	"1880"	0
+426	"Lesotho"	"1880"	0
+516	"Namibia"	"1880"	0
+710	"South Africa"	"1880"	0
+748	"Swaziland"	"1880"	0
+108	"Burundi"	"1880"	0
+174	"Comoros"	"1880"	0
+262	"Djibouti"	"1880"	0
+232	"Eritrea"	"1880"	165.342
+404	"Kenya"	"1880"	164.535
+450	"Madagascar"	"1880"	163.918
+454	"Malawi"	"1880"	166.65
+480	"Mauritius"	"1880"	0
+508	"Mozambique"	"1880"	167.05
+646	"Rwanda"	"1880"	0
+706	"Somalia"	"1880"	172.75
+800	"Uganda"	"1880"	166.311
+834	"United Republic of Tanzania"	"1880"	168.516
+894	"Zambia"	"1880"	0
+716	"Zimbabwe"	"1880"	0
+40	"Austria"	"1890"	168.4
+56	"Belgium"	"1890"	166.6
+250	"France"	"1890"	166.1
+276	"Germany"	"1890"	168.6
+528	"Netherlands"	"1890"	169.4
+756	"Switzerland"	"1890"	170.5
+208	"Denmark"	"1890"	169.2
+233	"Estonia"	"1890"	173.4
+246	"Finland"	"1890"	167.3
+372	"Ireland"	"1890"	169.1
+428	"Latvia"	"1890"	171.7
+440	"Lithuania"	"1890"	165.3
+578	"Norway"	"1890"	171.1
+752	"Sweden"	"1890"	172.4
+826	"United Kingdom"	"1890"	167.4
+8	"Albania"	"1890"	169.8
+70	"Bosnia and Herzegovina"	"1890"	0
+191	"Croatia"	"1890"	168.9
+300	"Greece"	"1890"	167.26
+380	"Italy"	"1890"	164.7
+620	"Portugal"	"1890"	164.15
+688	"Serbia"	"1890"	168.1
+705	"Slovenia"	"1890"	168.3
+724	"Spain"	"1890"	164
+807	"Former Yugoslav Republic of Macedonia"	"1890"	0
+112	"Belarus"	"1890"	163.9
+100	"Bulgaria"	"1890"	167.6
+203	"Czech Republic"	"1890"	169.783
+348	"Hungary"	"1890"	169.1
+616	"Poland"	"1890"	167.2
+498	"Republic of Moldova"	"1890"	165.1
+642	"Romania"	"1890"	164.1
+643	"Russian Federation"	"1890"	168.3
+703	"Slovakia"	"1890"	165.8
+804	"Ukraine"	"1890"	165.4
+124	"Canada"	"1890"	170.7
+840	"United States of America"	"1890"	169.1
+192	"Cuba"	"1890"	166
+214	"Dominican Republic"	"1890"	0
+332	"Haiti"	"1890"	0
+388	"Jamaica"	"1890"	170.2
+630	"Puerto Rico"	"1890"	164.53
+780	"Trinidad and Tobago"	"1890"	0
+188	"Costa Rica"	"1890"	0
+222	"El Salvador"	"1890"	0
+320	"Guatemala"	"1890"	156.3
+340	"Honduras"	"1890"	0
+484	"Mexico"	"1890"	163.9
+558	"Nicaragua"	"1890"	0
+591	"Panama"	"1890"	0
+32	"Argentina"	"1890"	167.792
+68	"Bolivia (Plurinational State of)"	"1890"	163.594
+76	"Brazil"	"1890"	167.1
+152	"Chile"	"1890"	0
+170	"Colombia"	"1890"	161.855
+218	"Ecuador"	"1890"	0
+328	"Guyana"	"1890"	157.45
+600	"Paraguay"	"1890"	0
+604	"Peru"	"1890"	161.5
+858	"Uruguay"	"1890"	164.98
+36	"Australia"	"1890"	171.3
+554	"New Zealand"	"1890"	172
+598	"Papua New Guinea"	"1890"	152.359
+4	"Afghanistan"	"1890"	165.69
+50	"Bangladesh"	"1890"	162.061
+356	"India"	"1890"	163.008
+364	"Iran (Islamic Republic of)"	"1890"	165.98
+524	"Nepal"	"1890"	162.433
+586	"Pakistan"	"1890"	165.04
+144	"Sri Lanka"	"1890"	162.5
+156	"China"	"1890"	164
+344	"Hong Kong China"	"1890"	0
+408	"Democratic People's Republic of Korea"	"1890"	160.7
+392	"Japan"	"1890"	157.79
+496	"Mongolia"	"1890"	0
+410	"Korea"	"1890"	160.7
+9002	"Taiwan"	"1890"	163.92
+116	"Cambodia"	"1890"	160.4
+360	"Indonesia"	"1890"	158.77
+418	"Lao People's Democratic Republic"	"1890"	160.6
+458	"Malaysia"	"1890"	155.8
+104	"Myanmar"	"1890"	163
+608	"Philippines"	"1890"	161.5
+702	"Singapore"	"1890"	0
+764	"Thailand"	"1890"	161
+704	"Viet Nam"	"1890"	158.5
+51	"Armenia"	"1890"	166.2
+31	"Azerbaijan"	"1890"	170.816
+48	"Bahrain"	"1890"	0
+196	"Cyprus"	"1890"	168.334
+268	"Georgia"	"1890"	164.26
+368	"Iraq"	"1890"	166.617
+376	"Israel"	"1890"	168.85
+400	"Jordan"	"1890"	0
+414	"Kuwait"	"1890"	0
+422	"Lebanon"	"1890"	166.39
+275	"Palestinian Authority"	"1890"	0
+512	"Oman"	"1890"	0
+682	"Saudi Arabia"	"1890"	0
+760	"Syrian Arab Republic"	"1890"	166.876
+792	"Turkey"	"1890"	168.41
+784	"United Arab Emirates"	"1890"	0
+887	"Yemen"	"1890"	162.72
+398	"Kazakhstan"	"1890"	164.8
+417	"Kyrgyzstan"	"1890"	164.03
+762	"Tajikistan"	"1890"	165.8
+795	"Turkmenistan"	"1890"	168.9
+860	"Uzbekistan"	"1890"	165.2
+12	"Algeria"	"1890"	0
+818	"Egypt"	"1890"	162.99
+434	"Libya"	"1890"	166.5
+504	"Morocco"	"1890"	168.6
+729	"Sudan (North)"	"1890"	169.836
+788	"Tunisia"	"1890"	0
+204	"Benin"	"1890"	164.9
+854	"Burkina Faso"	"1890"	167.9
+132	"Cape Verde"	"1890"	0
+384	"Cote d'Ivoire"	"1890"	168.83
+270	"Gambia"	"1890"	0
+288	"Ghana"	"1890"	164.2
+324	"Guinea"	"1890"	164.21
+624	"Guinea-Bissau"	"1890"	168.259
+430	"Liberia"	"1890"	0
+466	"Mali"	"1890"	169.376
+478	"Mauritania"	"1890"	0
+562	"Niger"	"1890"	173
+566	"Nigeria"	"1890"	167.873
+686	"Senegal"	"1890"	171.75
+694	"Sierra Leone"	"1890"	165.5
+768	"Togo"	"1890"	165.345
+24	"Angola"	"1890"	169.1
+120	"Cameroon"	"1890"	164.085
+140	"Central African Republic"	"1890"	167.1
+148	"Chad"	"1890"	169.6
+178	"Congo"	"1890"	166.043
+180	"Democratic Republic of the Congo"	"1890"	162.609
+226	"Equatorial Guinea"	"1890"	0
+266	"Gabon"	"1890"	165.4
+72	"Botswana"	"1890"	0
+426	"Lesotho"	"1890"	0
+516	"Namibia"	"1890"	0
+710	"South Africa"	"1890"	170.364
+748	"Swaziland"	"1890"	0
+108	"Burundi"	"1890"	0
+174	"Comoros"	"1890"	0
+262	"Djibouti"	"1890"	0
+232	"Eritrea"	"1890"	165.342
+404	"Kenya"	"1890"	166
+450	"Madagascar"	"1890"	163.918
+454	"Malawi"	"1890"	166.65
+480	"Mauritius"	"1890"	0
+508	"Mozambique"	"1890"	167.05
+646	"Rwanda"	"1890"	0
+706	"Somalia"	"1890"	171.4
+800	"Uganda"	"1890"	166.425
+834	"United Republic of Tanzania"	"1890"	167.669
+894	"Zambia"	"1890"	0
+716	"Zimbabwe"	"1890"	169.045
+40	"Austria"	"1900"	168.9
+56	"Belgium"	"1900"	167.8
+250	"France"	"1900"	166.8
+276	"Germany"	"1900"	169.2
+528	"Netherlands"	"1900"	170.9
+756	"Switzerland"	"1900"	170.462
+208	"Denmark"	"1900"	170.5
+233	"Estonia"	"1900"	175.3
+246	"Finland"	"1900"	167.3
+372	"Ireland"	"1900"	170
+428	"Latvia"	"1900"	171.4
+440	"Lithuania"	"1900"	165.3
+578	"Norway"	"1900"	172.03
+752	"Sweden"	"1900"	172.8
+826	"United Kingdom"	"1900"	169.367
+8	"Albania"	"1900"	169.2
+70	"Bosnia and Herzegovina"	"1900"	0
+191	"Croatia"	"1900"	171.508
+300	"Greece"	"1900"	169.6
+380	"Italy"	"1900"	165.6
+620	"Portugal"	"1900"	163.774
+688	"Serbia"	"1900"	168.1
+705	"Slovenia"	"1900"	168.3
+724	"Spain"	"1900"	164.6
+807	"Former Yugoslav Republic of Macedonia"	"1900"	167.669
+112	"Belarus"	"1900"	166.5
+100	"Bulgaria"	"1900"	167.6
+203	"Czech Republic"	"1900"	170.7
+348	"Hungary"	"1900"	169.1
+616	"Poland"	"1900"	166.568
+498	"Republic of Moldova"	"1900"	165.1
+642	"Romania"	"1900"	168.289
+643	"Russian Federation"	"1900"	169.2
+703	"Slovakia"	"1900"	165.8
+804	"Ukraine"	"1900"	165.4
+124	"Canada"	"1900"	169.9
+840	"United States of America"	"1900"	170
+192	"Cuba"	"1900"	166.1
+214	"Dominican Republic"	"1900"	0
+332	"Haiti"	"1900"	0
+388	"Jamaica"	"1900"	170.2
+630	"Puerto Rico"	"1900"	164.02
+780	"Trinidad and Tobago"	"1900"	0
+188	"Costa Rica"	"1900"	0
+222	"El Salvador"	"1900"	0
+320	"Guatemala"	"1900"	156.3
+340	"Honduras"	"1900"	0
+484	"Mexico"	"1900"	163.9
+558	"Nicaragua"	"1900"	0
+591	"Panama"	"1900"	0
+32	"Argentina"	"1900"	167.868
+68	"Bolivia (Plurinational State of)"	"1900"	162.45
+76	"Brazil"	"1900"	167.5
+152	"Chile"	"1900"	0
+170	"Colombia"	"1900"	161.83
+218	"Ecuador"	"1900"	0
+328	"Guyana"	"1900"	156.8
+600	"Paraguay"	"1900"	165.615
+604	"Peru"	"1900"	161.5
+858	"Uruguay"	"1900"	164.98
+36	"Australia"	"1900"	172.3
+554	"New Zealand"	"1900"	172
+598	"Papua New Guinea"	"1900"	152.359
+4	"Afghanistan"	"1900"	165.69
+50	"Bangladesh"	"1900"	162.061
+356	"India"	"1900"	163.008
+364	"Iran (Islamic Republic of)"	"1900"	167.47
+524	"Nepal"	"1900"	161.7
+586	"Pakistan"	"1900"	165.04
+144	"Sri Lanka"	"1900"	162.5
+156	"China"	"1900"	164
+344	"Hong Kong China"	"1900"	0
+408	"Democratic People's Republic of Korea"	"1900"	160.1
+392	"Japan"	"1900"	158.7
+496	"Mongolia"	"1900"	0
+410	"Korea"	"1900"	160.1
+9002	"Taiwan"	"1900"	164.54
+116	"Cambodia"	"1900"	158.3
+360	"Indonesia"	"1900"	158.96
+418	"Lao People's Democratic Republic"	"1900"	161.5
+458	"Malaysia"	"1900"	160.5
+104	"Myanmar"	"1900"	163.7
+608	"Philippines"	"1900"	160.4
+702	"Singapore"	"1900"	0
+764	"Thailand"	"1900"	162.1
+704	"Viet Nam"	"1900"	161.2
+51	"Armenia"	"1900"	163.58
+31	"Azerbaijan"	"1900"	170.816
+48	"Bahrain"	"1900"	0
+196	"Cyprus"	"1900"	168.334
+268	"Georgia"	"1900"	164.26
+368	"Iraq"	"1900"	168.56
+376	"Israel"	"1900"	168.85
+400	"Jordan"	"1900"	0
+414	"Kuwait"	"1900"	0
+422	"Lebanon"	"1900"	167.28
+275	"Palestinian Authority"	"1900"	0
+512	"Oman"	"1900"	0
+682	"Saudi Arabia"	"1900"	0
+760	"Syrian Arab Republic"	"1900"	167.274
+792	"Turkey"	"1900"	168.417
+784	"United Arab Emirates"	"1900"	0
+887	"Yemen"	"1900"	161.99
+398	"Kazakhstan"	"1900"	165
+417	"Kyrgyzstan"	"1900"	165.1
+762	"Tajikistan"	"1900"	165.1
+795	"Turkmenistan"	"1900"	168.9
+860	"Uzbekistan"	"1900"	165.5
+12	"Algeria"	"1900"	0
+818	"Egypt"	"1900"	166.2
+434	"Libya"	"1900"	166.5
+504	"Morocco"	"1900"	168.6
+729	"Sudan (North)"	"1900"	167.854
+788	"Tunisia"	"1900"	0
+204	"Benin"	"1900"	164.9
+854	"Burkina Faso"	"1900"	171.174
+132	"Cape Verde"	"1900"	0
+384	"Cote d'Ivoire"	"1900"	167.9
+270	"Gambia"	"1900"	0
+288	"Ghana"	"1900"	165.9
+324	"Guinea"	"1900"	168.4
+624	"Guinea-Bissau"	"1900"	167.721
+430	"Liberia"	"1900"	0
+466	"Mali"	"1900"	167.485
+478	"Mauritania"	"1900"	168.954
+562	"Niger"	"1900"	168.663
+566	"Nigeria"	"1900"	167.873
+686	"Senegal"	"1900"	170.384
+694	"Sierra Leone"	"1900"	165.5
+768	"Togo"	"1900"	167
+24	"Angola"	"1900"	168.1
+120	"Cameroon"	"1900"	166.738
+140	"Central African Republic"	"1900"	167.27
+148	"Chad"	"1900"	165.8
+178	"Congo"	"1900"	166.043
+180	"Democratic Republic of the Congo"	"1900"	162.609
+226	"Equatorial Guinea"	"1900"	0
+266	"Gabon"	"1900"	165.4
+72	"Botswana"	"1900"	0
+426	"Lesotho"	"1900"	168
+516	"Namibia"	"1900"	166.653
+710	"South Africa"	"1900"	169.898
+748	"Swaziland"	"1900"	0
+108	"Burundi"	"1900"	0
+174	"Comoros"	"1900"	0
+262	"Djibouti"	"1900"	0
+232	"Eritrea"	"1900"	165.342
+404	"Kenya"	"1900"	166.7
+450	"Madagascar"	"1900"	163.151
+454	"Malawi"	"1900"	166.65
+480	"Mauritius"	"1900"	0
+508	"Mozambique"	"1900"	169.613
+646	"Rwanda"	"1900"	0
+706	"Somalia"	"1900"	171.9
+800	"Uganda"	"1900"	166.425
+834	"United Republic of Tanzania"	"1900"	167.669
+894	"Zambia"	"1900"	0
+716	"Zimbabwe"	"1900"	167.63
+40	"Austria"	"1910"	168.9
+56	"Belgium"	"1910"	167.8
+250	"France"	"1910"	167.8
+276	"Germany"	"1910"	170.5
+528	"Netherlands"	"1910"	172.6
+756	"Switzerland"	"1910"	171.506
+208	"Denmark"	"1910"	170
+233	"Estonia"	"1910"	172
+246	"Finland"	"1910"	170.5
+372	"Ireland"	"1910"	170
+428	"Latvia"	"1910"	171.4
+440	"Lithuania"	"1910"	165.3
+578	"Norway"	"1910"	173.3
+752	"Sweden"	"1910"	173.2
+826	"United Kingdom"	"1910"	170.866
+8	"Albania"	"1910"	169.2
+70	"Bosnia and Herzegovina"	"1910"	0
+191	"Croatia"	"1910"	171.508
+300	"Greece"	"1910"	168.1
+380	"Italy"	"1910"	166.3
+620	"Portugal"	"1910"	164.491
+688	"Serbia"	"1910"	168.1
+705	"Slovenia"	"1910"	168.3
+724	"Spain"	"1910"	165.1
+807	"Former Yugoslav Republic of Macedonia"	"1910"	168.4
+112	"Belarus"	"1910"	166.5
+100	"Bulgaria"	"1910"	167.6
+203	"Czech Republic"	"1910"	170.8
+348	"Hungary"	"1910"	169.1
+616	"Poland"	"1910"	169
+498	"Republic of Moldova"	"1910"	165.1
+642	"Romania"	"1910"	168.289
+643	"Russian Federation"	"1910"	169.1
+703	"Slovakia"	"1910"	165.8
+804	"Ukraine"	"1910"	165.4
+124	"Canada"	"1910"	171.5
+840	"United States of America"	"1910"	172.1
+192	"Cuba"	"1910"	167.9
+214	"Dominican Republic"	"1910"	0
+332	"Haiti"	"1910"	0
+388	"Jamaica"	"1910"	167.132
+630	"Puerto Rico"	"1910"	165.35
+780	"Trinidad and Tobago"	"1910"	0
+188	"Costa Rica"	"1910"	0
+222	"El Salvador"	"1910"	0
+320	"Guatemala"	"1910"	156
+340	"Honduras"	"1910"	0
+484	"Mexico"	"1910"	163.7
+558	"Nicaragua"	"1910"	0
+591	"Panama"	"1910"	0
+32	"Argentina"	"1910"	168.2
+68	"Bolivia (Plurinational State of)"	"1910"	162.45
+76	"Brazil"	"1910"	166.486
+152	"Chile"	"1910"	0
+170	"Colombia"	"1910"	163.545
+218	"Ecuador"	"1910"	0
+328	"Guyana"	"1910"	156.8
+600	"Paraguay"	"1910"	165.615
+604	"Peru"	"1910"	161.5
+858	"Uruguay"	"1910"	164.98
+36	"Australia"	"1910"	172.7
+554	"New Zealand"	"1910"	172
+598	"Papua New Guinea"	"1910"	152.359
+4	"Afghanistan"	"1910"	165.69
+50	"Bangladesh"	"1910"	162.061
+356	"India"	"1910"	162.893
+364	"Iran (Islamic Republic of)"	"1910"	167.19
+524	"Nepal"	"1910"	161.7
+586	"Pakistan"	"1910"	165.04
+144	"Sri Lanka"	"1910"	162.5
+156	"China"	"1910"	164.7
+344	"Hong Kong China"	"1910"	0
+408	"Democratic People's Republic of Korea"	"1910"	160.1
+392	"Japan"	"1910"	159.605
+496	"Mongolia"	"1910"	162.6
+410	"Korea"	"1910"	160.1
+9002	"Taiwan"	"1910"	166.05
+116	"Cambodia"	"1910"	160.6
+360	"Indonesia"	"1910"	159.63
+418	"Lao People's Democratic Republic"	"1910"	156.2
+458	"Malaysia"	"1910"	160.5
+104	"Myanmar"	"1910"	163.7
+608	"Philippines"	"1910"	160.4
+702	"Singapore"	"1910"	0
+764	"Thailand"	"1910"	161.5
+704	"Viet Nam"	"1910"	158
+51	"Armenia"	"1910"	163.75
+31	"Azerbaijan"	"1910"	170.816
+48	"Bahrain"	"1910"	0
+196	"Cyprus"	"1910"	168.334
+268	"Georgia"	"1910"	164.26
+368	"Iraq"	"1910"	166.15
+376	"Israel"	"1910"	168.85
+400	"Jordan"	"1910"	0
+414	"Kuwait"	"1910"	0
+422	"Lebanon"	"1910"	167.28
+275	"Palestinian Authority"	"1910"	0
+512	"Oman"	"1910"	0
+682	"Saudi Arabia"	"1910"	0
+760	"Syrian Arab Republic"	"1910"	167.274
+792	"Turkey"	"1910"	167.95
+784	"United Arab Emirates"	"1910"	0
+887	"Yemen"	"1910"	161.99
+398	"Kazakhstan"	"1910"	163.4
+417	"Kyrgyzstan"	"1910"	165.1
+762	"Tajikistan"	"1910"	165.1
+795	"Turkmenistan"	"1910"	167.93
+860	"Uzbekistan"	"1910"	166
+12	"Algeria"	"1910"	168.8
+818	"Egypt"	"1910"	166.21
+434	"Libya"	"1910"	166.5
+504	"Morocco"	"1910"	168.6
+729	"Sudan (North)"	"1910"	169
+788	"Tunisia"	"1910"	162.9
+204	"Benin"	"1910"	168.87
+854	"Burkina Faso"	"1910"	171.06
+132	"Cape Verde"	"1910"	0
+384	"Cote d'Ivoire"	"1910"	166.621
+270	"Gambia"	"1910"	0
+288	"Ghana"	"1910"	167.1
+324	"Guinea"	"1910"	168.455
+624	"Guinea-Bissau"	"1910"	167.808
+430	"Liberia"	"1910"	165.38
+466	"Mali"	"1910"	171.449
+478	"Mauritania"	"1910"	169.395
+562	"Niger"	"1910"	171.598
+566	"Nigeria"	"1910"	166.794
+686	"Senegal"	"1910"	169.26
+694	"Sierra Leone"	"1910"	165.8
+768	"Togo"	"1910"	167
+24	"Angola"	"1910"	168
+120	"Cameroon"	"1910"	168.765
+140	"Central African Republic"	"1910"	164.866
+148	"Chad"	"1910"	165.8
+178	"Congo"	"1910"	166.043
+180	"Democratic Republic of the Congo"	"1910"	165.3
+226	"Equatorial Guinea"	"1910"	0
+266	"Gabon"	"1910"	164.9
+72	"Botswana"	"1910"	165.42
+426	"Lesotho"	"1910"	168
+516	"Namibia"	"1910"	166.653
+710	"South Africa"	"1910"	169.704
+748	"Swaziland"	"1910"	0
+108	"Burundi"	"1910"	0
+174	"Comoros"	"1910"	0
+262	"Djibouti"	"1910"	0
+232	"Eritrea"	"1910"	165.342
+404	"Kenya"	"1910"	168.079
+450	"Madagascar"	"1910"	163.154
+454	"Malawi"	"1910"	166.65
+480	"Mauritius"	"1910"	0
+508	"Mozambique"	"1910"	166.667
+646	"Rwanda"	"1910"	172
+706	"Somalia"	"1910"	171.068
+800	"Uganda"	"1910"	165.96
+834	"United Republic of Tanzania"	"1910"	164.965
+894	"Zambia"	"1910"	0
+716	"Zimbabwe"	"1910"	167.63
+40	"Austria"	"1920"	170.4
+56	"Belgium"	"1920"	167.8
+250	"France"	"1920"	168.5
+276	"Germany"	"1920"	173.3
+528	"Netherlands"	"1920"	173.5
+756	"Switzerland"	"1920"	170.9
+208	"Denmark"	"1920"	173.5
+233	"Estonia"	"1920"	172
+246	"Finland"	"1920"	172.3
+372	"Ireland"	"1920"	171.919
+428	"Latvia"	"1920"	171.4
+440	"Lithuania"	"1920"	165.3
+578	"Norway"	"1920"	176.25
+752	"Sweden"	"1920"	168.3
+826	"United Kingdom"	"1920"	171
+8	"Albania"	"1920"	169.2
+70	"Bosnia and Herzegovina"	"1920"	0
+191	"Croatia"	"1920"	171.508
+300	"Greece"	"1920"	168.4
+380	"Italy"	"1920"	167.3
+620	"Portugal"	"1920"	164.88
+688	"Serbia"	"1920"	168.1
+705	"Slovenia"	"1920"	173.7
+724	"Spain"	"1920"	165.6
+807	"Former Yugoslav Republic of Macedonia"	"1920"	169.6
+112	"Belarus"	"1920"	166.5
+100	"Bulgaria"	"1920"	167.6
+203	"Czech Republic"	"1920"	173.3
+348	"Hungary"	"1920"	169.1
+616	"Poland"	"1920"	169
+498	"Republic of Moldova"	"1920"	165.1
+642	"Romania"	"1920"	168.289
+643	"Russian Federation"	"1920"	167
+703	"Slovakia"	"1920"	171.7
+804	"Ukraine"	"1920"	165.4
+124	"Canada"	"1920"	173
+840	"United States of America"	"1920"	173.1
+192	"Cuba"	"1920"	167.9
+214	"Dominican Republic"	"1920"	0
+332	"Haiti"	"1920"	166.9
+388	"Jamaica"	"1920"	167.894
+630	"Puerto Rico"	"1920"	164.02
+780	"Trinidad and Tobago"	"1920"	0
+188	"Costa Rica"	"1920"	0
+222	"El Salvador"	"1920"	0
+320	"Guatemala"	"1920"	158.7
+340	"Honduras"	"1920"	0
+484	"Mexico"	"1920"	161.12
+558	"Nicaragua"	"1920"	0
+591	"Panama"	"1920"	0
+32	"Argentina"	"1920"	169
+68	"Bolivia (Plurinational State of)"	"1920"	162.45
+76	"Brazil"	"1920"	166.6
+152	"Chile"	"1920"	0
+170	"Colombia"	"1920"	164.655
+218	"Ecuador"	"1920"	0
+328	"Guyana"	"1920"	156.8
+600	"Paraguay"	"1920"	165.615
+604	"Peru"	"1920"	161.5
+858	"Uruguay"	"1920"	164.98
+36	"Australia"	"1920"	172.846
+554	"New Zealand"	"1920"	172
+598	"Papua New Guinea"	"1920"	155.603
+4	"Afghanistan"	"1920"	165.69
+50	"Bangladesh"	"1920"	162.061
+356	"India"	"1920"	163.465
+364	"Iran (Islamic Republic of)"	"1920"	167.19
+524	"Nepal"	"1920"	161.7
+586	"Pakistan"	"1920"	167.887
+144	"Sri Lanka"	"1920"	163.885
+156	"China"	"1920"	164.2
+344	"Hong Kong China"	"1920"	0
+408	"Democratic People's Republic of Korea"	"1920"	160.1
+392	"Japan"	"1920"	160.7
+496	"Mongolia"	"1920"	162.6
+410	"Korea"	"1920"	160.1
+9002	"Taiwan"	"1920"	166.85
+116	"Cambodia"	"1920"	158.5
+360	"Indonesia"	"1920"	160.93
+418	"Lao People's Democratic Republic"	"1920"	159.7
+458	"Malaysia"	"1920"	160.5
+104	"Myanmar"	"1920"	160.103
+608	"Philippines"	"1920"	160.4
+702	"Singapore"	"1920"	0
+764	"Thailand"	"1920"	161.33
+704	"Viet Nam"	"1920"	157.5
+51	"Armenia"	"1920"	163.75
+31	"Azerbaijan"	"1920"	170.816
+48	"Bahrain"	"1920"	0
+196	"Cyprus"	"1920"	168.334
+268	"Georgia"	"1920"	164.26
+368	"Iraq"	"1920"	166.15
+376	"Israel"	"1920"	168.85
+400	"Jordan"	"1920"	0
+414	"Kuwait"	"1920"	0
+422	"Lebanon"	"1920"	167.28
+275	"Palestinian Authority"	"1920"	0
+512	"Oman"	"1920"	0
+682	"Saudi Arabia"	"1920"	0
+760	"Syrian Arab Republic"	"1920"	167.274
+792	"Turkey"	"1920"	169.3
+784	"United Arab Emirates"	"1920"	0
+887	"Yemen"	"1920"	161.99
+398	"Kazakhstan"	"1920"	166
+417	"Kyrgyzstan"	"1920"	166.2
+762	"Tajikistan"	"1920"	165.1
+795	"Turkmenistan"	"1920"	167.5
+860	"Uzbekistan"	"1920"	165.047
+12	"Algeria"	"1920"	166.241
+818	"Egypt"	"1920"	165.11
+434	"Libya"	"1920"	165.11
+504	"Morocco"	"1920"	168.6
+729	"Sudan (North)"	"1920"	170.985
+788	"Tunisia"	"1920"	162.9
+204	"Benin"	"1920"	168.127
+854	"Burkina Faso"	"1920"	172.4
+132	"Cape Verde"	"1920"	0
+384	"Cote d'Ivoire"	"1920"	166.7
+270	"Gambia"	"1920"	166.6
+288	"Ghana"	"1920"	167.1
+324	"Guinea"	"1920"	168.593
+624	"Guinea-Bissau"	"1920"	166.096
+430	"Liberia"	"1920"	167.59
+466	"Mali"	"1920"	171.605
+478	"Mauritania"	"1920"	169.227
+562	"Niger"	"1920"	171.412
+566	"Nigeria"	"1920"	165.6
+686	"Senegal"	"1920"	171.561
+694	"Sierra Leone"	"1920"	166.961
+768	"Togo"	"1920"	168.352
+24	"Angola"	"1920"	165.7
+120	"Cameroon"	"1920"	166.657
+140	"Central African Republic"	"1920"	163.573
+148	"Chad"	"1920"	169.379
+178	"Congo"	"1920"	165.395
+180	"Democratic Republic of the Congo"	"1920"	163.146
+226	"Equatorial Guinea"	"1920"	0
+266	"Gabon"	"1920"	164.311
+72	"Botswana"	"1920"	165.42
+426	"Lesotho"	"1920"	168
+516	"Namibia"	"1920"	166.653
+710	"South Africa"	"1920"	169.214
+748	"Swaziland"	"1920"	0
+108	"Burundi"	"1920"	166.14
+174	"Comoros"	"1920"	0
+262	"Djibouti"	"1920"	0
+232	"Eritrea"	"1920"	165.342
+404	"Kenya"	"1920"	167.698
+450	"Madagascar"	"1920"	163.45
+454	"Malawi"	"1920"	168.42
+480	"Mauritius"	"1920"	0
+508	"Mozambique"	"1920"	168.639
+646	"Rwanda"	"1920"	171.566
+706	"Somalia"	"1920"	168.69
+800	"Uganda"	"1920"	167.486
+834	"United Republic of Tanzania"	"1920"	165.788
+894	"Zambia"	"1920"	0
+716	"Zimbabwe"	"1920"	167.63
+40	"Austria"	"1930"	170.4
+56	"Belgium"	"1930"	167.8
+250	"France"	"1930"	169.9
+276	"Germany"	"1930"	174
+528	"Netherlands"	"1930"	174.1
+756	"Switzerland"	"1930"	171.3
+208	"Denmark"	"1930"	173.9
+233	"Estonia"	"1930"	172
+246	"Finland"	"1930"	172.5
+372	"Ireland"	"1930"	173.253
+428	"Latvia"	"1930"	171.4
+440	"Lithuania"	"1930"	165.3
+578	"Norway"	"1930"	176.9
+752	"Sweden"	"1930"	175.5
+826	"United Kingdom"	"1930"	173.87
+8	"Albania"	"1930"	169.2
+70	"Bosnia and Herzegovina"	"1930"	0
+191	"Croatia"	"1930"	176.1
+300	"Greece"	"1930"	167.5
+380	"Italy"	"1930"	168.1
+620	"Portugal"	"1930"	165.57
+688	"Serbia"	"1930"	168.1
+705	"Slovenia"	"1930"	173.7
+724	"Spain"	"1930"	165.2
+807	"Former Yugoslav Republic of Macedonia"	"1930"	168.8
+112	"Belarus"	"1930"	166.5
+100	"Bulgaria"	"1930"	171.7
+203	"Czech Republic"	"1930"	175.7
+348	"Hungary"	"1930"	169.1
+616	"Poland"	"1930"	173
+498	"Republic of Moldova"	"1930"	165.1
+642	"Romania"	"1930"	168.289
+643	"Russian Federation"	"1930"	167.9
+703	"Slovakia"	"1930"	173.3
+804	"Ukraine"	"1930"	165.4
+124	"Canada"	"1930"	172.7
+840	"United States of America"	"1930"	173.4
+192	"Cuba"	"1930"	167.9
+214	"Dominican Republic"	"1930"	0
+332	"Haiti"	"1930"	166.707
+388	"Jamaica"	"1930"	169.672
+630	"Puerto Rico"	"1930"	163.66
+780	"Trinidad and Tobago"	"1930"	0
+188	"Costa Rica"	"1930"	0
+222	"El Salvador"	"1930"	0
+320	"Guatemala"	"1930"	158.7
+340	"Honduras"	"1930"	0
+484	"Mexico"	"1930"	165.5
+558	"Nicaragua"	"1930"	0
+591	"Panama"	"1930"	0
+32	"Argentina"	"1930"	169.8
+68	"Bolivia (Plurinational State of)"	"1930"	162.5
+76	"Brazil"	"1930"	167
+152	"Chile"	"1930"	0
+170	"Colombia"	"1930"	165.465
+218	"Ecuador"	"1930"	0
+328	"Guyana"	"1930"	156.8
+600	"Paraguay"	"1930"	165.363
+604	"Peru"	"1930"	159.749
+858	"Uruguay"	"1930"	168.1
+36	"Australia"	"1930"	172.846
+554	"New Zealand"	"1930"	174.625
+598	"Papua New Guinea"	"1930"	152.432
+4	"Afghanistan"	"1930"	166.8
+50	"Bangladesh"	"1930"	162.061
+356	"India"	"1930"	163.688
+364	"Iran (Islamic Republic of)"	"1930"	167.19
+524	"Nepal"	"1930"	160.9
+586	"Pakistan"	"1930"	163.979
+144	"Sri Lanka"	"1930"	163.885
+156	"China"	"1930"	166.5
+344	"Hong Kong China"	"1930"	167.655
+408	"Democratic People's Republic of Korea"	"1930"	160.1
+392	"Japan"	"1930"	161.43
+496	"Mongolia"	"1930"	164.8
+410	"Korea"	"1930"	160.1
+9002	"Taiwan"	"1930"	167.5
+116	"Cambodia"	"1930"	158.4
+360	"Indonesia"	"1930"	160.69
+418	"Lao People's Democratic Republic"	"1930"	160.2
+458	"Malaysia"	"1930"	162.5
+104	"Myanmar"	"1930"	160.103
+608	"Philippines"	"1930"	163.375
+702	"Singapore"	"1930"	0
+764	"Thailand"	"1930"	161.2
+704	"Viet Nam"	"1930"	158.4
+51	"Armenia"	"1930"	163.75
+31	"Azerbaijan"	"1930"	170.816
+48	"Bahrain"	"1930"	160.7
+196	"Cyprus"	"1930"	168.334
+268	"Georgia"	"1930"	164.26
+368	"Iraq"	"1930"	166.15
+376	"Israel"	"1930"	167.5
+400	"Jordan"	"1930"	0
+414	"Kuwait"	"1930"	0
+422	"Lebanon"	"1930"	167.28
+275	"Palestinian Authority"	"1930"	0
+512	"Oman"	"1930"	0
+682	"Saudi Arabia"	"1930"	0
+760	"Syrian Arab Republic"	"1930"	167.274
+792	"Turkey"	"1930"	169.29
+784	"United Arab Emirates"	"1930"	0
+887	"Yemen"	"1930"	161.99
+398	"Kazakhstan"	"1930"	164.4
+417	"Kyrgyzstan"	"1930"	164.5
+762	"Tajikistan"	"1930"	165.1
+795	"Turkmenistan"	"1930"	167.5
+860	"Uzbekistan"	"1930"	165.047
+12	"Algeria"	"1930"	169
+818	"Egypt"	"1930"	165.11
+434	"Libya"	"1930"	165.11
+504	"Morocco"	"1930"	168.6
+729	"Sudan (North)"	"1930"	167.9
+788	"Tunisia"	"1930"	162.9
+204	"Benin"	"1930"	168.2
+854	"Burkina Faso"	"1930"	171
+132	"Cape Verde"	"1930"	0
+384	"Cote d'Ivoire"	"1930"	167.5
+270	"Gambia"	"1930"	166.6
+288	"Ghana"	"1930"	167.65
+324	"Guinea"	"1930"	167.528
+624	"Guinea-Bissau"	"1930"	169.4
+430	"Liberia"	"1930"	167.235
+466	"Mali"	"1930"	168.5
+478	"Mauritania"	"1930"	170.149
+562	"Niger"	"1930"	172.7
+566	"Nigeria"	"1930"	164.62
+686	"Senegal"	"1930"	171.109
+694	"Sierra Leone"	"1930"	165.5
+768	"Togo"	"1930"	168.352
+24	"Angola"	"1930"	166.7
+120	"Cameroon"	"1930"	169.5
+140	"Central African Republic"	"1930"	164
+148	"Chad"	"1930"	170.61
+178	"Congo"	"1930"	164.62
+180	"Democratic Republic of the Congo"	"1930"	167.308
+226	"Equatorial Guinea"	"1930"	169
+266	"Gabon"	"1930"	164.311
+72	"Botswana"	"1930"	165.42
+426	"Lesotho"	"1930"	168
+516	"Namibia"	"1930"	171.11
+710	"South Africa"	"1930"	169.984
+748	"Swaziland"	"1930"	168.812
+108	"Burundi"	"1930"	169.355
+174	"Comoros"	"1930"	0
+262	"Djibouti"	"1930"	0
+232	"Eritrea"	"1930"	164
+404	"Kenya"	"1930"	167.698
+450	"Madagascar"	"1930"	163.45
+454	"Malawi"	"1930"	165.6
+480	"Mauritius"	"1930"	0
+508	"Mozambique"	"1930"	167.29
+646	"Rwanda"	"1930"	169.321
+706	"Somalia"	"1930"	172.9
+800	"Uganda"	"1930"	164.892
+834	"United Republic of Tanzania"	"1930"	166.6
+894	"Zambia"	"1930"	0
+716	"Zimbabwe"	"1930"	167.63
+40	"Austria"	"1940"	170.4
+56	"Belgium"	"1940"	174.54
+250	"France"	"1940"	171.7
+276	"Germany"	"1940"	175.2
+528	"Netherlands"	"1940"	177.5
+756	"Switzerland"	"1940"	171.3
+208	"Denmark"	"1940"	175.9
+233	"Estonia"	"1940"	172
+246	"Finland"	"1940"	174.8
+372	"Ireland"	"1940"	173.253
+428	"Latvia"	"1940"	174.211
+440	"Lithuania"	"1940"	173.725
+578	"Norway"	"1940"	177.5
+752	"Sweden"	"1940"	178.5
+826	"United Kingdom"	"1940"	174.9
+8	"Albania"	"1940"	169.2
+70	"Bosnia and Herzegovina"	"1940"	0
+191	"Croatia"	"1940"	176.1
+300	"Greece"	"1940"	169.2
+380	"Italy"	"1940"	169.3
+620	"Portugal"	"1940"	166.385
+688	"Serbia"	"1940"	168.1
+705	"Slovenia"	"1940"	173.7
+724	"Spain"	"1940"	166.3
+807	"Former Yugoslav Republic of Macedonia"	"1940"	168.8
+112	"Belarus"	"1940"	166.5
+100	"Bulgaria"	"1940"	171.3
+203	"Czech Republic"	"1940"	176.8
+348	"Hungary"	"1940"	169.1
+616	"Poland"	"1940"	170.5
+498	"Republic of Moldova"	"1940"	165.1
+642	"Romania"	"1940"	169.253
+643	"Russian Federation"	"1940"	169
+703	"Slovakia"	"1940"	172.8
+804	"Ukraine"	"1940"	165.4
+124	"Canada"	"1940"	174.6
+840	"United States of America"	"1940"	176.1
+192	"Cuba"	"1940"	169.4
+214	"Dominican Republic"	"1940"	167.4
+332	"Haiti"	"1940"	166.707
+388	"Jamaica"	"1940"	168.281
+630	"Puerto Rico"	"1940"	163.66
+780	"Trinidad and Tobago"	"1940"	0
+188	"Costa Rica"	"1940"	166.1
+222	"El Salvador"	"1940"	0
+320	"Guatemala"	"1940"	158.7
+340	"Honduras"	"1940"	0
+484	"Mexico"	"1940"	165.8
+558	"Nicaragua"	"1940"	0
+591	"Panama"	"1940"	0
+32	"Argentina"	"1940"	170.6
+68	"Bolivia (Plurinational State of)"	"1940"	163.4
+76	"Brazil"	"1940"	167.1
+152	"Chile"	"1940"	0
+170	"Colombia"	"1940"	167.05
+218	"Ecuador"	"1940"	0
+328	"Guyana"	"1940"	156.8
+600	"Paraguay"	"1940"	165.363
+604	"Peru"	"1940"	160.947
+858	"Uruguay"	"1940"	168.1
+36	"Australia"	"1940"	172.846
+554	"New Zealand"	"1940"	174.625
+598	"Papua New Guinea"	"1940"	158.875
+4	"Afghanistan"	"1940"	166.8
+50	"Bangladesh"	"1940"	162.061
+356	"India"	"1940"	164.049
+364	"Iran (Islamic Republic of)"	"1940"	167.8
+524	"Nepal"	"1940"	162.383
+586	"Pakistan"	"1940"	168.1
+144	"Sri Lanka"	"1940"	163.885
+156	"China"	"1940"	167.4
+344	"Hong Kong China"	"1940"	167.1
+408	"Democratic People's Republic of Korea"	"1940"	166.51
+392	"Japan"	"1940"	162.6
+496	"Mongolia"	"1940"	164.8
+410	"Korea"	"1940"	166.51
+9002	"Taiwan"	"1940"	166.8
+116	"Cambodia"	"1940"	158.4
+360	"Indonesia"	"1940"	160.4
+418	"Lao People's Democratic Republic"	"1940"	163.2
+458	"Malaysia"	"1940"	162.5
+104	"Myanmar"	"1940"	164.8
+608	"Philippines"	"1940"	164.6
+702	"Singapore"	"1940"	0
+764	"Thailand"	"1940"	161.2
+704	"Viet Nam"	"1940"	158.4
+51	"Armenia"	"1940"	167.99
+31	"Azerbaijan"	"1940"	170.816
+48	"Bahrain"	"1940"	163.8
+196	"Cyprus"	"1940"	168.334
+268	"Georgia"	"1940"	164.26
+368	"Iraq"	"1940"	166.15
+376	"Israel"	"1940"	165.746
+400	"Jordan"	"1940"	166.053
+414	"Kuwait"	"1940"	0
+422	"Lebanon"	"1940"	169.352
+275	"Palestinian Authority"	"1940"	0
+512	"Oman"	"1940"	0
+682	"Saudi Arabia"	"1940"	169.2
+760	"Syrian Arab Republic"	"1940"	167.274
+792	"Turkey"	"1940"	167.2
+784	"United Arab Emirates"	"1940"	0
+887	"Yemen"	"1940"	161.99
+398	"Kazakhstan"	"1940"	164.4
+417	"Kyrgyzstan"	"1940"	164.5
+762	"Tajikistan"	"1940"	165.1
+795	"Turkmenistan"	"1940"	167.5
+860	"Uzbekistan"	"1940"	170.323
+12	"Algeria"	"1940"	169
+818	"Egypt"	"1940"	167.504
+434	"Libya"	"1940"	165.11
+504	"Morocco"	"1940"	168.107
+729	"Sudan (North)"	"1940"	167.9
+788	"Tunisia"	"1940"	162.9
+204	"Benin"	"1940"	168.2
+854	"Burkina Faso"	"1940"	172.451
+132	"Cape Verde"	"1940"	0
+384	"Cote d'Ivoire"	"1940"	168.65
+270	"Gambia"	"1940"	166.6
+288	"Ghana"	"1940"	168.6
+324	"Guinea"	"1940"	167.528
+624	"Guinea-Bissau"	"1940"	168.9
+430	"Liberia"	"1940"	167.235
+466	"Mali"	"1940"	170.5
+478	"Mauritania"	"1940"	170.149
+562	"Niger"	"1940"	171.179
+566	"Nigeria"	"1940"	167.2
+686	"Senegal"	"1940"	171.861
+694	"Sierra Leone"	"1940"	165.5
+768	"Togo"	"1940"	168.352
+24	"Angola"	"1940"	166.7
+120	"Cameroon"	"1940"	169.5
+140	"Central African Republic"	"1940"	164
+148	"Chad"	"1940"	170.61
+178	"Congo"	"1940"	166.88
+180	"Democratic Republic of the Congo"	"1940"	167.308
+226	"Equatorial Guinea"	"1940"	169
+266	"Gabon"	"1940"	164.311
+72	"Botswana"	"1940"	165.42
+426	"Lesotho"	"1940"	168
+516	"Namibia"	"1940"	172.312
+710	"South Africa"	"1940"	168.225
+748	"Swaziland"	"1940"	168.812
+108	"Burundi"	"1940"	169.355
+174	"Comoros"	"1940"	0
+262	"Djibouti"	"1940"	0
+232	"Eritrea"	"1940"	164
+404	"Kenya"	"1940"	167.698
+450	"Madagascar"	"1940"	163.45
+454	"Malawi"	"1940"	166.202
+480	"Mauritius"	"1940"	0
+508	"Mozambique"	"1940"	167.29
+646	"Rwanda"	"1940"	169.321
+706	"Somalia"	"1940"	172.9
+800	"Uganda"	"1940"	164.892
+834	"United Republic of Tanzania"	"1940"	165.569
+894	"Zambia"	"1940"	168.063
+716	"Zimbabwe"	"1940"	167.63
+40	"Austria"	"1950"	170.4
+56	"Belgium"	"1950"	174.54
+250	"France"	"1950"	173.175
+276	"Germany"	"1950"	176.8
+528	"Netherlands"	"1950"	178.7
+756	"Switzerland"	"1950"	171.3
+208	"Denmark"	"1950"	179.8
+233	"Estonia"	"1950"	172
+246	"Finland"	"1950"	178
+372	"Ireland"	"1950"	174.9
+428	"Latvia"	"1950"	174.211
+440	"Lithuania"	"1950"	173.725
+578	"Norway"	"1950"	178.1
+752	"Sweden"	"1950"	179.3
+826	"United Kingdom"	"1950"	176
+8	"Albania"	"1950"	169.2
+70	"Bosnia and Herzegovina"	"1950"	0
+191	"Croatia"	"1950"	175.1
+300	"Greece"	"1950"	173.7
+380	"Italy"	"1950"	171.3
+620	"Portugal"	"1950"	167.41
+688	"Serbia"	"1950"	168.1
+705	"Slovenia"	"1950"	175.8
+724	"Spain"	"1950"	170.8
+807	"Former Yugoslav Republic of Macedonia"	"1950"	168.8
+112	"Belarus"	"1950"	166.5
+100	"Bulgaria"	"1950"	172.9
+203	"Czech Republic"	"1950"	177.7
+348	"Hungary"	"1950"	175.4
+616	"Poland"	"1950"	173.2
+498	"Republic of Moldova"	"1950"	172.007
+642	"Romania"	"1950"	169.253
+643	"Russian Federation"	"1950"	172
+703	"Slovakia"	"1950"	172.8
+804	"Ukraine"	"1950"	165.4
+124	"Canada"	"1950"	177
+840	"United States of America"	"1950"	177.1
+192	"Cuba"	"1950"	169.2
+214	"Dominican Republic"	"1950"	168.1
+332	"Haiti"	"1950"	170.377
+388	"Jamaica"	"1950"	168.281
+630	"Puerto Rico"	"1950"	163.66
+780	"Trinidad and Tobago"	"1950"	0
+188	"Costa Rica"	"1950"	166.1
+222	"El Salvador"	"1950"	0
+320	"Guatemala"	"1950"	159.2
+340	"Honduras"	"1950"	163.971
+484	"Mexico"	"1950"	165.093
+558	"Nicaragua"	"1950"	165.615
+591	"Panama"	"1950"	0
+32	"Argentina"	"1950"	170.8
+68	"Bolivia (Plurinational State of)"	"1950"	162.482
+76	"Brazil"	"1950"	168.2
+152	"Chile"	"1950"	169.64
+170	"Colombia"	"1950"	167.8
+218	"Ecuador"	"1950"	0
+328	"Guyana"	"1950"	156.8
+600	"Paraguay"	"1950"	165.363
+604	"Peru"	"1950"	162.226
+858	"Uruguay"	"1950"	168.1
+36	"Australia"	"1950"	172.846
+554	"New Zealand"	"1950"	174.625
+598	"Papua New Guinea"	"1950"	158.875
+4	"Afghanistan"	"1950"	166.8
+50	"Bangladesh"	"1950"	161.555
+356	"India"	"1950"	163.542
+364	"Iran (Islamic Republic of)"	"1950"	168.78
+524	"Nepal"	"1950"	161.783
+586	"Pakistan"	"1950"	168.1
+144	"Sri Lanka"	"1950"	163.885
+156	"China"	"1950"	169.2
+344	"Hong Kong China"	"1950"	167.1
+408	"Democratic People's Republic of Korea"	"1950"	168.6
+392	"Japan"	"1950"	163.6
+496	"Mongolia"	"1950"	164.8
+410	"Korea"	"1950"	168.6
+9002	"Taiwan"	"1950"	168.7
+116	"Cambodia"	"1950"	162.361
+360	"Indonesia"	"1950"	161.65
+418	"Lao People's Democratic Republic"	"1950"	163.2
+458	"Malaysia"	"1950"	162.5
+104	"Myanmar"	"1950"	164.8
+608	"Philippines"	"1950"	164.6
+702	"Singapore"	"1950"	0
+764	"Thailand"	"1950"	161.2
+704	"Viet Nam"	"1950"	158.4
+51	"Armenia"	"1950"	167.99
+31	"Azerbaijan"	"1950"	171.216
+48	"Bahrain"	"1950"	164
+196	"Cyprus"	"1950"	168.334
+268	"Georgia"	"1950"	164.26
+368	"Iraq"	"1950"	166.15
+376	"Israel"	"1950"	165.746
+400	"Jordan"	"1950"	169.97
+414	"Kuwait"	"1950"	0
+422	"Lebanon"	"1950"	169.352
+275	"Palestinian Authority"	"1950"	171
+512	"Oman"	"1950"	0
+682	"Saudi Arabia"	"1950"	170.3
+760	"Syrian Arab Republic"	"1950"	167.274
+792	"Turkey"	"1950"	166.6
+784	"United Arab Emirates"	"1950"	0
+887	"Yemen"	"1950"	161.99
+398	"Kazakhstan"	"1950"	170.3
+417	"Kyrgyzstan"	"1950"	169.8
+762	"Tajikistan"	"1950"	165.1
+795	"Turkmenistan"	"1950"	167.5
+860	"Uzbekistan"	"1950"	171.5
+12	"Algeria"	"1950"	169
+818	"Egypt"	"1950"	170.09
+434	"Libya"	"1950"	165.11
+504	"Morocco"	"1950"	169.012
+729	"Sudan (North)"	"1950"	167.9
+788	"Tunisia"	"1950"	162.9
+204	"Benin"	"1950"	169.911
+854	"Burkina Faso"	"1950"	172.226
+132	"Cape Verde"	"1950"	0
+384	"Cote d'Ivoire"	"1950"	170
+270	"Gambia"	"1950"	166.6
+288	"Ghana"	"1950"	169.49
+324	"Guinea"	"1950"	168.738
+624	"Guinea-Bissau"	"1950"	168.9
+430	"Liberia"	"1950"	166.975
+466	"Mali"	"1950"	172.483
+478	"Mauritania"	"1950"	170.149
+562	"Niger"	"1950"	170.946
+566	"Nigeria"	"1950"	168.544
+686	"Senegal"	"1950"	173.913
+694	"Sierra Leone"	"1950"	165.5
+768	"Togo"	"1950"	170.8
+24	"Angola"	"1950"	166.7
+120	"Cameroon"	"1950"	171.251
+140	"Central African Republic"	"1950"	169.3
+148	"Chad"	"1950"	173.69
+178	"Congo"	"1950"	168.447
+180	"Democratic Republic of the Congo"	"1950"	168.469
+226	"Equatorial Guinea"	"1950"	169
+266	"Gabon"	"1950"	171.2
+72	"Botswana"	"1950"	165.42
+426	"Lesotho"	"1950"	167.97
+516	"Namibia"	"1950"	171.906
+710	"South Africa"	"1950"	170.1
+748	"Swaziland"	"1950"	169.473
+108	"Burundi"	"1950"	169.355
+174	"Comoros"	"1950"	166.8
+262	"Djibouti"	"1950"	0
+232	"Eritrea"	"1950"	156.7
+404	"Kenya"	"1950"	169.884
+450	"Madagascar"	"1950"	164.056
+454	"Malawi"	"1950"	166.617
+480	"Mauritius"	"1950"	0
+508	"Mozambique"	"1950"	165.967
+646	"Rwanda"	"1950"	168.887
+706	"Somalia"	"1950"	172.9
+800	"Uganda"	"1950"	169.822
+834	"United Republic of Tanzania"	"1950"	166.195
+894	"Zambia"	"1950"	169.635
+716	"Zimbabwe"	"1950"	170.988
+40	"Austria"	"1960"	177
+56	"Belgium"	"1960"	176.8
+250	"France"	"1960"	174.9
+276	"Germany"	"1960"	178.9
+528	"Netherlands"	"1960"	182.2
+756	"Switzerland"	"1960"	171.3
+208	"Denmark"	"1960"	180.2
+233	"Estonia"	"1960"	174.1
+246	"Finland"	"1960"	179.3
+372	"Ireland"	"1960"	175.8
+428	"Latvia"	"1960"	174.211
+440	"Lithuania"	"1960"	173.725
+578	"Norway"	"1960"	179.3
+752	"Sweden"	"1960"	180.1
+826	"United Kingdom"	"1960"	176.9
+8	"Albania"	"1960"	169.2
+70	"Bosnia and Herzegovina"	"1960"	0
+191	"Croatia"	"1960"	178.2
+300	"Greece"	"1960"	177.6
+380	"Italy"	"1960"	173
+620	"Portugal"	"1960"	169.24
+688	"Serbia"	"1960"	175.8
+705	"Slovenia"	"1960"	175.8
+724	"Spain"	"1960"	174.2
+807	"Former Yugoslav Republic of Macedonia"	"1960"	168.8
+112	"Belarus"	"1960"	166.5
+100	"Bulgaria"	"1960"	172.9
+203	"Czech Republic"	"1960"	177.7
+348	"Hungary"	"1960"	178.2
+616	"Poland"	"1960"	175.3
+498	"Republic of Moldova"	"1960"	172.813
+642	"Romania"	"1960"	169.253
+643	"Russian Federation"	"1960"	173.6
+703	"Slovakia"	"1960"	172.8
+804	"Ukraine"	"1960"	165.4
+124	"Canada"	"1960"	178.3
+840	"United States of America"	"1960"	177.3
+192	"Cuba"	"1960"	169.2
+214	"Dominican Republic"	"1960"	169
+332	"Haiti"	"1960"	171.064
+388	"Jamaica"	"1960"	168.281
+630	"Puerto Rico"	"1960"	163.66
+780	"Trinidad and Tobago"	"1960"	0
+188	"Costa Rica"	"1960"	166.1
+222	"El Salvador"	"1960"	0
+320	"Guatemala"	"1960"	159.8
+340	"Honduras"	"1960"	164.15
+484	"Mexico"	"1960"	166.365
+558	"Nicaragua"	"1960"	165.902
+591	"Panama"	"1960"	0
+32	"Argentina"	"1960"	170.8
+68	"Bolivia (Plurinational State of)"	"1960"	163.182
+76	"Brazil"	"1960"	169
+152	"Chile"	"1960"	169.64
+170	"Colombia"	"1960"	168.5
+218	"Ecuador"	"1960"	0
+328	"Guyana"	"1960"	156.8
+600	"Paraguay"	"1960"	165.363
+604	"Peru"	"1960"	163.056
+858	"Uruguay"	"1960"	168.1
+36	"Australia"	"1960"	176.3
+554	"New Zealand"	"1960"	174.625
+598	"Papua New Guinea"	"1960"	158.875
+4	"Afghanistan"	"1960"	166.8
+50	"Bangladesh"	"1960"	162.15
+356	"India"	"1960"	163.883
+364	"Iran (Islamic Republic of)"	"1960"	169.14
+524	"Nepal"	"1960"	162.459
+586	"Pakistan"	"1960"	168.1
+144	"Sri Lanka"	"1960"	163.885
+156	"China"	"1960"	170
+344	"Hong Kong China"	"1960"	167.1
+408	"Democratic People's Republic of Korea"	"1960"	170.7
+392	"Japan"	"1960"	165.7
+496	"Mongolia"	"1960"	164.8
+410	"Korea"	"1960"	170.7
+9002	"Taiwan"	"1960"	169.7
+116	"Cambodia"	"1960"	162.84
+360	"Indonesia"	"1960"	162.41
+418	"Lao People's Democratic Republic"	"1960"	163.2
+458	"Malaysia"	"1960"	162.5
+104	"Myanmar"	"1960"	164.8
+608	"Philippines"	"1960"	164.6
+702	"Singapore"	"1960"	0
+764	"Thailand"	"1960"	161.2
+704	"Viet Nam"	"1960"	158.4
+51	"Armenia"	"1960"	170.601
+31	"Azerbaijan"	"1960"	171.734
+48	"Bahrain"	"1960"	164
+196	"Cyprus"	"1960"	168.334
+268	"Georgia"	"1960"	164.26
+368	"Iraq"	"1960"	166.15
+376	"Israel"	"1960"	165.746
+400	"Jordan"	"1960"	170.317
+414	"Kuwait"	"1960"	0
+422	"Lebanon"	"1960"	169.352
+275	"Palestinian Authority"	"1960"	172
+512	"Oman"	"1960"	0
+682	"Saudi Arabia"	"1960"	170.8
+760	"Syrian Arab Republic"	"1960"	167.274
+792	"Turkey"	"1960"	167.4
+784	"United Arab Emirates"	"1960"	0
+887	"Yemen"	"1960"	161.99
+398	"Kazakhstan"	"1960"	171.4
+417	"Kyrgyzstan"	"1960"	169.8
+762	"Tajikistan"	"1960"	165.1
+795	"Turkmenistan"	"1960"	167.5
+860	"Uzbekistan"	"1960"	171.2
+12	"Algeria"	"1960"	169
+818	"Egypt"	"1960"	170.632
+434	"Libya"	"1960"	165.11
+504	"Morocco"	"1960"	169.913
+729	"Sudan (North)"	"1960"	167.9
+788	"Tunisia"	"1960"	162.9
+204	"Benin"	"1960"	170.688
+854	"Burkina Faso"	"1960"	172.798
+132	"Cape Verde"	"1960"	0
+384	"Cote d'Ivoire"	"1960"	171.3
+270	"Gambia"	"1960"	166.6
+288	"Ghana"	"1960"	169.771
+324	"Guinea"	"1960"	169.621
+624	"Guinea-Bissau"	"1960"	168.9
+430	"Liberia"	"1960"	168.648
+466	"Mali"	"1960"	172.727
+478	"Mauritania"	"1960"	170.149
+562	"Niger"	"1960"	171.44
+566	"Nigeria"	"1960"	169.769
+686	"Senegal"	"1960"	174.091
+694	"Sierra Leone"	"1960"	165.5
+768	"Togo"	"1960"	170.6
+24	"Angola"	"1960"	166.7
+120	"Cameroon"	"1960"	171.519
+140	"Central African Republic"	"1960"	170.8
+148	"Chad"	"1960"	174.3
+178	"Congo"	"1960"	169.376
+180	"Democratic Republic of the Congo"	"1960"	168.32
+226	"Equatorial Guinea"	"1960"	169
+266	"Gabon"	"1960"	170.7
+72	"Botswana"	"1960"	165.42
+426	"Lesotho"	"1960"	168.269
+516	"Namibia"	"1960"	172.076
+710	"South Africa"	"1960"	169.5
+748	"Swaziland"	"1960"	169.884
+108	"Burundi"	"1960"	169.355
+174	"Comoros"	"1960"	167
+262	"Djibouti"	"1960"	0
+232	"Eritrea"	"1960"	155.75
+404	"Kenya"	"1960"	170.745
+450	"Madagascar"	"1960"	164.954
+454	"Malawi"	"1960"	167.089
+480	"Mauritius"	"1960"	0
+508	"Mozambique"	"1960"	166.269
+646	"Rwanda"	"1960"	168.804
+706	"Somalia"	"1960"	172.9
+800	"Uganda"	"1960"	170.087
+834	"United Republic of Tanzania"	"1960"	167.167
+894	"Zambia"	"1960"	169.719
+716	"Zimbabwe"	"1960"	171.076
+40	"Austria"	"1970"	177.5
+56	"Belgium"	"1970"	176.8
+250	"France"	"1970"	175.1
+276	"Germany"	"1970"	179.4
+528	"Netherlands"	"1970"	182.3
+756	"Switzerland"	"1970"	171.3
+208	"Denmark"	"1970"	180.8
+233	"Estonia"	"1970"	179.6
+246	"Finland"	"1970"	177.5
+372	"Ireland"	"1970"	176.4
+428	"Latvia"	"1970"	174.211
+440	"Lithuania"	"1970"	173.725
+578	"Norway"	"1970"	179.5
+752	"Sweden"	"1970"	180
+826	"United Kingdom"	"1970"	177.1
+8	"Albania"	"1970"	169.2
+70	"Bosnia and Herzegovina"	"1970"	0
+191	"Croatia"	"1970"	178.2
+300	"Greece"	"1970"	177.6
+380	"Italy"	"1970"	174.1
+620	"Portugal"	"1970"	171.38
+688	"Serbia"	"1970"	175.8
+705	"Slovenia"	"1970"	179.2
+724	"Spain"	"1970"	175.2
+807	"Former Yugoslav Republic of Macedonia"	"1970"	168.8
+112	"Belarus"	"1970"	166.5
+100	"Bulgaria"	"1970"	172.9
+203	"Czech Republic"	"1970"	178.7
+348	"Hungary"	"1970"	178.8
+616	"Poland"	"1970"	175.3
+498	"Republic of Moldova"	"1970"	173.535
+642	"Romania"	"1970"	169.253
+643	"Russian Federation"	"1970"	177
+703	"Slovakia"	"1970"	172.8
+804	"Ukraine"	"1970"	165.4
+124	"Canada"	"1970"	178.8
+840	"United States of America"	"1970"	178.3
+192	"Cuba"	"1970"	169.2
+214	"Dominican Republic"	"1970"	168.8
+332	"Haiti"	"1970"	171.254
+388	"Jamaica"	"1970"	168.281
+630	"Puerto Rico"	"1970"	163.66
+780	"Trinidad and Tobago"	"1970"	0
+188	"Costa Rica"	"1970"	166.1
+222	"El Salvador"	"1970"	0
+320	"Guatemala"	"1970"	160.3
+340	"Honduras"	"1970"	164.634
+484	"Mexico"	"1970"	166.365
+558	"Nicaragua"	"1970"	166.159
+591	"Panama"	"1970"	0
+32	"Argentina"	"1970"	170.8
+68	"Bolivia (Plurinational State of)"	"1970"	163.886
+76	"Brazil"	"1970"	171.6
+152	"Chile"	"1970"	169.64
+170	"Colombia"	"1970"	168.9
+218	"Ecuador"	"1970"	0
+328	"Guyana"	"1970"	167.2
+600	"Paraguay"	"1970"	165.363
+604	"Peru"	"1970"	163.931
+858	"Uruguay"	"1970"	168.1
+36	"Australia"	"1970"	178.4
+554	"New Zealand"	"1970"	174.625
+598	"Papua New Guinea"	"1970"	158.875
+4	"Afghanistan"	"1970"	166.8
+50	"Bangladesh"	"1970"	162.15
+356	"India"	"1970"	164.294
+364	"Iran (Islamic Republic of)"	"1970"	170.85
+524	"Nepal"	"1970"	162.71
+586	"Pakistan"	"1970"	168.1
+144	"Sri Lanka"	"1970"	163.885
+156	"China"	"1970"	170
+344	"Hong Kong China"	"1970"	167.1
+408	"Democratic People's Republic of Korea"	"1970"	171.9
+392	"Japan"	"1970"	166.8
+496	"Mongolia"	"1970"	164.8
+410	"Korea"	"1970"	171.9
+9002	"Taiwan"	"1970"	170.5
+116	"Cambodia"	"1970"	162.674
+360	"Indonesia"	"1970"	163.11
+418	"Lao People's Democratic Republic"	"1970"	163.2
+458	"Malaysia"	"1970"	162.5
+104	"Myanmar"	"1970"	164.8
+608	"Philippines"	"1970"	164.6
+702	"Singapore"	"1970"	172.2
+764	"Thailand"	"1970"	161.2
+704	"Viet Nam"	"1970"	158.4
+51	"Armenia"	"1970"	171.749
+31	"Azerbaijan"	"1970"	172.039
+48	"Bahrain"	"1970"	164
+196	"Cyprus"	"1970"	168.334
+268	"Georgia"	"1970"	164.26
+368	"Iraq"	"1970"	166.15
+376	"Israel"	"1970"	165.746
+400	"Jordan"	"1970"	170.53
+414	"Kuwait"	"1970"	0
+422	"Lebanon"	"1970"	169.352
+275	"Palestinian Authority"	"1970"	172.5
+512	"Oman"	"1970"	0
+682	"Saudi Arabia"	"1970"	172.3
+760	"Syrian Arab Republic"	"1970"	167.274
+792	"Turkey"	"1970"	168.6
+784	"United Arab Emirates"	"1970"	0
+887	"Yemen"	"1970"	161.99
+398	"Kazakhstan"	"1970"	171.3
+417	"Kyrgyzstan"	"1970"	170.6
+762	"Tajikistan"	"1970"	165.1
+795	"Turkmenistan"	"1970"	167.5
+860	"Uzbekistan"	"1970"	172
+12	"Algeria"	"1970"	169
+818	"Egypt"	"1970"	171.248
+434	"Libya"	"1970"	165.11
+504	"Morocco"	"1970"	170.239
+729	"Sudan (North)"	"1970"	167.9
+788	"Tunisia"	"1970"	165.3
+204	"Benin"	"1970"	170.286
+854	"Burkina Faso"	"1970"	172.844
+132	"Cape Verde"	"1970"	0
+384	"Cote d'Ivoire"	"1970"	171.2
+270	"Gambia"	"1970"	166.6
+288	"Ghana"	"1970"	169.926
+324	"Guinea"	"1970"	169.712
+624	"Guinea-Bissau"	"1970"	168.9
+430	"Liberia"	"1970"	168.472
+466	"Mali"	"1970"	172.503
+478	"Mauritania"	"1970"	170.149
+562	"Niger"	"1970"	171.35
+566	"Nigeria"	"1970"	169.654
+686	"Senegal"	"1970"	174.736
+694	"Sierra Leone"	"1970"	167.4
+768	"Togo"	"1970"	170.5
+24	"Angola"	"1970"	166.7
+120	"Cameroon"	"1970"	171.585
+140	"Central African Republic"	"1970"	169.9
+148	"Chad"	"1970"	173.8
+178	"Congo"	"1970"	169.036
+180	"Democratic Republic of the Congo"	"1970"	169.049
+226	"Equatorial Guinea"	"1970"	169
+266	"Gabon"	"1970"	170.5
+72	"Botswana"	"1970"	165.42
+426	"Lesotho"	"1970"	168.535
+516	"Namibia"	"1970"	172.242
+710	"South Africa"	"1970"	168.9
+748	"Swaziland"	"1970"	170.493
+108	"Burundi"	"1970"	169.355
+174	"Comoros"	"1970"	167
+262	"Djibouti"	"1970"	0
+232	"Eritrea"	"1970"	156
+404	"Kenya"	"1970"	170.902
+450	"Madagascar"	"1970"	163.884
+454	"Malawi"	"1970"	166.729
+480	"Mauritius"	"1970"	0
+508	"Mozambique"	"1970"	165.547
+646	"Rwanda"	"1970"	167.908
+706	"Somalia"	"1970"	172.9
+800	"Uganda"	"1970"	169.612
+834	"United Republic of Tanzania"	"1970"	167.805
+894	"Zambia"	"1970"	168.932
+716	"Zimbabwe"	"1970"	171.34
+40	"Austria"	"1980"	178.8
+56	"Belgium"	"1980"	176.8
+250	"France"	"1980"	176.5
+276	"Germany"	"1980"	180.5
+528	"Netherlands"	"1980"	182.7
+756	"Switzerland"	"1980"	171.3
+208	"Denmark"	"1980"	183.2
+233	"Estonia"	"1980"	179.1
+246	"Finland"	"1980"	178.2
+372	"Ireland"	"1980"	176.6
+428	"Latvia"	"1980"	174.211
+440	"Lithuania"	"1980"	173.725
+578	"Norway"	"1980"	179.7
+752	"Sweden"	"1980"	180.4
+826	"United Kingdom"	"1980"	176.83
+8	"Albania"	"1980"	169.2
+70	"Bosnia and Herzegovina"	"1980"	0
+191	"Croatia"	"1980"	178.2
+300	"Greece"	"1980"	177.3
+380	"Italy"	"1980"	174.48
+620	"Portugal"	"1980"	172.13
+688	"Serbia"	"1980"	175.8
+705	"Slovenia"	"1980"	179.2
+724	"Spain"	"1980"	175.6
+807	"Former Yugoslav Republic of Macedonia"	"1980"	168.8
+112	"Belarus"	"1980"	176.4
+100	"Bulgaria"	"1980"	172.9
+203	"Czech Republic"	"1980"	178.7
+348	"Hungary"	"1980"	178.8
+616	"Poland"	"1980"	177.4
+498	"Republic of Moldova"	"1980"	174.225
+642	"Romania"	"1980"	169.253
+643	"Russian Federation"	"1980"	177
+703	"Slovakia"	"1980"	172.8
+804	"Ukraine"	"1980"	165.4
+124	"Canada"	"1980"	179.6
+840	"United States of America"	"1980"	179
+192	"Cuba"	"1980"	169.2
+214	"Dominican Republic"	"1980"	168.8
+332	"Haiti"	"1980"	171.494
+388	"Jamaica"	"1980"	173.6
+630	"Puerto Rico"	"1980"	163.66
+780	"Trinidad and Tobago"	"1980"	174.4
+188	"Costa Rica"	"1980"	173.6
+222	"El Salvador"	"1980"	0
+320	"Guatemala"	"1980"	160.8
+340	"Honduras"	"1980"	164.663
+484	"Mexico"	"1980"	167.806
+558	"Nicaragua"	"1980"	166.4
+591	"Panama"	"1980"	170
+32	"Argentina"	"1980"	170.8
+68	"Bolivia (Plurinational State of)"	"1980"	164.191
+76	"Brazil"	"1980"	171.7
+152	"Chile"	"1980"	173.1
+170	"Colombia"	"1980"	170.6
+218	"Ecuador"	"1980"	0
+328	"Guyana"	"1980"	170.5
+600	"Paraguay"	"1980"	165.363
+604	"Peru"	"1980"	164.236
+858	"Uruguay"	"1980"	168.1
+36	"Australia"	"1980"	178.4
+554	"New Zealand"	"1980"	174.625
+598	"Papua New Guinea"	"1980"	160.9
+4	"Afghanistan"	"1980"	166.8
+50	"Bangladesh"	"1980"	162.377
+356	"India"	"1980"	164.437
+364	"Iran (Islamic Republic of)"	"1980"	172.37
+524	"Nepal"	"1980"	162.953
+586	"Pakistan"	"1980"	168.1
+144	"Sri Lanka"	"1980"	165.8
+156	"China"	"1980"	171.5
+344	"Hong Kong China"	"1980"	167.1
+408	"Democratic People's Republic of Korea"	"1980"	173.8
+392	"Japan"	"1980"	171.66
+496	"Mongolia"	"1980"	164.8
+410	"Korea"	"1980"	173.8
+9002	"Taiwan"	"1980"	170.5
+116	"Cambodia"	"1980"	162.453
+360	"Indonesia"	"1980"	164.01
+418	"Lao People's Democratic Republic"	"1980"	165.2
+458	"Malaysia"	"1980"	162.5
+104	"Myanmar"	"1980"	161.3
+608	"Philippines"	"1980"	165.6
+702	"Singapore"	"1980"	172.2
+764	"Thailand"	"1980"	161.2
+704	"Viet Nam"	"1980"	160
+51	"Armenia"	"1980"	171.653
+31	"Azerbaijan"	"1980"	172.153
+48	"Bahrain"	"1980"	164
+196	"Cyprus"	"1980"	168.334
+268	"Georgia"	"1980"	164.26
+368	"Iraq"	"1980"	166.15
+376	"Israel"	"1980"	165.746
+400	"Jordan"	"1980"	170.29
+414	"Kuwait"	"1980"	0
+422	"Lebanon"	"1980"	169.352
+275	"Palestinian Authority"	"1980"	172.5
+512	"Oman"	"1980"	0
+682	"Saudi Arabia"	"1980"	172.3
+760	"Syrian Arab Republic"	"1980"	167.274
+792	"Turkey"	"1980"	168.6
+784	"United Arab Emirates"	"1980"	169.05
+887	"Yemen"	"1980"	167.6
+398	"Kazakhstan"	"1980"	171.3
+417	"Kyrgyzstan"	"1980"	170.6
+762	"Tajikistan"	"1980"	165.1
+795	"Turkmenistan"	"1980"	167.5
+860	"Uzbekistan"	"1980"	172
+12	"Algeria"	"1980"	169
+818	"Egypt"	"1980"	171.283
+434	"Libya"	"1980"	165.11
+504	"Morocco"	"1980"	170.29
+729	"Sudan (North)"	"1980"	167.9
+788	"Tunisia"	"1980"	165.3
+204	"Benin"	"1980"	169.163
+854	"Burkina Faso"	"1980"	172.829
+132	"Cape Verde"	"1980"	168.986
+384	"Cote d'Ivoire"	"1980"	171
+270	"Gambia"	"1980"	166.6
+288	"Ghana"	"1980"	170.005
+324	"Guinea"	"1980"	169.49
+624	"Guinea-Bissau"	"1980"	168.9
+430	"Liberia"	"1980"	167.264
+466	"Mali"	"1980"	172.238
+478	"Mauritania"	"1980"	170.149
+562	"Niger"	"1980"	170.651
+566	"Nigeria"	"1980"	169.503
+686	"Senegal"	"1980"	174.254
+694	"Sierra Leone"	"1980"	165.8
+768	"Togo"	"1980"	167.7
+24	"Angola"	"1980"	166.7
+120	"Cameroon"	"1980"	170.967
+140	"Central African Republic"	"1980"	169.9
+148	"Chad"	"1980"	173.3
+178	"Congo"	"1980"	168.369
+180	"Democratic Republic of the Congo"	"1980"	167.542
+226	"Equatorial Guinea"	"1980"	169
+266	"Gabon"	"1980"	169.7
+72	"Botswana"	"1980"	167.1
+426	"Lesotho"	"1980"	167.386
+516	"Namibia"	"1980"	171.343
+710	"South Africa"	"1980"	168.1
+748	"Swaziland"	"1980"	170.238
+108	"Burundi"	"1980"	169.355
+174	"Comoros"	"1980"	167
+262	"Djibouti"	"1980"	168.893
+232	"Eritrea"	"1980"	156
+404	"Kenya"	"1980"	171.221
+450	"Madagascar"	"1980"	162.874
+454	"Malawi"	"1980"	166.244
+480	"Mauritius"	"1980"	0
+508	"Mozambique"	"1980"	165.15
+646	"Rwanda"	"1980"	167.162
+706	"Somalia"	"1980"	172.9
+800	"Uganda"	"1980"	169.274
+834	"United Republic of Tanzania"	"1980"	166.861
+894	"Zambia"	"1980"	168.194
+716	"Zimbabwe"	"1980"	171.004
+40	"Austria"	"1990"	178.8
+56	"Belgium"	"1990"	176.8
+250	"France"	"1990"	176.5
+276	"Germany"	"1990"	180.5
+528	"Netherlands"	"1990"	182.7
+756	"Switzerland"	"1990"	171.3
+208	"Denmark"	"1990"	183.2
+233	"Estonia"	"1990"	179.1
+246	"Finland"	"1990"	178.2
+372	"Ireland"	"1990"	176.6
+428	"Latvia"	"1990"	174.211
+440	"Lithuania"	"1990"	173.725
+578	"Norway"	"1990"	179.7
+752	"Sweden"	"1990"	180.4
+826	"United Kingdom"	"1990"	176.83
+8	"Albania"	"1990"	169.2
+70	"Bosnia and Herzegovina"	"1990"	0
+191	"Croatia"	"1990"	178.2
+300	"Greece"	"1990"	177.3
+380	"Italy"	"1990"	174.48
+620	"Portugal"	"1990"	172.13
+688	"Serbia"	"1990"	175.8
+705	"Slovenia"	"1990"	179.2
+724	"Spain"	"1990"	175.6
+807	"Former Yugoslav Republic of Macedonia"	"1990"	168.8
+112	"Belarus"	"1990"	176.4
+100	"Bulgaria"	"1990"	172.9
+203	"Czech Republic"	"1990"	178.7
+348	"Hungary"	"1990"	178.8
+616	"Poland"	"1990"	177.4
+498	"Republic of Moldova"	"1990"	174.225
+642	"Romania"	"1990"	173.3
+643	"Russian Federation"	"1990"	172.1
+703	"Slovakia"	"1990"	172.8
+804	"Ukraine"	"1990"	165.4
+124	"Canada"	"1990"	179.6
+840	"United States of America"	"1990"	175.2
+192	"Cuba"	"1990"	169.2
+214	"Dominican Republic"	"1990"	171.7
+332	"Haiti"	"1990"	171.494
+388	"Jamaica"	"1990"	173.2
+630	"Puerto Rico"	"1990"	163.66
+780	"Trinidad and Tobago"	"1990"	174.4
+188	"Costa Rica"	"1990"	173.6
+222	"El Salvador"	"1990"	168.7
+320	"Guatemala"	"1990"	163.1
+340	"Honduras"	"1990"	165.3
+484	"Mexico"	"1990"	170.3
+558	"Nicaragua"	"1990"	169.3
+591	"Panama"	"1990"	172.1
+32	"Argentina"	"1990"	174.4
+68	"Bolivia (Plurinational State of)"	"1990"	168.1
+76	"Brazil"	"1990"	173
+152	"Chile"	"1990"	174.4
+170	"Colombia"	"1990"	170.6
+218	"Ecuador"	"1990"	168.1
+328	"Guyana"	"1990"	170.5
+600	"Paraguay"	"1990"	172.6
+604	"Peru"	"1990"	166.5
+858	"Uruguay"	"1990"	168.3
+36	"Australia"	"1990"	178.4
+554	"New Zealand"	"1990"	174.625
+598	"Papua New Guinea"	"1990"	160.9
+4	"Afghanistan"	"1990"	167.1
+50	"Bangladesh"	"1990"	159.8
+356	"India"	"1990"	164.437
+364	"Iran (Islamic Republic of)"	"1990"	172.37
+524	"Nepal"	"1990"	162.953
+586	"Pakistan"	"1990"	164.1
+144	"Sri Lanka"	"1990"	169.4
+156	"China"	"1990"	171.5
+344	"Hong Kong China"	"1990"	167.1
+408	"Democratic People's Republic of Korea"	"1990"	173.8
+392	"Japan"	"1990"	171.66
+496	"Mongolia"	"1990"	164.8
+410	"Korea"	"1990"	173.8
+9002	"Taiwan"	"1990"	170.5
+116	"Cambodia"	"1990"	162.453
+360	"Indonesia"	"1990"	165.853
+418	"Lao People's Democratic Republic"	"1990"	163.4
+458	"Malaysia"	"1990"	168.8
+104	"Myanmar"	"1990"	165.6
+608	"Philippines"	"1990"	166.4
+702	"Singapore"	"1990"	172.2
+764	"Thailand"	"1990"	171.2
+704	"Viet Nam"	"1990"	162.9
+51	"Armenia"	"1990"	172.4
+31	"Azerbaijan"	"1990"	172.153
+48	"Bahrain"	"1990"	164
+196	"Cyprus"	"1990"	168.334
+268	"Georgia"	"1990"	164.26
+368	"Iraq"	"1990"	170.1
+376	"Israel"	"1990"	165.746
+400	"Jordan"	"1990"	171.8
+414	"Kuwait"	"1990"	172.9
+422	"Lebanon"	"1990"	169.352
+275	"Palestinian Authority"	"1990"	172.5
+512	"Oman"	"1990"	170.9
+682	"Saudi Arabia"	"1990"	171.7
+760	"Syrian Arab Republic"	"1990"	168.9
+792	"Turkey"	"1990"	169.7
+784	"United Arab Emirates"	"1990"	169.05
+887	"Yemen"	"1990"	164.4
+398	"Kazakhstan"	"1990"	171.3
+417	"Kyrgyzstan"	"1990"	170.6
+762	"Tajikistan"	"1990"	168
+795	"Turkmenistan"	"1990"	167.5
+860	"Uzbekistan"	"1990"	172
+12	"Algeria"	"1990"	171.3
+818	"Egypt"	"1990"	169.4
+434	"Libya"	"1990"	165.11
+504	"Morocco"	"1990"	169.2
+729	"Sudan (North)"	"1990"	167.4
+788	"Tunisia"	"1990"	170.2
+204	"Benin"	"1990"	169.163
+854	"Burkina Faso"	"1990"	166.3
+132	"Cape Verde"	"1990"	168.986
+384	"Cote d'Ivoire"	"1990"	168.5
+270	"Gambia"	"1990"	166.6
+288	"Ghana"	"1990"	167.9
+324	"Guinea"	"1990"	169.49
+624	"Guinea-Bissau"	"1990"	168.9
+430	"Liberia"	"1990"	167.264
+466	"Mali"	"1990"	165.6
+478	"Mauritania"	"1990"	161.3
+562	"Niger"	"1990"	164.4
+566	"Nigeria"	"1990"	164.9
+686	"Senegal"	"1990"	168.6
+694	"Sierra Leone"	"1990"	166
+768	"Togo"	"1990"	167.9
+24	"Angola"	"1990"	166.7
+120	"Cameroon"	"1990"	168.3
+140	"Central African Republic"	"1990"	166.1
+148	"Chad"	"1990"	173.3
+178	"Congo"	"1990"	168.369
+180	"Democratic Republic of the Congo"	"1990"	167.542
+226	"Equatorial Guinea"	"1990"	163
+266	"Gabon"	"1990"	169.7
+72	"Botswana"	"1990"	167.1
+426	"Lesotho"	"1990"	168
+516	"Namibia"	"1990"	168.6
+710	"South Africa"	"1990"	169.8
+748	"Swaziland"	"1990"	170.238
+108	"Burundi"	"1990"	169.355
+174	"Comoros"	"1990"	167
+262	"Djibouti"	"1990"	168.893
+232	"Eritrea"	"1990"	162.9
+404	"Kenya"	"1990"	167.4
+450	"Madagascar"	"1990"	162.2
+454	"Malawi"	"1990"	161.6
+480	"Mauritius"	"1990"	171.8
+508	"Mozambique"	"1990"	165.15
+646	"Rwanda"	"1990"	162.7
+706	"Somalia"	"1990"	172.9
+800	"Uganda"	"1990"	165.1
+834	"United Republic of Tanzania"	"1990"	164
+894	"Zambia"	"1990"	163.4
+716	"Zimbabwe"	"1990"	169.9
+40	"Austria"	"2000"	178.8
+56	"Belgium"	"2000"	176.8
+250	"France"	"2000"	176.5
+276	"Germany"	"2000"	180.5
+528	"Netherlands"	"2000"	182.7
+756	"Switzerland"	"2000"	171.3
+208	"Denmark"	"2000"	183.2
+233	"Estonia"	"2000"	179.1
+246	"Finland"	"2000"	178.2
+372	"Ireland"	"2000"	176.6
+428	"Latvia"	"2000"	174.211
+440	"Lithuania"	"2000"	173.725
+578	"Norway"	"2000"	179.7
+752	"Sweden"	"2000"	180.4
+826	"United Kingdom"	"2000"	176.83
+8	"Albania"	"2000"	167.9
+70	"Bosnia and Herzegovina"	"2000"	173.2
+191	"Croatia"	"2000"	178.2
+300	"Greece"	"2000"	177.3
+380	"Italy"	"2000"	174.48
+620	"Portugal"	"2000"	172.13
+688	"Serbia"	"2000"	174.3
+705	"Slovenia"	"2000"	179.2
+724	"Spain"	"2000"	175.6
+807	"Former Yugoslav Republic of Macedonia"	"2000"	168.8
+112	"Belarus"	"2000"	176.4
+100	"Bulgaria"	"2000"	172.9
+203	"Czech Republic"	"2000"	178.7
+348	"Hungary"	"2000"	178.8
+616	"Poland"	"2000"	177.4
+498	"Republic of Moldova"	"2000"	174.225
+642	"Romania"	"2000"	172.3
+643	"Russian Federation"	"2000"	172.6
+703	"Slovakia"	"2000"	172.8
+804	"Ukraine"	"2000"	173.1
+124	"Canada"	"2000"	179.6
+840	"United States of America"	"2000"	175.2
+192	"Cuba"	"2000"	169.2
+214	"Dominican Republic"	"2000"	173.7
+332	"Haiti"	"2000"	171.494
+388	"Jamaica"	"2000"	173.2
+630	"Puerto Rico"	"2000"	163.66
+780	"Trinidad and Tobago"	"2000"	174.5
+188	"Costa Rica"	"2000"	173.6
+222	"El Salvador"	"2000"	170.7
+320	"Guatemala"	"2000"	163.6
+340	"Honduras"	"2000"	167.6
+484	"Mexico"	"2000"	170.3
+558	"Nicaragua"	"2000"	170.1
+591	"Panama"	"2000"	170.3
+32	"Argentina"	"2000"	174.4
+68	"Bolivia (Plurinational State of)"	"2000"	168.7
+76	"Brazil"	"2000"	173
+152	"Chile"	"2000"	175
+170	"Colombia"	"2000"	172.2
+218	"Ecuador"	"2000"	168.1
+328	"Guyana"	"2000"	172.9
+600	"Paraguay"	"2000"	172.6
+604	"Peru"	"2000"	166.5
+858	"Uruguay"	"2000"	168.3
+36	"Australia"	"2000"	178.4
+554	"New Zealand"	"2000"	174.625
+598	"Papua New Guinea"	"2000"	160.9
+4	"Afghanistan"	"2000"	161.4
+50	"Bangladesh"	"2000"	163.3
+356	"India"	"2000"	164.437
+364	"Iran (Islamic Republic of)"	"2000"	171.1
+524	"Nepal"	"2000"	162
+586	"Pakistan"	"2000"	166.8
+144	"Sri Lanka"	"2000"	172.1
+156	"China"	"2000"	171.5
+344	"Hong Kong China"	"2000"	167.1
+408	"Democratic People's Republic of Korea"	"2000"	173.8
+392	"Japan"	"2000"	171.66
+496	"Mongolia"	"2000"	164.8
+410	"Korea"	"2000"	173.8
+9002	"Taiwan"	"2000"	170.5
+116	"Cambodia"	"2000"	163.9
+360	"Indonesia"	"2000"	165.853
+418	"Lao People's Democratic Republic"	"2000"	163.5
+458	"Malaysia"	"2000"	168.8
+104	"Myanmar"	"2000"	167.1
+608	"Philippines"	"2000"	166.4
+702	"Singapore"	"2000"	174.9
+764	"Thailand"	"2000"	171.2
+704	"Viet Nam"	"2000"	165.9
+51	"Armenia"	"2000"	172.2
+31	"Azerbaijan"	"2000"	171.8
+48	"Bahrain"	"2000"	164
+196	"Cyprus"	"2000"	168.334
+268	"Georgia"	"2000"	173.2
+368	"Iraq"	"2000"	169.6
+376	"Israel"	"2000"	165.746
+400	"Jordan"	"2000"	173.5
+414	"Kuwait"	"2000"	172.9
+422	"Lebanon"	"2000"	169.352
+275	"Palestinian Authority"	"2000"	172.5
+512	"Oman"	"2000"	170.9
+682	"Saudi Arabia"	"2000"	171.7
+760	"Syrian Arab Republic"	"2000"	171
+792	"Turkey"	"2000"	169.7
+784	"United Arab Emirates"	"2000"	169.05
+887	"Yemen"	"2000"	164.4
+398	"Kazakhstan"	"2000"	171.3
+417	"Kyrgyzstan"	"2000"	170.6
+762	"Tajikistan"	"2000"	167.6
+795	"Turkmenistan"	"2000"	167.5
+860	"Uzbekistan"	"2000"	170.5
+12	"Algeria"	"2000"	169.5
+818	"Egypt"	"2000"	171.7
+434	"Libya"	"2000"	165.11
+504	"Morocco"	"2000"	171.2
+729	"Sudan (North)"	"2000"	163.8
+788	"Tunisia"	"2000"	170.2
+204	"Benin"	"2000"	167
+854	"Burkina Faso"	"2000"	165.1
+132	"Cape Verde"	"2000"	168.986
+384	"Cote d'Ivoire"	"2000"	168.5
+270	"Gambia"	"2000"	170.4
+288	"Ghana"	"2000"	167.8
+324	"Guinea"	"2000"	169.49
+624	"Guinea-Bissau"	"2000"	168
+430	"Liberia"	"2000"	167.264
+466	"Mali"	"2000"	165.1
+478	"Mauritania"	"2000"	166.2
+562	"Niger"	"2000"	164.6
+566	"Nigeria"	"2000"	165.7
+686	"Senegal"	"2000"	168.7
+694	"Sierra Leone"	"2000"	167.5
+768	"Togo"	"2000"	167.9
+24	"Angola"	"2000"	163.9
+120	"Cameroon"	"2000"	168
+140	"Central African Republic"	"2000"	166.1
+148	"Chad"	"2000"	167.5
+178	"Congo"	"2000"	168.369
+180	"Democratic Republic of the Congo"	"2000"	167.542
+226	"Equatorial Guinea"	"2000"	163
+266	"Gabon"	"2000"	170.4
+72	"Botswana"	"2000"	170
+426	"Lesotho"	"2000"	164.2
+516	"Namibia"	"2000"	169.8
+710	"South Africa"	"2000"	169.8
+748	"Swaziland"	"2000"	170.238
+108	"Burundi"	"2000"	161.3
+174	"Comoros"	"2000"	167
+262	"Djibouti"	"2000"	168.893
+232	"Eritrea"	"2000"	165.4
+404	"Kenya"	"2000"	167.6
+450	"Madagascar"	"2000"	164.3
+454	"Malawi"	"2000"	162.5
+480	"Mauritius"	"2000"	171.8
+508	"Mozambique"	"2000"	165
+646	"Rwanda"	"2000"	164.3
+706	"Somalia"	"2000"	169.9
+800	"Uganda"	"2000"	165.5
+834	"United Republic of Tanzania"	"2000"	164
+894	"Zambia"	"2000"	163.5
+716	"Zimbabwe"	"2000"	169.9

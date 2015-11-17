@@ -1,0 +1,1801 @@
+"Code"	"Country"	"variable"	"value"
+40	"Austria"	"1820"	0.533523
+56	"Belgium"	"1820"	0.624367
+250	"France"	"1820"	0.59
+278	"German Democratic Republic (until 1990)"	"1820"	0.510315
+276	"Germany"	"1820"	0
+442	"Luxembourg"	"1820"	0
+528	"Netherlands"	"1820"	0.5633
+756	"Switzerland"	"1820"	0.417343
+208	"Denmark"	"1820"	0.54142
+233	"Estonia"	"1820"	0
+246	"Finland"	"1820"	0
+372	"Ireland"	"1820"	0.445814
+428	"Latvia"	"1820"	0
+440	"Lithuania"	"1820"	0
+578	"Norway"	"1820"	0.437341
+752	"Sweden"	"1820"	0.554417
+826	"United Kingdom"	"1820"	0.5927
+8	"Albania"	"1820"	0
+191	"Croatia"	"1820"	0
+300	"Greece"	"1820"	0
+380	"Italy"	"1820"	0.538633
+620	"Portugal"	"1820"	0.550671
+891	"Serbia and Montenegro (until 2006)"	"1820"	0
+705	"Slovenia"	"1820"	0
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1820"	0
+724	"Spain"	"1820"	0.3804
+807	"Former Yugoslav Republic of Macedonia"	"1820"	0
+112	"Belarus"	"1820"	0
+100	"Bulgaria"	"1820"	0
+203	"Czech Republic"	"1820"	0
+200	"Czechoslovakia (until 1993)"	"1820"	0.349103
+348	"Hungary"	"1820"	0.474129
+616	"Poland"	"1820"	0.345105
+498	"Republic of Moldova"	"1820"	0
+642	"Romania"	"1820"	0
+643	"Russian Federation"	"1820"	0
+703	"Slovakia"	"1820"	0
+804	"Ukraine"	"1820"	0.455681
+810	"USSR (until 1991)"	"1820"	0.578503
+124	"Canada"	"1820"	0.451361
+840	"United States of America"	"1820"	0.570073
+44	"Bahamas"	"1820"	0
+52	"Barbados"	"1820"	0
+192	"Cuba"	"1820"	0
+214	"Dominican Republic"	"1820"	0
+332	"Haiti"	"1820"	0
+388	"Jamaica"	"1820"	0
+630	"Puerto Rico"	"1820"	0
+780	"Trinidad and Tobago"	"1820"	0
+188	"Costa Rica"	"1820"	0
+222	"El Salvador"	"1820"	0
+320	"Guatemala"	"1820"	0
+340	"Honduras"	"1820"	0
+484	"Mexico"	"1820"	0.401136
+558	"Nicaragua"	"1820"	0
+591	"Panama"	"1820"	0
+32	"Argentina"	"1820"	0.47101
+68	"Bolivia (Plurinational State of)"	"1820"	0
+76	"Brazil"	"1820"	0.47101
+152	"Chile"	"1820"	0.47101
+170	"Colombia"	"1820"	0
+218	"Ecuador"	"1820"	0
+328	"Guyana"	"1820"	0
+600	"Paraguay"	"1820"	0
+604	"Peru"	"1820"	0.573951
+740	"Suriname"	"1820"	0
+858	"Uruguay"	"1820"	0
+862	"Venezuela (Bolivarian Republic of)"	"1820"	0
+36	"Australia"	"1820"	0
+554	"New Zealand"	"1820"	0
+242	"Fiji"	"1820"	0
+598	"Papua New Guinea"	"1820"	0
+4	"Afghanistan"	"1820"	0
+50	"Bangladesh"	"1820"	0
+356	"India"	"1820"	0.328
+364	"Iran (Islamic Republic of)"	"1820"	0
+524	"Nepal"	"1820"	0
+586	"Pakistan"	"1820"	0
+144	"Sri Lanka"	"1820"	0
+156	"China"	"1820"	0.448543
+344	"Hong Kong China"	"1820"	0
+392	"Japan"	"1820"	0.531575
+410	"Korea"	"1820"	0
+9002	"Taiwan"	"1820"	0
+360	"Indonesia"	"1820"	0.516944
+418	"Lao People's Democratic Republic"	"1820"	0
+458	"Malaysia"	"1820"	0
+104	"Myanmar"	"1820"	0
+608	"Philippines"	"1820"	0
+702	"Singapore"	"1820"	0
+764	"Thailand"	"1820"	0.474269
+704	"Viet Nam"	"1820"	0
+51	"Armenia"	"1820"	0
+31	"Azerbaijan"	"1820"	0
+268	"Georgia"	"1820"	0
+368	"Iraq"	"1820"	0
+376	"Israel"	"1820"	0
+400	"Jordan"	"1820"	0
+422	"Lebanon"	"1820"	0
+760	"Syrian Arab Republic"	"1820"	0
+792	"Turkey"	"1820"	0.577147
+886	"Yemen (until 1990)"	"1820"	0
+398	"Kazakhstan"	"1820"	0
+417	"Kyrgyzstan"	"1820"	0
+762	"Tajikistan"	"1820"	0
+795	"Turkmenistan"	"1820"	0
+860	"Uzbekistan"	"1820"	0
+12	"Algeria"	"1820"	0
+818	"Egypt"	"1820"	0.577147
+504	"Morocco"	"1820"	0
+736	"Sudan (until 2011)"	"1820"	0
+788	"Tunisia"	"1820"	0
+204	"Benin"	"1820"	0.479506
+854	"Burkina Faso"	"1820"	0
+384	"Cote d'Ivoire"	"1820"	0
+270	"Gambia"	"1820"	0
+288	"Ghana"	"1820"	0.584403
+324	"Guinea"	"1820"	0
+624	"Guinea-Bissau"	"1820"	0
+466	"Mali"	"1820"	0
+478	"Mauritania"	"1820"	0
+562	"Niger"	"1820"	0
+566	"Nigeria"	"1820"	0.548526
+686	"Senegal"	"1820"	0.459049
+694	"Sierra Leone"	"1820"	0
+768	"Togo"	"1820"	0
+24	"Angola"	"1820"	0.489334
+120	"Cameroon"	"1820"	0.561505
+140	"Central African Republic"	"1820"	0
+148	"Chad"	"1820"	0
+178	"Congo"	"1820"	0.510688
+266	"Gabon"	"1820"	0
+72	"Botswana"	"1820"	0
+426	"Lesotho"	"1820"	0
+710	"South Africa"	"1820"	0
+108	"Burundi"	"1820"	0
+174	"Comoros"	"1820"	0
+230	"Ethiopia (until 1993)"	"1820"	0
+231	"Ethiopia (from 1993)"	"1820"	0
+404	"Kenya"	"1820"	0
+450	"Madagascar"	"1820"	0
+454	"Malawi"	"1820"	0
+480	"Mauritius"	"1820"	0
+508	"Mozambique"	"1820"	0
+646	"Rwanda"	"1820"	0
+690	"Seychelles"	"1820"	0
+800	"Uganda"	"1820"	0
+834	"United Republic of Tanzania"	"1820"	0
+894	"Zambia"	"1820"	0
+716	"Zimbabwe"	"1820"	0
+40	"Austria"	"1850"	0.360652
+56	"Belgium"	"1850"	0.527683
+250	"France"	"1850"	0.543298
+278	"German Democratic Republic (until 1990)"	"1850"	0.401979
+276	"Germany"	"1850"	0
+442	"Luxembourg"	"1850"	0
+528	"Netherlands"	"1850"	0.484946
+756	"Switzerland"	"1850"	0.495462
+208	"Denmark"	"1850"	0.514793
+233	"Estonia"	"1850"	0
+246	"Finland"	"1850"	0
+372	"Ireland"	"1850"	0.29634
+428	"Latvia"	"1850"	0
+440	"Lithuania"	"1850"	0
+578	"Norway"	"1850"	0.394891
+752	"Sweden"	"1850"	0.461122
+826	"United Kingdom"	"1850"	0.434914
+8	"Albania"	"1850"	0
+191	"Croatia"	"1850"	0
+300	"Greece"	"1850"	0
+380	"Italy"	"1850"	0.50536
+620	"Portugal"	"1850"	0.334622
+891	"Serbia and Montenegro (until 2006)"	"1850"	0
+705	"Slovenia"	"1850"	0.277146
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1850"	0
+724	"Spain"	"1850"	0.316082
+807	"Former Yugoslav Republic of Macedonia"	"1850"	0
+112	"Belarus"	"1850"	0
+100	"Bulgaria"	"1850"	0.395
+203	"Czech Republic"	"1850"	0
+200	"Czechoslovakia (until 1993)"	"1850"	0.485684
+348	"Hungary"	"1850"	0.331053
+616	"Poland"	"1850"	0.361977
+498	"Republic of Moldova"	"1850"	0
+642	"Romania"	"1850"	0
+643	"Russian Federation"	"1850"	0
+703	"Slovakia"	"1850"	0
+804	"Ukraine"	"1850"	0.302709
+810	"USSR (until 1991)"	"1850"	0.54
+124	"Canada"	"1850"	0.26737
+840	"United States of America"	"1850"	0.437974
+44	"Bahamas"	"1850"	0
+52	"Barbados"	"1850"	0
+192	"Cuba"	"1850"	0
+214	"Dominican Republic"	"1850"	0
+332	"Haiti"	"1850"	0
+388	"Jamaica"	"1850"	0
+630	"Puerto Rico"	"1850"	0
+780	"Trinidad and Tobago"	"1850"	0
+188	"Costa Rica"	"1850"	0
+222	"El Salvador"	"1850"	0
+320	"Guatemala"	"1850"	0
+340	"Honduras"	"1850"	0
+484	"Mexico"	"1850"	0.316158
+558	"Nicaragua"	"1850"	0
+591	"Panama"	"1850"	0
+32	"Argentina"	"1850"	0.336867
+68	"Bolivia (Plurinational State of)"	"1850"	0
+76	"Brazil"	"1850"	0.368888
+152	"Chile"	"1850"	0.6361
+170	"Colombia"	"1850"	0
+218	"Ecuador"	"1850"	0
+328	"Guyana"	"1850"	0
+600	"Paraguay"	"1850"	0
+604	"Peru"	"1850"	0.450916
+740	"Suriname"	"1850"	0
+858	"Uruguay"	"1850"	0
+862	"Venezuela (Bolivarian Republic of)"	"1850"	0
+36	"Australia"	"1850"	0.413074
+554	"New Zealand"	"1850"	0
+242	"Fiji"	"1850"	0
+598	"Papua New Guinea"	"1850"	0.257537
+4	"Afghanistan"	"1850"	0
+50	"Bangladesh"	"1850"	0.41827
+356	"India"	"1850"	0.387291
+364	"Iran (Islamic Republic of)"	"1850"	0
+524	"Nepal"	"1850"	0
+586	"Pakistan"	"1850"	0.286889
+144	"Sri Lanka"	"1850"	0
+156	"China"	"1850"	0.327988
+344	"Hong Kong China"	"1850"	0
+392	"Japan"	"1850"	0.457656
+410	"Korea"	"1850"	0
+9002	"Taiwan"	"1850"	0
+360	"Indonesia"	"1850"	0.419696
+418	"Lao People's Democratic Republic"	"1850"	0
+458	"Malaysia"	"1850"	0.252607
+104	"Myanmar"	"1850"	0.304921
+608	"Philippines"	"1850"	0.325497
+702	"Singapore"	"1850"	0
+764	"Thailand"	"1850"	0.42
+704	"Viet Nam"	"1850"	0
+51	"Armenia"	"1850"	0.291218
+31	"Azerbaijan"	"1850"	0
+268	"Georgia"	"1850"	0
+368	"Iraq"	"1850"	0
+376	"Israel"	"1850"	0
+400	"Jordan"	"1850"	0
+422	"Lebanon"	"1850"	0
+760	"Syrian Arab Republic"	"1850"	0
+792	"Turkey"	"1850"	0.374289
+886	"Yemen (until 1990)"	"1850"	0
+398	"Kazakhstan"	"1850"	0
+417	"Kyrgyzstan"	"1850"	0
+762	"Tajikistan"	"1850"	0
+795	"Turkmenistan"	"1850"	0
+860	"Uzbekistan"	"1850"	0
+12	"Algeria"	"1850"	0
+818	"Egypt"	"1850"	0.630997
+504	"Morocco"	"1850"	0
+736	"Sudan (until 2011)"	"1850"	0
+788	"Tunisia"	"1850"	0
+204	"Benin"	"1850"	0.479506
+854	"Burkina Faso"	"1850"	0
+384	"Cote d'Ivoire"	"1850"	0
+270	"Gambia"	"1850"	0
+288	"Ghana"	"1850"	0.429266
+324	"Guinea"	"1850"	0
+624	"Guinea-Bissau"	"1850"	0
+466	"Mali"	"1850"	0
+478	"Mauritania"	"1850"	0
+562	"Niger"	"1850"	0
+566	"Nigeria"	"1850"	0.548526
+686	"Senegal"	"1850"	0.459049
+694	"Sierra Leone"	"1850"	0
+768	"Togo"	"1850"	0
+24	"Angola"	"1850"	0.489334
+120	"Cameroon"	"1850"	0.561505
+140	"Central African Republic"	"1850"	0
+148	"Chad"	"1850"	0.506146
+178	"Congo"	"1850"	0.510688
+266	"Gabon"	"1850"	0
+72	"Botswana"	"1850"	0
+426	"Lesotho"	"1850"	0
+710	"South Africa"	"1850"	0
+108	"Burundi"	"1850"	0
+174	"Comoros"	"1850"	0
+230	"Ethiopia (until 1993)"	"1850"	0
+231	"Ethiopia (from 1993)"	"1850"	0
+404	"Kenya"	"1850"	0
+450	"Madagascar"	"1850"	0
+454	"Malawi"	"1850"	0
+480	"Mauritius"	"1850"	0
+508	"Mozambique"	"1850"	0
+646	"Rwanda"	"1850"	0
+690	"Seychelles"	"1850"	0
+800	"Uganda"	"1850"	0
+834	"United Republic of Tanzania"	"1850"	0
+894	"Zambia"	"1850"	0
+716	"Zimbabwe"	"1850"	0
+40	"Austria"	"1870"	0.360652
+56	"Belgium"	"1870"	0.528058
+250	"France"	"1870"	0.58
+278	"German Democratic Republic (until 1990)"	"1870"	0.480901
+276	"Germany"	"1870"	0
+442	"Luxembourg"	"1870"	0
+528	"Netherlands"	"1870"	0.565
+756	"Switzerland"	"1870"	0.507296
+208	"Denmark"	"1870"	0.488166
+233	"Estonia"	"1870"	0
+246	"Finland"	"1870"	0.505843
+372	"Ireland"	"1870"	0.38539
+428	"Latvia"	"1870"	0.488774
+440	"Lithuania"	"1870"	0
+578	"Norway"	"1870"	0.476508
+752	"Sweden"	"1870"	0.519219
+826	"United Kingdom"	"1870"	0.4897
+8	"Albania"	"1870"	0.412354
+191	"Croatia"	"1870"	0
+300	"Greece"	"1870"	0.499308
+380	"Italy"	"1870"	0.510817
+620	"Portugal"	"1870"	0.515898
+891	"Serbia and Montenegro (until 2006)"	"1870"	0
+705	"Slovenia"	"1870"	0.433808
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1870"	0.325205
+724	"Spain"	"1870"	0.335963
+807	"Former Yugoslav Republic of Macedonia"	"1870"	0
+112	"Belarus"	"1870"	0
+100	"Bulgaria"	"1870"	0.478268
+203	"Czech Republic"	"1870"	0
+200	"Czechoslovakia (until 1993)"	"1870"	0.544001
+348	"Hungary"	"1870"	0.451088
+616	"Poland"	"1870"	0.382372
+498	"Republic of Moldova"	"1870"	0
+642	"Romania"	"1870"	0
+643	"Russian Federation"	"1870"	0
+703	"Slovakia"	"1870"	0
+804	"Ukraine"	"1870"	0.302709
+810	"USSR (until 1991)"	"1870"	0.5
+124	"Canada"	"1870"	0.437922
+840	"United States of America"	"1870"	0.513407
+44	"Bahamas"	"1870"	0
+52	"Barbados"	"1870"	0
+192	"Cuba"	"1870"	0
+214	"Dominican Republic"	"1870"	0
+332	"Haiti"	"1870"	0
+388	"Jamaica"	"1870"	0
+630	"Puerto Rico"	"1870"	0
+780	"Trinidad and Tobago"	"1870"	0
+188	"Costa Rica"	"1870"	0
+222	"El Salvador"	"1870"	0
+320	"Guatemala"	"1870"	0
+340	"Honduras"	"1870"	0
+484	"Mexico"	"1870"	0.510948
+558	"Nicaragua"	"1870"	0
+591	"Panama"	"1870"	0
+32	"Argentina"	"1870"	0.522
+68	"Bolivia (Plurinational State of)"	"1870"	0
+76	"Brazil"	"1870"	0.392
+152	"Chile"	"1870"	0.594
+170	"Colombia"	"1870"	0.589431
+218	"Ecuador"	"1870"	0
+328	"Guyana"	"1870"	0
+600	"Paraguay"	"1870"	0
+604	"Peru"	"1870"	0.534036
+740	"Suriname"	"1870"	0
+858	"Uruguay"	"1870"	0.481
+862	"Venezuela (Bolivarian Republic of)"	"1870"	0
+36	"Australia"	"1870"	0.475451
+554	"New Zealand"	"1870"	0
+242	"Fiji"	"1870"	0
+598	"Papua New Guinea"	"1870"	0.452436
+4	"Afghanistan"	"1870"	0.495812
+50	"Bangladesh"	"1870"	0.501948
+356	"India"	"1870"	0.398465
+364	"Iran (Islamic Republic of)"	"1870"	0.493619
+524	"Nepal"	"1870"	0
+586	"Pakistan"	"1870"	0.466183
+144	"Sri Lanka"	"1870"	0
+156	"China"	"1870"	0.408825
+344	"Hong Kong China"	"1870"	0
+392	"Japan"	"1870"	0.459628
+410	"Korea"	"1870"	0
+9002	"Taiwan"	"1870"	0
+360	"Indonesia"	"1870"	0.39
+418	"Lao People's Democratic Republic"	"1870"	0
+458	"Malaysia"	"1870"	0.409269
+104	"Myanmar"	"1870"	0.460671
+608	"Philippines"	"1870"	0.526535
+702	"Singapore"	"1870"	0
+764	"Thailand"	"1870"	0.364518
+704	"Viet Nam"	"1870"	0
+51	"Armenia"	"1870"	0.595407
+31	"Azerbaijan"	"1870"	0.737
+268	"Georgia"	"1870"	0
+368	"Iraq"	"1870"	0.505443
+376	"Israel"	"1870"	0
+400	"Jordan"	"1870"	0
+422	"Lebanon"	"1870"	0
+760	"Syrian Arab Republic"	"1870"	0.593399
+792	"Turkey"	"1870"	0.55949
+886	"Yemen (until 1990)"	"1870"	0
+398	"Kazakhstan"	"1870"	0
+417	"Kyrgyzstan"	"1870"	0.4595
+762	"Tajikistan"	"1870"	0.473655
+795	"Turkmenistan"	"1870"	0
+860	"Uzbekistan"	"1870"	0
+12	"Algeria"	"1870"	0
+818	"Egypt"	"1870"	0.447613
+504	"Morocco"	"1870"	0.486449
+736	"Sudan (until 2011)"	"1870"	0
+788	"Tunisia"	"1870"	0
+204	"Benin"	"1870"	0.479506
+854	"Burkina Faso"	"1870"	0
+384	"Cote d'Ivoire"	"1870"	0
+270	"Gambia"	"1870"	0
+288	"Ghana"	"1870"	0.560644
+324	"Guinea"	"1870"	0
+624	"Guinea-Bissau"	"1870"	0
+466	"Mali"	"1870"	0
+478	"Mauritania"	"1870"	0
+562	"Niger"	"1870"	0
+566	"Nigeria"	"1870"	0.548526
+686	"Senegal"	"1870"	0.459049
+694	"Sierra Leone"	"1870"	0
+768	"Togo"	"1870"	0
+24	"Angola"	"1870"	0.489334
+120	"Cameroon"	"1870"	0.561505
+140	"Central African Republic"	"1870"	0
+148	"Chad"	"1870"	0.481493
+178	"Congo"	"1870"	0.510688
+266	"Gabon"	"1870"	0
+72	"Botswana"	"1870"	0
+426	"Lesotho"	"1870"	0
+710	"South Africa"	"1870"	0
+108	"Burundi"	"1870"	0
+174	"Comoros"	"1870"	0
+230	"Ethiopia (until 1993)"	"1870"	0
+231	"Ethiopia (from 1993)"	"1870"	0
+404	"Kenya"	"1870"	0.463127
+450	"Madagascar"	"1870"	0
+454	"Malawi"	"1870"	0.457137
+480	"Mauritius"	"1870"	0
+508	"Mozambique"	"1870"	0.526069
+646	"Rwanda"	"1870"	0.590102
+690	"Seychelles"	"1870"	0
+800	"Uganda"	"1870"	0
+834	"United Republic of Tanzania"	"1870"	0
+894	"Zambia"	"1870"	0
+716	"Zimbabwe"	"1870"	0
+40	"Austria"	"1890"	0.360652
+56	"Belgium"	"1890"	0.49
+250	"France"	"1890"	0.48
+278	"German Democratic Republic (until 1990)"	"1890"	0.386739
+276	"Germany"	"1890"	0
+442	"Luxembourg"	"1890"	0
+528	"Netherlands"	"1890"	0.422601
+756	"Switzerland"	"1890"	0.348294
+208	"Denmark"	"1890"	0.39859
+233	"Estonia"	"1890"	0.322501
+246	"Finland"	"1890"	0.35868
+372	"Ireland"	"1890"	0.330315
+428	"Latvia"	"1890"	0.354506
+440	"Lithuania"	"1890"	0
+578	"Norway"	"1890"	0.367862
+752	"Sweden"	"1890"	0.594903
+826	"United Kingdom"	"1890"	0.373668
+8	"Albania"	"1890"	0.283624
+191	"Croatia"	"1890"	0
+300	"Greece"	"1890"	0.337257
+380	"Italy"	"1890"	0.459799
+620	"Portugal"	"1890"	0.394093
+891	"Serbia and Montenegro (until 2006)"	"1890"	0
+705	"Slovenia"	"1890"	0.433808
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1890"	0.30401
+724	"Spain"	"1890"	0.314119
+807	"Former Yugoslav Republic of Macedonia"	"1890"	0
+112	"Belarus"	"1890"	0
+100	"Bulgaria"	"1890"	0.347732
+203	"Czech Republic"	"1890"	0
+200	"Czechoslovakia (until 1993)"	"1890"	0.421356
+348	"Hungary"	"1890"	0.451088
+616	"Poland"	"1890"	0.299576
+498	"Republic of Moldova"	"1890"	0
+642	"Romania"	"1890"	0
+643	"Russian Federation"	"1890"	0
+703	"Slovakia"	"1890"	0
+804	"Ukraine"	"1890"	0.390761
+810	"USSR (until 1991)"	"1890"	0.377199
+124	"Canada"	"1890"	0.4123
+840	"United States of America"	"1890"	0.455232
+44	"Bahamas"	"1890"	0
+52	"Barbados"	"1890"	0
+192	"Cuba"	"1890"	0
+214	"Dominican Republic"	"1890"	0
+332	"Haiti"	"1890"	0
+388	"Jamaica"	"1890"	0.391036
+630	"Puerto Rico"	"1890"	0.351842
+780	"Trinidad and Tobago"	"1890"	0
+188	"Costa Rica"	"1890"	0
+222	"El Salvador"	"1890"	0
+320	"Guatemala"	"1890"	0.353
+340	"Honduras"	"1890"	0
+484	"Mexico"	"1890"	0.438277
+558	"Nicaragua"	"1890"	0
+591	"Panama"	"1890"	0
+32	"Argentina"	"1890"	0.445968
+68	"Bolivia (Plurinational State of)"	"1890"	0
+76	"Brazil"	"1890"	0.355856
+152	"Chile"	"1890"	0.551315
+170	"Colombia"	"1890"	0.424341
+218	"Ecuador"	"1890"	0
+328	"Guyana"	"1890"	0.382312
+600	"Paraguay"	"1890"	0
+604	"Peru"	"1890"	0.416724
+740	"Suriname"	"1890"	0
+858	"Uruguay"	"1890"	0.481
+862	"Venezuela (Bolivarian Republic of)"	"1890"	0
+36	"Australia"	"1890"	0.39354
+554	"New Zealand"	"1890"	0
+242	"Fiji"	"1890"	0
+598	"Papua New Guinea"	"1890"	0.360138
+4	"Afghanistan"	"1890"	0.365276
+50	"Bangladesh"	"1890"	0.39383
+356	"India"	"1890"	0.320104
+364	"Iran (Islamic Republic of)"	"1890"	0.384239
+524	"Nepal"	"1890"	0
+586	"Pakistan"	"1890"	0.359351
+144	"Sri Lanka"	"1890"	0
+156	"China"	"1890"	0.305617
+344	"Hong Kong China"	"1890"	0
+392	"Japan"	"1890"	0.473589
+410	"Korea"	"1890"	0
+9002	"Taiwan"	"1890"	0
+360	"Indonesia"	"1890"	0.39
+418	"Lao People's Democratic Republic"	"1890"	0
+458	"Malaysia"	"1890"	0.409269
+104	"Myanmar"	"1890"	0.329884
+608	"Philippines"	"1890"	0.377503
+702	"Singapore"	"1890"	0
+764	"Thailand"	"1890"	0.342271
+704	"Viet Nam"	"1890"	0
+51	"Armenia"	"1890"	0.327569
+31	"Azerbaijan"	"1890"	0.737
+268	"Georgia"	"1890"	0.297472
+368	"Iraq"	"1890"	0.376675
+376	"Israel"	"1890"	0
+400	"Jordan"	"1890"	0
+422	"Lebanon"	"1890"	0.372657
+760	"Syrian Arab Republic"	"1890"	0.332036
+792	"Turkey"	"1890"	0.55949
+886	"Yemen (until 1990)"	"1890"	0.395183
+398	"Kazakhstan"	"1890"	0.433175
+417	"Kyrgyzstan"	"1890"	0.376876
+762	"Tajikistan"	"1890"	0.388994
+795	"Turkmenistan"	"1890"	0.291409
+860	"Uzbekistan"	"1890"	0.359628
+12	"Algeria"	"1890"	0
+818	"Egypt"	"1890"	0.331912
+504	"Morocco"	"1890"	0.355913
+736	"Sudan (until 2011)"	"1890"	0
+788	"Tunisia"	"1890"	0
+204	"Benin"	"1890"	0.479506
+854	"Burkina Faso"	"1890"	0
+384	"Cote d'Ivoire"	"1890"	0
+270	"Gambia"	"1890"	0
+288	"Ghana"	"1890"	0.381145
+324	"Guinea"	"1890"	0.327378
+624	"Guinea-Bissau"	"1890"	0
+466	"Mali"	"1890"	0
+478	"Mauritania"	"1890"	0
+562	"Niger"	"1890"	0
+566	"Nigeria"	"1890"	0.369767
+686	"Senegal"	"1890"	0.459049
+694	"Sierra Leone"	"1890"	0
+768	"Togo"	"1890"	0
+24	"Angola"	"1890"	0.289761
+120	"Cameroon"	"1890"	0.33048
+140	"Central African Republic"	"1890"	0
+148	"Chad"	"1890"	0.481493
+178	"Congo"	"1890"	0.510688
+266	"Gabon"	"1890"	0
+72	"Botswana"	"1890"	0
+426	"Lesotho"	"1890"	0
+710	"South Africa"	"1890"	0.358709
+108	"Burundi"	"1890"	0
+174	"Comoros"	"1890"	0
+230	"Ethiopia (until 1993)"	"1890"	0
+231	"Ethiopia (from 1993)"	"1890"	0
+404	"Kenya"	"1890"	0.332592
+450	"Madagascar"	"1890"	0
+454	"Malawi"	"1890"	0.457137
+480	"Mauritius"	"1890"	0
+508	"Mozambique"	"1890"	0.395534
+646	"Rwanda"	"1890"	0.590102
+690	"Seychelles"	"1890"	0
+800	"Uganda"	"1890"	0
+834	"United Republic of Tanzania"	"1890"	0.375868
+894	"Zambia"	"1890"	0
+716	"Zimbabwe"	"1890"	0.346092
+40	"Austria"	"1910"	0.360652
+56	"Belgium"	"1910"	0.501634
+250	"France"	"1910"	0.547913
+278	"German Democratic Republic (until 1990)"	"1910"	0.437269
+276	"Germany"	"1910"	0
+442	"Luxembourg"	"1910"	0
+528	"Netherlands"	"1910"	0.471491
+756	"Switzerland"	"1910"	0.375103
+208	"Denmark"	"1910"	0.411037
+233	"Estonia"	"1910"	0.369226
+246	"Finland"	"1910"	0.384045
+372	"Ireland"	"1910"	0.372308
+428	"Latvia"	"1910"	0.401582
+440	"Lithuania"	"1910"	0
+578	"Norway"	"1910"	0.402346
+752	"Sweden"	"1910"	0.569914
+826	"United Kingdom"	"1910"	0.418616
+8	"Albania"	"1910"	0.277054
+191	"Croatia"	"1910"	0
+300	"Greece"	"1910"	0.337257
+380	"Italy"	"1910"	0.491869
+620	"Portugal"	"1910"	0.459833
+891	"Serbia and Montenegro (until 2006)"	"1910"	0
+705	"Slovenia"	"1910"	0.38471
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1910"	0.361811
+724	"Spain"	"1910"	0.35076
+807	"Former Yugoslav Republic of Macedonia"	"1910"	0.376113
+112	"Belarus"	"1910"	0
+100	"Bulgaria"	"1910"	0.347732
+203	"Czech Republic"	"1910"	0
+200	"Czechoslovakia (until 1993)"	"1910"	0.38514
+348	"Hungary"	"1910"	0.451088
+616	"Poland"	"1910"	0.280187
+498	"Republic of Moldova"	"1910"	0
+642	"Romania"	"1910"	0
+643	"Russian Federation"	"1910"	0
+703	"Slovakia"	"1910"	0.432441
+804	"Ukraine"	"1910"	0.434
+810	"USSR (until 1991)"	"1910"	0.404651
+124	"Canada"	"1910"	0.406691
+840	"United States of America"	"1910"	0.510905
+44	"Bahamas"	"1910"	0
+52	"Barbados"	"1910"	0
+192	"Cuba"	"1910"	0
+214	"Dominican Republic"	"1910"	0
+332	"Haiti"	"1910"	0
+388	"Jamaica"	"1910"	0.384103
+630	"Puerto Rico"	"1910"	0.410377
+780	"Trinidad and Tobago"	"1910"	0
+188	"Costa Rica"	"1910"	0
+222	"El Salvador"	"1910"	0
+320	"Guatemala"	"1910"	0.383454
+340	"Honduras"	"1910"	0
+484	"Mexico"	"1910"	0.514062
+558	"Nicaragua"	"1910"	0
+591	"Panama"	"1910"	0
+32	"Argentina"	"1910"	0.506202
+68	"Bolivia (Plurinational State of)"	"1910"	0
+76	"Brazil"	"1910"	0.381601
+152	"Chile"	"1910"	0.552321
+170	"Colombia"	"1910"	0.529421
+218	"Ecuador"	"1910"	0
+328	"Guyana"	"1910"	0.424305
+600	"Paraguay"	"1910"	0
+604	"Peru"	"1910"	0.392009
+740	"Suriname"	"1910"	0
+858	"Uruguay"	"1910"	0.481
+862	"Venezuela (Bolivarian Republic of)"	"1910"	0
+36	"Australia"	"1910"	0.407275
+554	"New Zealand"	"1910"	0.381532
+242	"Fiji"	"1910"	0
+598	"Papua New Guinea"	"1910"	0.360138
+4	"Afghanistan"	"1910"	0.42479
+50	"Bangladesh"	"1910"	0.39383
+356	"India"	"1910"	0.310778
+364	"Iran (Islamic Republic of)"	"1910"	0.374736
+524	"Nepal"	"1910"	0
+586	"Pakistan"	"1910"	0.471726
+144	"Sri Lanka"	"1910"	0
+156	"China"	"1910"	0.388579
+344	"Hong Kong China"	"1910"	0
+392	"Japan"	"1910"	0.523003
+410	"Korea"	"1910"	0
+9002	"Taiwan"	"1910"	0
+360	"Indonesia"	"1910"	0.422
+418	"Lao People's Democratic Republic"	"1910"	0
+458	"Malaysia"	"1910"	0.409269
+104	"Myanmar"	"1910"	0.329884
+608	"Philippines"	"1910"	0.399618
+702	"Singapore"	"1910"	0
+764	"Thailand"	"1910"	0.42
+704	"Viet Nam"	"1910"	0.404076
+51	"Armenia"	"1910"	0.368493
+31	"Azerbaijan"	"1910"	0.737
+268	"Georgia"	"1910"	0.364468
+368	"Iraq"	"1910"	0.44109
+376	"Israel"	"1910"	0
+400	"Jordan"	"1910"	0
+422	"Lebanon"	"1910"	0.43467
+760	"Syrian Arab Republic"	"1910"	0.462681
+792	"Turkey"	"1910"	0.55949
+886	"Yemen (until 1990)"	"1910"	0.437176
+398	"Kazakhstan"	"1910"	0.329151
+417	"Kyrgyzstan"	"1910"	0.423508
+762	"Tajikistan"	"1910"	0.441553
+795	"Turkmenistan"	"1910"	0.396282
+860	"Uzbekistan"	"1910"	0.401043
+12	"Algeria"	"1910"	0.36467
+818	"Egypt"	"1910"	0.416966
+504	"Morocco"	"1910"	0.355913
+736	"Sudan (until 2011)"	"1910"	0.337828
+788	"Tunisia"	"1910"	0
+204	"Benin"	"1910"	0.41367
+854	"Burkina Faso"	"1910"	0.374998
+384	"Cote d'Ivoire"	"1910"	0
+270	"Gambia"	"1910"	0
+288	"Ghana"	"1910"	0.403724
+324	"Guinea"	"1910"	0.413038
+624	"Guinea-Bissau"	"1910"	0.49849
+466	"Mali"	"1910"	0
+478	"Mauritania"	"1910"	0
+562	"Niger"	"1910"	0.433456
+566	"Nigeria"	"1910"	0.369767
+686	"Senegal"	"1910"	0.413038
+694	"Sierra Leone"	"1910"	0
+768	"Togo"	"1910"	0.421218
+24	"Angola"	"1910"	0.408695
+120	"Cameroon"	"1910"	0.424295
+140	"Central African Republic"	"1910"	0
+148	"Chad"	"1910"	0.481493
+178	"Congo"	"1910"	0.395084
+266	"Gabon"	"1910"	0.458532
+72	"Botswana"	"1910"	0.356081
+426	"Lesotho"	"1910"	0
+710	"South Africa"	"1910"	0.445512
+108	"Burundi"	"1910"	0.436937
+174	"Comoros"	"1910"	0
+230	"Ethiopia (until 1993)"	"1910"	0.475197
+231	"Ethiopia (from 1993)"	"1910"	0
+404	"Kenya"	"1910"	0.489364
+450	"Madagascar"	"1910"	0.410095
+454	"Malawi"	"1910"	0.373681
+480	"Mauritius"	"1910"	0
+508	"Mozambique"	"1910"	0.395534
+646	"Rwanda"	"1910"	0.380361
+690	"Seychelles"	"1910"	0
+800	"Uganda"	"1910"	0.410471
+834	"United Republic of Tanzania"	"1910"	0.384626
+894	"Zambia"	"1910"	0
+716	"Zimbabwe"	"1910"	0.388085
+40	"Austria"	"1929"	0.360652
+56	"Belgium"	"1929"	0.521214
+250	"France"	"1929"	0.616841
+278	"German Democratic Republic (until 1990)"	"1929"	0.457944
+276	"Germany"	"1929"	0
+442	"Luxembourg"	"1929"	0
+528	"Netherlands"	"1929"	0.416598
+756	"Switzerland"	"1929"	0.392327
+208	"Denmark"	"1929"	0.432884
+233	"Estonia"	"1929"	0.412986
+246	"Finland"	"1929"	0.444567
+372	"Ireland"	"1929"	0.416067
+428	"Latvia"	"1929"	0.401582
+440	"Lithuania"	"1929"	0
+578	"Norway"	"1929"	0.458536
+752	"Sweden"	"1929"	0.506729
+826	"United Kingdom"	"1929"	0.425128
+8	"Albania"	"1929"	0.277054
+191	"Croatia"	"1929"	0.477756
+300	"Greece"	"1929"	0.421732
+380	"Italy"	"1929"	0.513356
+620	"Portugal"	"1929"	0.503593
+891	"Serbia and Montenegro (until 2006)"	"1929"	0
+705	"Slovenia"	"1929"	0.42847
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1929"	0.439928
+724	"Spain"	"1929"	0.361246
+807	"Former Yugoslav Republic of Macedonia"	"1929"	0.433531
+112	"Belarus"	"1929"	0
+100	"Bulgaria"	"1929"	0.347732
+203	"Czech Republic"	"1929"	0
+200	"Czechoslovakia (until 1993)"	"1929"	0.410239
+348	"Hungary"	"1929"	0.3
+616	"Poland"	"1929"	0.2629
+498	"Republic of Moldova"	"1929"	0
+642	"Romania"	"1929"	0
+643	"Russian Federation"	"1929"	0
+703	"Slovakia"	"1929"	0.476201
+804	"Ukraine"	"1929"	0.434
+810	"USSR (until 1991)"	"1929"	0.434519
+124	"Canada"	"1929"	0.419488
+840	"United States of America"	"1929"	0.542741
+44	"Bahamas"	"1929"	0
+52	"Barbados"	"1929"	0
+192	"Cuba"	"1929"	0
+214	"Dominican Republic"	"1929"	0
+332	"Haiti"	"1929"	0
+388	"Jamaica"	"1929"	0.425041
+630	"Puerto Rico"	"1929"	0.458849
+780	"Trinidad and Tobago"	"1929"	0
+188	"Costa Rica"	"1929"	0
+222	"El Salvador"	"1929"	0
+320	"Guatemala"	"1929"	0.427214
+340	"Honduras"	"1929"	0
+484	"Mexico"	"1929"	0.549532
+558	"Nicaragua"	"1929"	0
+591	"Panama"	"1929"	0
+32	"Argentina"	"1929"	0.454
+68	"Bolivia (Plurinational State of)"	"1929"	0.369103
+76	"Brazil"	"1929"	0.597
+152	"Chile"	"1929"	0.641
+170	"Colombia"	"1929"	0.540705
+218	"Ecuador"	"1929"	0
+328	"Guyana"	"1929"	0.424305
+600	"Paraguay"	"1929"	0
+604	"Peru"	"1929"	0.530271
+740	"Suriname"	"1929"	0
+858	"Uruguay"	"1929"	0.562
+862	"Venezuela (Bolivarian Republic of)"	"1929"	0
+36	"Australia"	"1929"	0.362702
+554	"New Zealand"	"1929"	0.398706
+242	"Fiji"	"1929"	0
+598	"Papua New Guinea"	"1929"	0.472526
+4	"Afghanistan"	"1929"	0.42479
+50	"Bangladesh"	"1929"	0.39383
+356	"India"	"1929"	0.313244
+364	"Iran (Islamic Republic of)"	"1929"	0.418496
+524	"Nepal"	"1929"	0.409922
+586	"Pakistan"	"1929"	0.420552
+144	"Sri Lanka"	"1929"	0
+156	"China"	"1929"	0.440074
+344	"Hong Kong China"	"1929"	0
+392	"Japan"	"1929"	0.517965
+410	"Korea"	"1929"	0.321282
+9002	"Taiwan"	"1929"	0.329735
+360	"Indonesia"	"1929"	0.5
+418	"Lao People's Democratic Republic"	"1929"	0
+458	"Malaysia"	"1929"	0.409269
+104	"Myanmar"	"1929"	0.329884
+608	"Philippines"	"1929"	0.44025
+702	"Singapore"	"1929"	0
+764	"Thailand"	"1929"	0.471232
+704	"Viet Nam"	"1929"	0.447836
+51	"Armenia"	"1929"	0.368493
+31	"Azerbaijan"	"1929"	0.737
+268	"Georgia"	"1929"	0.364468
+368	"Iraq"	"1929"	0.44109
+376	"Israel"	"1929"	0.448653
+400	"Jordan"	"1929"	0
+422	"Lebanon"	"1929"	0.43467
+760	"Syrian Arab Republic"	"1929"	0.462681
+792	"Turkey"	"1929"	0.535734
+886	"Yemen (until 1990)"	"1929"	0.437176
+398	"Kazakhstan"	"1929"	0.320585
+417	"Kyrgyzstan"	"1929"	0.413322
+762	"Tajikistan"	"1929"	0.485312
+795	"Turkmenistan"	"1929"	0.440042
+860	"Uzbekistan"	"1929"	0.444802
+12	"Algeria"	"1929"	0.40317
+818	"Egypt"	"1929"	0.459883
+504	"Morocco"	"1929"	0.355913
+736	"Sudan (until 2011)"	"1929"	0.46162
+788	"Tunisia"	"1929"	0
+204	"Benin"	"1929"	0.45743
+854	"Burkina Faso"	"1929"	0.418758
+384	"Cote d'Ivoire"	"1929"	0
+270	"Gambia"	"1929"	0
+288	"Ghana"	"1929"	0.440653
+324	"Guinea"	"1929"	0.456798
+624	"Guinea-Bissau"	"1929"	0.54225
+466	"Mali"	"1929"	0.471574
+478	"Mauritania"	"1929"	0
+562	"Niger"	"1929"	0.477215
+566	"Nigeria"	"1929"	0.369767
+686	"Senegal"	"1929"	0.42857
+694	"Sierra Leone"	"1929"	0
+768	"Togo"	"1929"	0.443741
+24	"Angola"	"1929"	0.530618
+120	"Cameroon"	"1929"	0.443476
+140	"Central African Republic"	"1929"	0
+148	"Chad"	"1929"	0.440227
+178	"Congo"	"1929"	0.394023
+266	"Gabon"	"1929"	0.502291
+72	"Botswana"	"1929"	0.399841
+426	"Lesotho"	"1929"	0
+710	"South Africa"	"1929"	0.592774
+108	"Burundi"	"1929"	0.480696
+174	"Comoros"	"1929"	0
+230	"Ethiopia (until 1993)"	"1929"	0.518956
+231	"Ethiopia (from 1993)"	"1929"	0
+404	"Kenya"	"1929"	0.551244
+450	"Madagascar"	"1929"	0.453855
+454	"Malawi"	"1929"	0.417441
+480	"Mauritius"	"1929"	0
+508	"Mozambique"	"1929"	0.447184
+646	"Rwanda"	"1929"	0.478686
+690	"Seychelles"	"1929"	0
+800	"Uganda"	"1929"	0.454231
+834	"United Republic of Tanzania"	"1929"	0.428385
+894	"Zambia"	"1929"	0
+716	"Zimbabwe"	"1929"	0.388085
+40	"Austria"	"1950"	0.377068
+56	"Belgium"	"1950"	0.376805
+250	"France"	"1950"	0.57906
+278	"German Democratic Republic (until 1990)"	"1950"	0.466216
+276	"Germany"	"1950"	0
+442	"Luxembourg"	"1950"	0
+528	"Netherlands"	"1950"	0.359017
+756	"Switzerland"	"1950"	0.406322
+208	"Denmark"	"1950"	0.356851
+233	"Estonia"	"1950"	0.346244
+246	"Finland"	"1950"	0.346712
+372	"Ireland"	"1950"	0.428096
+428	"Latvia"	"1950"	0.401582
+440	"Lithuania"	"1950"	0
+578	"Norway"	"1950"	0.356107
+752	"Sweden"	"1950"	0.404762
+826	"United Kingdom"	"1950"	0.304979
+8	"Albania"	"1950"	0.277054
+191	"Croatia"	"1950"	0.363623
+300	"Greece"	"1950"	0.340949
+380	"Italy"	"1950"	0.428905
+620	"Portugal"	"1950"	0.391806
+891	"Serbia and Montenegro (until 2006)"	"1950"	0
+705	"Slovenia"	"1950"	0.342757
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1950"	0.354311
+724	"Spain"	"1950"	0.353219
+807	"Former Yugoslav Republic of Macedonia"	"1950"	0.433531
+112	"Belarus"	"1950"	0
+100	"Bulgaria"	"1950"	0.347732
+203	"Czech Republic"	"1950"	0
+200	"Czechoslovakia (until 1993)"	"1950"	0.403
+348	"Hungary"	"1950"	0.3
+616	"Poland"	"1950"	0.233548
+498	"Republic of Moldova"	"1950"	0
+642	"Romania"	"1950"	0
+643	"Russian Federation"	"1950"	0
+703	"Slovakia"	"1950"	0.366198
+804	"Ukraine"	"1950"	0.434
+810	"USSR (until 1991)"	"1950"	0.356421
+124	"Canada"	"1950"	0.362737
+840	"United States of America"	"1950"	0.39425
+44	"Bahamas"	"1950"	0
+52	"Barbados"	"1950"	0.482731
+192	"Cuba"	"1950"	0.364542
+214	"Dominican Republic"	"1950"	0.40095
+332	"Haiti"	"1950"	0.415425
+388	"Jamaica"	"1950"	0.425041
+630	"Puerto Rico"	"1950"	0.44286
+780	"Trinidad and Tobago"	"1950"	0
+188	"Costa Rica"	"1950"	0
+222	"El Salvador"	"1950"	0
+320	"Guatemala"	"1950"	0.424074
+340	"Honduras"	"1950"	0
+484	"Mexico"	"1950"	0.522171
+558	"Nicaragua"	"1950"	0.413193
+591	"Panama"	"1950"	0
+32	"Argentina"	"1950"	0.412
+68	"Bolivia (Plurinational State of)"	"1950"	0.33827
+76	"Brazil"	"1950"	0.493377
+152	"Chile"	"1950"	0.357912
+170	"Colombia"	"1950"	0.461325
+218	"Ecuador"	"1950"	0
+328	"Guyana"	"1950"	0.424305
+600	"Paraguay"	"1950"	0
+604	"Peru"	"1950"	0.470694
+740	"Suriname"	"1950"	0
+858	"Uruguay"	"1950"	0.562
+862	"Venezuela (Bolivarian Republic of)"	"1950"	0
+36	"Australia"	"1950"	0.379335
+554	"New Zealand"	"1950"	0.344471
+242	"Fiji"	"1950"	0
+598	"Papua New Guinea"	"1950"	0.47
+4	"Afghanistan"	"1950"	0.42479
+50	"Bangladesh"	"1950"	0.41357
+356	"India"	"1950"	0.352467
+364	"Iran (Islamic Republic of)"	"1950"	0.465018
+524	"Nepal"	"1950"	0.409922
+586	"Pakistan"	"1950"	0.371773
+144	"Sri Lanka"	"1950"	0.479525
+156	"China"	"1950"	0.3224
+344	"Hong Kong China"	"1950"	0
+392	"Japan"	"1950"	0.358995
+410	"Korea"	"1950"	0.303148
+9002	"Taiwan"	"1950"	0.350469
+360	"Indonesia"	"1950"	0.54
+418	"Lao People's Democratic Republic"	"1950"	0
+458	"Malaysia"	"1950"	0.409269
+104	"Myanmar"	"1950"	0.33648
+608	"Philippines"	"1950"	0.4921
+702	"Singapore"	"1950"	0
+764	"Thailand"	"1950"	0.387271
+704	"Viet Nam"	"1950"	0.447836
+51	"Armenia"	"1950"	0.368493
+31	"Azerbaijan"	"1950"	0.737
+268	"Georgia"	"1950"	0.364468
+368	"Iraq"	"1950"	0.44109
+376	"Israel"	"1950"	0.448653
+400	"Jordan"	"1950"	0
+422	"Lebanon"	"1950"	0.43467
+760	"Syrian Arab Republic"	"1950"	0.462681
+792	"Turkey"	"1950"	0.488108
+886	"Yemen (until 1990)"	"1950"	0.437176
+398	"Kazakhstan"	"1950"	0.447
+417	"Kyrgyzstan"	"1950"	0.375701
+762	"Tajikistan"	"1950"	0.485312
+795	"Turkmenistan"	"1950"	0.440042
+860	"Uzbekistan"	"1950"	0.449
+12	"Algeria"	"1950"	0.40317
+818	"Egypt"	"1950"	0.388128
+504	"Morocco"	"1950"	0.386205
+736	"Sudan (until 2011)"	"1950"	0.46162
+788	"Tunisia"	"1950"	0
+204	"Benin"	"1950"	0.404206
+854	"Burkina Faso"	"1950"	0.428936
+384	"Cote d'Ivoire"	"1950"	0.380986
+270	"Gambia"	"1950"	0
+288	"Ghana"	"1950"	0.410708
+324	"Guinea"	"1950"	0.41485
+624	"Guinea-Bissau"	"1950"	0.377101
+466	"Mali"	"1950"	0.418891
+478	"Mauritania"	"1950"	0
+562	"Niger"	"1950"	0.374204
+566	"Nigeria"	"1950"	0.369767
+686	"Senegal"	"1950"	0.382632
+694	"Sierra Leone"	"1950"	0
+768	"Togo"	"1950"	0.443741
+24	"Angola"	"1950"	0.484881
+120	"Cameroon"	"1950"	0.394498
+140	"Central African Republic"	"1950"	0.452458
+148	"Chad"	"1950"	0.401596
+178	"Congo"	"1950"	0.374738
+266	"Gabon"	"1950"	0.413672
+72	"Botswana"	"1950"	0.399841
+426	"Lesotho"	"1950"	0
+710	"South Africa"	"1950"	0.522565
+108	"Burundi"	"1950"	0.480696
+174	"Comoros"	"1950"	0.363061
+230	"Ethiopia (until 1993)"	"1950"	0.418903
+231	"Ethiopia (from 1993)"	"1950"	0
+404	"Kenya"	"1950"	0.558045
+450	"Madagascar"	"1950"	0.375571
+454	"Malawi"	"1950"	0.377138
+480	"Mauritius"	"1950"	0
+508	"Mozambique"	"1950"	0.415456
+646	"Rwanda"	"1950"	0.44148
+690	"Seychelles"	"1950"	0
+800	"Uganda"	"1950"	0.434125
+834	"United Republic of Tanzania"	"1950"	0.411817
+894	"Zambia"	"1950"	0.399263
+716	"Zimbabwe"	"1950"	0.403326
+40	"Austria"	"1960"	0.476573
+56	"Belgium"	"1960"	0.471101
+250	"France"	"1960"	0.520133
+278	"German Democratic Republic (until 1990)"	"1960"	0.390714
+276	"Germany"	"1960"	0
+442	"Luxembourg"	"1960"	0
+528	"Netherlands"	"1960"	0.448862
+756	"Switzerland"	"1960"	0.396142
+208	"Denmark"	"1960"	0.33284
+233	"Estonia"	"1960"	0.44575
+246	"Finland"	"1960"	0.473505
+372	"Ireland"	"1960"	0.527601
+428	"Latvia"	"1960"	0.401582
+440	"Lithuania"	"1960"	0
+578	"Norway"	"1960"	0.351634
+752	"Sweden"	"1960"	0.40062
+826	"United Kingdom"	"1960"	0.285019
+8	"Albania"	"1960"	0.277054
+191	"Croatia"	"1960"	0.363623
+300	"Greece"	"1960"	0.468599
+380	"Italy"	"1960"	0.443531
+620	"Portugal"	"1960"	0.491311
+891	"Serbia and Montenegro (until 2006)"	"1960"	0
+705	"Slovenia"	"1960"	0.342757
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1960"	0.376829
+724	"Spain"	"1960"	0.277732
+807	"Former Yugoslav Republic of Macedonia"	"1960"	0.433531
+112	"Belarus"	"1960"	0
+100	"Bulgaria"	"1960"	0.227162
+203	"Czech Republic"	"1960"	0.263834
+200	"Czechoslovakia (until 1993)"	"1960"	0.291653
+348	"Hungary"	"1960"	0.282942
+616	"Poland"	"1960"	0.26
+498	"Republic of Moldova"	"1960"	0
+642	"Romania"	"1960"	0
+643	"Russian Federation"	"1960"	0
+703	"Slovakia"	"1960"	0.324153
+804	"Ukraine"	"1960"	0.434
+810	"USSR (until 1991)"	"1960"	0.28
+124	"Canada"	"1960"	0.345715
+840	"United States of America"	"1960"	0.380237
+44	"Bahamas"	"1960"	0
+52	"Barbados"	"1960"	0.482731
+192	"Cuba"	"1960"	0.364542
+214	"Dominican Republic"	"1960"	0.40095
+332	"Haiti"	"1960"	0.512347
+388	"Jamaica"	"1960"	0.414516
+630	"Puerto Rico"	"1960"	0.456801
+780	"Trinidad and Tobago"	"1960"	0.448652
+188	"Costa Rica"	"1960"	0.499931
+222	"El Salvador"	"1960"	0
+320	"Guatemala"	"1960"	0.542157
+340	"Honduras"	"1960"	0
+484	"Mexico"	"1960"	0.525817
+558	"Nicaragua"	"1960"	0.494413
+591	"Panama"	"1960"	0
+32	"Argentina"	"1960"	0.42
+68	"Bolivia (Plurinational State of)"	"1960"	0.469532
+76	"Brazil"	"1960"	0.554325
+152	"Chile"	"1960"	0.708019
+170	"Colombia"	"1960"	0.645262
+218	"Ecuador"	"1960"	0
+328	"Guyana"	"1960"	0.417806
+600	"Paraguay"	"1960"	0
+604	"Peru"	"1960"	0.639544
+740	"Suriname"	"1960"	0.321593
+858	"Uruguay"	"1960"	0.562
+862	"Venezuela (Bolivarian Republic of)"	"1960"	0.433049
+36	"Australia"	"1960"	0.350166
+554	"New Zealand"	"1960"	0.305941
+242	"Fiji"	"1960"	0
+598	"Papua New Guinea"	"1960"	0.47
+4	"Afghanistan"	"1960"	0.42479
+50	"Bangladesh"	"1960"	0.371357
+356	"India"	"1960"	0.372612
+364	"Iran (Islamic Republic of)"	"1960"	0.564523
+524	"Nepal"	"1960"	0.409922
+586	"Pakistan"	"1960"	0.3865
+144	"Sri Lanka"	"1960"	0.473201
+156	"China"	"1960"	0.305
+344	"Hong Kong China"	"1960"	0.487
+392	"Japan"	"1960"	0.381441
+410	"Korea"	"1960"	0.316817
+9002	"Taiwan"	"1960"	0.341999
+360	"Indonesia"	"1960"	0.399815
+418	"Lao People's Democratic Republic"	"1960"	0
+458	"Malaysia"	"1960"	0.409269
+104	"Myanmar"	"1960"	0.37976
+608	"Philippines"	"1960"	0.514461
+702	"Singapore"	"1960"	0
+764	"Thailand"	"1960"	0.429623
+704	"Viet Nam"	"1960"	0.447836
+51	"Armenia"	"1960"	0.368493
+31	"Azerbaijan"	"1960"	0.737
+268	"Georgia"	"1960"	0.364468
+368	"Iraq"	"1960"	0.645102
+376	"Israel"	"1960"	0.448653
+400	"Jordan"	"1960"	0
+422	"Lebanon"	"1960"	0.562829
+760	"Syrian Arab Republic"	"1960"	0.462681
+792	"Turkey"	"1960"	0.551611
+886	"Yemen (until 1990)"	"1960"	0.437176
+398	"Kazakhstan"	"1960"	0.462
+417	"Kyrgyzstan"	"1960"	0.468276
+762	"Tajikistan"	"1960"	0.485312
+795	"Turkmenistan"	"1960"	0.440042
+860	"Uzbekistan"	"1960"	0.473
+12	"Algeria"	"1960"	0.40317
+818	"Egypt"	"1960"	0.429
+504	"Morocco"	"1960"	0.487463
+736	"Sudan (until 2011)"	"1960"	0.46162
+788	"Tunisia"	"1960"	0
+204	"Benin"	"1960"	0.421
+854	"Burkina Faso"	"1960"	0.479386
+384	"Cote d'Ivoire"	"1960"	0.450342
+270	"Gambia"	"1960"	0
+288	"Ghana"	"1960"	0.495783
+324	"Guinea"	"1960"	0.51191
+624	"Guinea-Bissau"	"1960"	0.377101
+466	"Mali"	"1960"	0.529831
+478	"Mauritania"	"1960"	0
+562	"Niger"	"1960"	0.493741
+566	"Nigeria"	"1960"	0.51
+686	"Senegal"	"1960"	0.589891
+694	"Sierra Leone"	"1960"	0
+768	"Togo"	"1960"	0.443741
+24	"Angola"	"1960"	0.484881
+120	"Cameroon"	"1960"	0.497749
+140	"Central African Republic"	"1960"	0.52153
+148	"Chad"	"1960"	0.345133
+178	"Congo"	"1960"	0.374738
+266	"Gabon"	"1960"	0.668364
+72	"Botswana"	"1960"	0.399841
+426	"Lesotho"	"1960"	0
+710	"South Africa"	"1960"	0.688495
+108	"Burundi"	"1960"	0.480696
+174	"Comoros"	"1960"	0.486791
+230	"Ethiopia (until 1993)"	"1960"	0.519915
+231	"Ethiopia (from 1993)"	"1960"	0
+404	"Kenya"	"1960"	0.68
+450	"Madagascar"	"1960"	0.486812
+454	"Malawi"	"1960"	0.49133
+480	"Mauritius"	"1960"	0
+508	"Mozambique"	"1960"	0.519922
+646	"Rwanda"	"1960"	0.523633
+690	"Seychelles"	"1960"	0
+800	"Uganda"	"1960"	0.511178
+834	"United Republic of Tanzania"	"1960"	0.543295
+894	"Zambia"	"1960"	0.497786
+716	"Zimbabwe"	"1960"	0.501193
+40	"Austria"	"1970"	0.474809
+56	"Belgium"	"1970"	0.376805
+250	"France"	"1970"	0.446583
+278	"German Democratic Republic (until 1990)"	"1970"	0.400559
+276	"Germany"	"1970"	0
+442	"Luxembourg"	"1970"	0
+528	"Netherlands"	"1970"	0.359017
+756	"Switzerland"	"1970"	0.411335
+208	"Denmark"	"1970"	0.292777
+233	"Estonia"	"1970"	0.460182
+246	"Finland"	"1970"	0.473505
+372	"Ireland"	"1970"	0.384657
+428	"Latvia"	"1970"	0.401582
+440	"Lithuania"	"1970"	0
+578	"Norway"	"1970"	0.327983
+752	"Sweden"	"1970"	0.36957
+826	"United Kingdom"	"1970"	0.289
+8	"Albania"	"1970"	0.277054
+191	"Croatia"	"1970"	0.363623
+300	"Greece"	"1970"	0.417602
+380	"Italy"	"1970"	0.390408
+620	"Portugal"	"1970"	0.409958
+891	"Serbia and Montenegro (until 2006)"	"1970"	0
+705	"Slovenia"	"1970"	0.435488
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1970"	0.357034
+724	"Spain"	"1970"	0.345736
+807	"Former Yugoslav Republic of Macedonia"	"1970"	0.433531
+112	"Belarus"	"1970"	0
+100	"Bulgaria"	"1970"	0.213525
+203	"Czech Republic"	"1970"	0.263834
+200	"Czechoslovakia (until 1993)"	"1970"	0.259042
+348	"Hungary"	"1970"	0.270431
+616	"Poland"	"1970"	0.290755
+498	"Republic of Moldova"	"1970"	0
+642	"Romania"	"1970"	0
+643	"Russian Federation"	"1970"	0
+703	"Slovakia"	"1970"	0.324153
+804	"Ukraine"	"1970"	0.434
+810	"USSR (until 1991)"	"1970"	0.23
+124	"Canada"	"1970"	0.337804
+840	"United States of America"	"1970"	0.360646
+44	"Bahamas"	"1970"	0.467735
+52	"Barbados"	"1970"	0.482731
+192	"Cuba"	"1970"	0.364542
+214	"Dominican Republic"	"1970"	0.45
+332	"Haiti"	"1970"	0.512037
+388	"Jamaica"	"1970"	0.330291
+630	"Puerto Rico"	"1970"	0.519823
+780	"Trinidad and Tobago"	"1970"	0.516387
+188	"Costa Rica"	"1970"	0.446883
+222	"El Salvador"	"1970"	0
+320	"Guatemala"	"1970"	0.537768
+340	"Honduras"	"1970"	0.6188
+484	"Mexico"	"1970"	0.560522
+558	"Nicaragua"	"1970"	0.502374
+591	"Panama"	"1970"	0.589215
+32	"Argentina"	"1970"	0.353
+68	"Bolivia (Plurinational State of)"	"1970"	0.548652
+76	"Brazil"	"1970"	0.578433
+152	"Chile"	"1970"	0.474427
+170	"Colombia"	"1970"	0.519379
+218	"Ecuador"	"1970"	0.38
+328	"Guyana"	"1970"	0.417806
+600	"Paraguay"	"1970"	0
+604	"Peru"	"1970"	0.55
+740	"Suriname"	"1970"	0.321593
+858	"Uruguay"	"1970"	0.362
+862	"Venezuela (Bolivarian Republic of)"	"1970"	0.472196
+36	"Australia"	"1970"	0.318184
+554	"New Zealand"	"1970"	0.300465
+242	"Fiji"	"1970"	0.475771
+598	"Papua New Guinea"	"1970"	0.47
+4	"Afghanistan"	"1970"	0.42479
+50	"Bangladesh"	"1970"	0.29
+356	"India"	"1970"	0.398252
+364	"Iran (Islamic Republic of)"	"1970"	0.455
+524	"Nepal"	"1970"	0.510933
+586	"Pakistan"	"1970"	0.3299
+144	"Sri Lanka"	"1970"	0.375108
+156	"China"	"1970"	0.279
+344	"Hong Kong China"	"1970"	0.44695
+392	"Japan"	"1970"	0.34879
+410	"Korea"	"1970"	0.339849
+9002	"Taiwan"	"1970"	0.308864
+360	"Indonesia"	"1970"	0.44
+418	"Lao People's Democratic Republic"	"1970"	0
+458	"Malaysia"	"1970"	0.514292
+104	"Myanmar"	"1970"	0.442748
+608	"Philippines"	"1970"	0.49659
+702	"Singapore"	"1970"	0.41
+764	"Thailand"	"1970"	0.444113
+704	"Viet Nam"	"1970"	0.447836
+51	"Armenia"	"1970"	0.368493
+31	"Azerbaijan"	"1970"	0.737
+268	"Georgia"	"1970"	0.364468
+368	"Iraq"	"1970"	0.645102
+376	"Israel"	"1970"	0.448653
+400	"Jordan"	"1970"	0
+422	"Lebanon"	"1970"	0.562829
+760	"Syrian Arab Republic"	"1970"	0.462681
+792	"Turkey"	"1970"	0.516787
+886	"Yemen (until 1990)"	"1970"	0.437176
+398	"Kazakhstan"	"1970"	0.482
+417	"Kyrgyzstan"	"1970"	0.469577
+762	"Tajikistan"	"1970"	0.485312
+795	"Turkmenistan"	"1970"	0.440042
+860	"Uzbekistan"	"1970"	0.433
+12	"Algeria"	"1970"	0.40317
+818	"Egypt"	"1970"	0.4337
+504	"Morocco"	"1970"	0.479841
+736	"Sudan (until 2011)"	"1970"	0.365806
+788	"Tunisia"	"1970"	0.592126
+204	"Benin"	"1970"	0.494602
+854	"Burkina Faso"	"1970"	0.475683
+384	"Cote d'Ivoire"	"1970"	0.49024
+270	"Gambia"	"1970"	0
+288	"Ghana"	"1970"	0.50899
+324	"Guinea"	"1970"	0.497224
+624	"Guinea-Bissau"	"1970"	0.377101
+466	"Mali"	"1970"	0.490818
+478	"Mauritania"	"1970"	0
+562	"Niger"	"1970"	0.480066
+566	"Nigeria"	"1970"	0.383316
+686	"Senegal"	"1970"	0.46777
+694	"Sierra Leone"	"1970"	0.600885
+768	"Togo"	"1970"	0.443741
+24	"Angola"	"1970"	0.484881
+120	"Cameroon"	"1970"	0.505085
+140	"Central African Republic"	"1970"	0.560285
+148	"Chad"	"1970"	0.502953
+178	"Congo"	"1970"	0.374738
+266	"Gabon"	"1970"	0.6453
+72	"Botswana"	"1970"	0.399841
+426	"Lesotho"	"1970"	0
+710	"South Africa"	"1970"	0.700992
+108	"Burundi"	"1970"	0.480696
+174	"Comoros"	"1970"	0.502936
+230	"Ethiopia (until 1993)"	"1970"	0.522263
+231	"Ethiopia (from 1993)"	"1970"	0
+404	"Kenya"	"1970"	0.504665
+450	"Madagascar"	"1970"	0.479501
+454	"Malawi"	"1970"	0.494454
+480	"Mauritius"	"1970"	0
+508	"Mozambique"	"1970"	0.497601
+646	"Rwanda"	"1970"	0.519769
+690	"Seychelles"	"1970"	0
+800	"Uganda"	"1970"	0.507169
+834	"United Republic of Tanzania"	"1970"	0.336645
+894	"Zambia"	"1970"	0.499115
+716	"Zimbabwe"	"1970"	0.506849
+40	"Austria"	"1980"	0.474809
+56	"Belgium"	"1980"	0.312765
+250	"France"	"1980"	0.345028
+278	"German Democratic Republic (until 1990)"	"1980"	0.378895
+276	"Germany"	"1980"	0
+442	"Luxembourg"	"1980"	0.307028
+528	"Netherlands"	"1980"	0.298
+756	"Switzerland"	"1980"	0.374133
+208	"Denmark"	"1980"	0.41272
+233	"Estonia"	"1980"	0.460182
+246	"Finland"	"1980"	0.35752
+372	"Ireland"	"1980"	0.427699
+428	"Latvia"	"1980"	0.401582
+440	"Lithuania"	"1980"	0
+578	"Norway"	"1980"	0.298547
+752	"Sweden"	"1980"	0.290287
+826	"United Kingdom"	"1980"	0.339989
+8	"Albania"	"1980"	0.277054
+191	"Croatia"	"1980"	0.363623
+300	"Greece"	"1980"	0.360699
+380	"Italy"	"1980"	0.390408
+620	"Portugal"	"1980"	0.381457
+891	"Serbia and Montenegro (until 2006)"	"1980"	0
+705	"Slovenia"	"1980"	0.435488
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1980"	0.318434
+724	"Spain"	"1980"	0.408104
+807	"Former Yugoslav Republic of Macedonia"	"1980"	0.433531
+112	"Belarus"	"1980"	0
+100	"Bulgaria"	"1980"	0.233344
+203	"Czech Republic"	"1980"	0.263834
+200	"Czechoslovakia (until 1993)"	"1980"	0.252008
+348	"Hungary"	"1980"	0.255569
+616	"Poland"	"1980"	0.300677
+498	"Republic of Moldova"	"1980"	0
+642	"Romania"	"1980"	0
+643	"Russian Federation"	"1980"	0
+703	"Slovakia"	"1980"	0.324153
+804	"Ukraine"	"1980"	0.344299
+810	"USSR (until 1991)"	"1980"	0.245186
+124	"Canada"	"1980"	0.335152
+840	"United States of America"	"1980"	0.368143
+44	"Bahamas"	"1980"	0.421437
+52	"Barbados"	"1980"	0.481486
+192	"Cuba"	"1980"	0.364542
+214	"Dominican Republic"	"1980"	0.4329
+332	"Haiti"	"1980"	0.485928
+388	"Jamaica"	"1980"	0.330915
+630	"Puerto Rico"	"1980"	0.49118
+780	"Trinidad and Tobago"	"1980"	0.414916
+188	"Costa Rica"	"1980"	0.45
+222	"El Salvador"	"1980"	0.484
+320	"Guatemala"	"1980"	0.483996
+340	"Honduras"	"1980"	0.6188
+484	"Mexico"	"1980"	0.512218
+558	"Nicaragua"	"1980"	0.487812
+591	"Panama"	"1980"	0.474634
+32	"Argentina"	"1980"	0.416
+68	"Bolivia (Plurinational State of)"	"1980"	0.431324
+76	"Brazil"	"1980"	0.571502
+152	"Chile"	"1980"	0.5471
+170	"Colombia"	"1980"	0.545241
+218	"Ecuador"	"1980"	0.38
+328	"Guyana"	"1980"	0.417806
+600	"Paraguay"	"1980"	0
+604	"Peru"	"1980"	0.523906
+740	"Suriname"	"1980"	0.321593
+858	"Uruguay"	"1980"	0.362
+862	"Venezuela (Bolivarian Republic of)"	"1980"	0.376789
+36	"Australia"	"1980"	0.393364
+554	"New Zealand"	"1980"	0.347818
+242	"Fiji"	"1980"	0.425
+598	"Papua New Guinea"	"1980"	0.47
+4	"Afghanistan"	"1980"	0.42479
+50	"Bangladesh"	"1980"	0.38185
+356	"India"	"1980"	0.312432
+364	"Iran (Islamic Republic of)"	"1980"	0.394984
+524	"Nepal"	"1980"	0.510933
+586	"Pakistan"	"1980"	0.35666
+144	"Sri Lanka"	"1980"	0.435593
+156	"China"	"1980"	0.295137
+344	"Hong Kong China"	"1980"	0.396835
+392	"Japan"	"1980"	0.372372
+410	"Korea"	"1980"	0.398523
+9002	"Taiwan"	"1980"	0.291798
+360	"Indonesia"	"1980"	0.4
+418	"Lao People's Democratic Republic"	"1980"	0
+458	"Malaysia"	"1980"	0.510657
+104	"Myanmar"	"1980"	0.442748
+608	"Philippines"	"1980"	0.4518
+702	"Singapore"	"1980"	0.401161
+764	"Thailand"	"1980"	0.460455
+704	"Viet Nam"	"1980"	0.447836
+51	"Armenia"	"1980"	0.368493
+31	"Azerbaijan"	"1980"	0.737
+268	"Georgia"	"1980"	0.364468
+368	"Iraq"	"1980"	0.645102
+376	"Israel"	"1980"	0.448653
+400	"Jordan"	"1980"	0.368925
+422	"Lebanon"	"1980"	0.562829
+760	"Syrian Arab Republic"	"1980"	0.462681
+792	"Turkey"	"1980"	0.5023
+886	"Yemen (until 1990)"	"1980"	0.437176
+398	"Kazakhstan"	"1980"	0.482
+417	"Kyrgyzstan"	"1980"	0.469577
+762	"Tajikistan"	"1980"	0.485312
+795	"Turkmenistan"	"1980"	0.440042
+860	"Uzbekistan"	"1980"	0.433
+12	"Algeria"	"1980"	0.40317
+818	"Egypt"	"1980"	0.498512
+504	"Morocco"	"1980"	0.396729
+736	"Sudan (until 2011)"	"1980"	0.365806
+788	"Tunisia"	"1980"	0.371675
+204	"Benin"	"1980"	0.504018
+854	"Burkina Faso"	"1980"	0.478204
+384	"Cote d'Ivoire"	"1980"	0.49024
+270	"Gambia"	"1980"	0
+288	"Ghana"	"1980"	0.498365
+324	"Guinea"	"1980"	0.497224
+624	"Guinea-Bissau"	"1980"	0.377101
+466	"Mali"	"1980"	0.483725
+478	"Mauritania"	"1980"	0
+562	"Niger"	"1980"	0.480066
+566	"Nigeria"	"1980"	0.35182
+686	"Senegal"	"1980"	0.46777
+694	"Sierra Leone"	"1980"	0.600885
+768	"Togo"	"1980"	0.443741
+24	"Angola"	"1980"	0.484881
+120	"Cameroon"	"1980"	0.383607
+140	"Central African Republic"	"1980"	0.560285
+148	"Chad"	"1980"	0.526589
+178	"Congo"	"1980"	0.374738
+266	"Gabon"	"1980"	0.591208
+72	"Botswana"	"1980"	0.399841
+426	"Lesotho"	"1980"	0
+710	"South Africa"	"1980"	0.670762
+108	"Burundi"	"1980"	0.480696
+174	"Comoros"	"1980"	0.502936
+230	"Ethiopia (until 1993)"	"1980"	0.522263
+231	"Ethiopia (from 1993)"	"1980"	0
+404	"Kenya"	"1980"	0.573
+450	"Madagascar"	"1980"	0.479501
+454	"Malawi"	"1980"	0.514951
+480	"Mauritius"	"1980"	0
+508	"Mozambique"	"1980"	0.497601
+646	"Rwanda"	"1980"	0.40209
+690	"Seychelles"	"1980"	0.46
+800	"Uganda"	"1980"	0.517484
+834	"United Republic of Tanzania"	"1980"	0.350602
+894	"Zambia"	"1980"	0.512484
+716	"Zimbabwe"	"1980"	0.506849
+40	"Austria"	"1990"	0.314545
+56	"Belgium"	"1990"	0.267425
+250	"France"	"1990"	0.373953
+278	"German Democratic Republic (until 1990)"	"1990"	0.488988
+276	"Germany"	"1990"	0
+442	"Luxembourg"	"1990"	0.395114
+528	"Netherlands"	"1990"	0.322
+756	"Switzerland"	"1990"	0.387415
+208	"Denmark"	"1990"	0.319809
+233	"Estonia"	"1990"	0.21
+246	"Finland"	"1990"	0.294738
+372	"Ireland"	"1990"	0.393143
+428	"Latvia"	"1990"	0.24
+440	"Lithuania"	"1990"	0.248
+578	"Norway"	"1990"	0.316466
+752	"Sweden"	"1990"	0.306619
+826	"United Kingdom"	"1990"	0.386248
+8	"Albania"	"1990"	0.277054
+191	"Croatia"	"1990"	0.363623
+300	"Greece"	"1990"	0.34446
+380	"Italy"	"1990"	0.327301
+620	"Portugal"	"1990"	0.380886
+891	"Serbia and Montenegro (until 2006)"	"1990"	0
+705	"Slovenia"	"1990"	0.274988
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"1990"	0.407016
+724	"Spain"	"1990"	0.339967
+807	"Former Yugoslav Republic of Macedonia"	"1990"	0.433531
+112	"Belarus"	"1990"	0.233
+100	"Bulgaria"	"1990"	0.238518
+203	"Czech Republic"	"1990"	0.251291
+200	"Czechoslovakia (until 1993)"	"1990"	0.253129
+348	"Hungary"	"1990"	0.269
+616	"Poland"	"1990"	0.31
+498	"Republic of Moldova"	"1990"	0.267
+642	"Romania"	"1990"	0.275609
+643	"Russian Federation"	"1990"	0
+703	"Slovakia"	"1990"	0.216
+804	"Ukraine"	"1990"	0.245342
+810	"USSR (until 1991)"	"1990"	0.259
+124	"Canada"	"1990"	0.318807
+840	"United States of America"	"1990"	0.397199
+44	"Bahamas"	"1990"	0.445025
+52	"Barbados"	"1990"	0.481486
+192	"Cuba"	"1990"	0.364542
+214	"Dominican Republic"	"1990"	0.51
+332	"Haiti"	"1990"	0.466843
+388	"Jamaica"	"1990"	0.427591
+630	"Puerto Rico"	"1990"	0.498008
+780	"Trinidad and Tobago"	"1990"	0.414916
+188	"Costa Rica"	"1990"	0.461493
+222	"El Salvador"	"1990"	0.53
+320	"Guatemala"	"1990"	0.595628
+340	"Honduras"	"1990"	0.54
+484	"Mexico"	"1990"	0.484488
+558	"Nicaragua"	"1990"	0.487812
+591	"Panama"	"1990"	0.5625
+32	"Argentina"	"1990"	0.4312
+68	"Bolivia (Plurinational State of)"	"1990"	0.428419
+76	"Brazil"	"1990"	0.586
+152	"Chile"	"1990"	0.547
+170	"Colombia"	"1990"	0.497577
+218	"Ecuador"	"1990"	0.5
+328	"Guyana"	"1990"	0.417806
+600	"Paraguay"	"1990"	0
+604	"Peru"	"1990"	0.4643
+740	"Suriname"	"1990"	0.321593
+858	"Uruguay"	"1990"	0.362
+862	"Venezuela (Bolivarian Republic of)"	"1990"	0.444
+36	"Australia"	"1990"	0.415715
+554	"New Zealand"	"1990"	0.401069
+242	"Fiji"	"1990"	0.425
+598	"Papua New Guinea"	"1990"	0.47
+4	"Afghanistan"	"1990"	0.42479
+50	"Bangladesh"	"1990"	0.39861
+356	"India"	"1990"	0.400008
+364	"Iran (Islamic Republic of)"	"1990"	0.394984
+524	"Nepal"	"1990"	0.510933
+586	"Pakistan"	"1990"	0.403553
+144	"Sri Lanka"	"1990"	0.40106
+156	"China"	"1990"	0.338562
+344	"Hong Kong China"	"1990"	0.436936
+392	"Japan"	"1990"	0.359
+410	"Korea"	"1990"	0.34514
+9002	"Taiwan"	"1990"	0.320071
+360	"Indonesia"	"1990"	0.39
+418	"Lao People's Democratic Republic"	"1990"	0.401567
+458	"Malaysia"	"1990"	0.485231
+104	"Myanmar"	"1990"	0.442748
+608	"Philippines"	"1990"	0.48489
+702	"Singapore"	"1990"	0.39
+764	"Thailand"	"1990"	0.501896
+704	"Viet Nam"	"1990"	0.41897
+51	"Armenia"	"1990"	0.384487
+31	"Azerbaijan"	"1990"	0.345
+268	"Georgia"	"1990"	0.291
+368	"Iraq"	"1990"	0.645102
+376	"Israel"	"1990"	0.448653
+400	"Jordan"	"1990"	0.406504
+422	"Lebanon"	"1990"	0.562829
+760	"Syrian Arab Republic"	"1990"	0.462681
+792	"Turkey"	"1990"	0.44196
+886	"Yemen (until 1990)"	"1990"	0.430372
+398	"Kazakhstan"	"1990"	0.297
+417	"Kyrgyzstan"	"1990"	0.308
+762	"Tajikistan"	"1990"	0.334
+795	"Turkmenistan"	"1990"	0.308
+860	"Uzbekistan"	"1990"	0.315
+12	"Algeria"	"1990"	0.412892
+818	"Egypt"	"1990"	0.543483
+504	"Morocco"	"1990"	0.425127
+736	"Sudan (until 2011)"	"1990"	0.365806
+788	"Tunisia"	"1990"	0.423449
+204	"Benin"	"1990"	0.504018
+854	"Burkina Faso"	"1990"	0.478204
+384	"Cote d'Ivoire"	"1990"	0.410019
+270	"Gambia"	"1990"	0.455628
+288	"Ghana"	"1990"	0.412805
+324	"Guinea"	"1990"	0.445975
+624	"Guinea-Bissau"	"1990"	0.469917
+466	"Mali"	"1990"	0.483725
+478	"Mauritania"	"1990"	0.417183
+562	"Niger"	"1990"	0.419472
+566	"Nigeria"	"1990"	0.441133
+686	"Senegal"	"1990"	0.464375
+694	"Sierra Leone"	"1990"	0.457499
+768	"Togo"	"1990"	0.443741
+24	"Angola"	"1990"	0.484881
+120	"Cameroon"	"1990"	0.383607
+140	"Central African Republic"	"1990"	0.479155
+148	"Chad"	"1990"	0.526589
+178	"Congo"	"1990"	0.374738
+266	"Gabon"	"1990"	0.591208
+72	"Botswana"	"1990"	0.411437
+426	"Lesotho"	"1990"	0.582861
+710	"South Africa"	"1990"	0.63
+108	"Burundi"	"1990"	0.411525
+174	"Comoros"	"1990"	0.502936
+230	"Ethiopia (until 1993)"	"1990"	0.522263
+231	"Ethiopia (from 1993)"	"1990"	0
+404	"Kenya"	"1990"	0.487102
+450	"Madagascar"	"1990"	0.479501
+454	"Malawi"	"1990"	0.514951
+480	"Mauritius"	"1990"	0.417514
+508	"Mozambique"	"1990"	0.497601
+646	"Rwanda"	"1990"	0.40209
+690	"Seychelles"	"1990"	0.46
+800	"Uganda"	"1990"	0.406137
+834	"United Republic of Tanzania"	"1990"	0.478713
+894	"Zambia"	"1990"	0.437394
+716	"Zimbabwe"	"1990"	0.461734
+40	"Austria"	"2000"	0.314545
+56	"Belgium"	"2000"	0.32482
+250	"France"	"2000"	0.372396
+278	"German Democratic Republic (until 1990)"	"2000"	0.488988
+276	"Germany"	"2000"	0.505753
+442	"Luxembourg"	"2000"	0.395114
+528	"Netherlands"	"2000"	0.320505
+756	"Switzerland"	"2000"	0.368288
+208	"Denmark"	"2000"	0.392
+233	"Estonia"	"2000"	0.381285
+246	"Finland"	"2000"	0.274
+372	"Ireland"	"2000"	0.452132
+428	"Latvia"	"2000"	0.421674
+440	"Lithuania"	"2000"	0.416515
+578	"Norway"	"2000"	0.305029
+752	"Sweden"	"2000"	0.346045
+826	"United Kingdom"	"2000"	0.404656
+8	"Albania"	"2000"	0.286445
+191	"Croatia"	"2000"	0.393253
+300	"Greece"	"2000"	0.34446
+380	"Italy"	"2000"	0.3672
+620	"Portugal"	"2000"	0.380886
+891	"Serbia and Montenegro (until 2006)"	"2000"	0.313112
+705	"Slovenia"	"2000"	0.268
+890	"Socialist Federal Republic of Yugoslavia (until 1992)"	"2000"	0.407016
+724	"Spain"	"2000"	0.327284
+807	"Former Yugoslav Republic of Macedonia"	"2000"	0.433531
+112	"Belarus"	"2000"	0.35179
+100	"Bulgaria"	"2000"	0.49055
+203	"Czech Republic"	"2000"	0.313401
+200	"Czechoslovakia (until 1993)"	"2000"	0.253129
+348	"Hungary"	"2000"	0.292208
+616	"Poland"	"2000"	0.345
+498	"Republic of Moldova"	"2000"	0.267
+642	"Romania"	"2000"	0.334021
+643	"Russian Federation"	"2000"	0.400111
+703	"Slovakia"	"2000"	0.28316
+804	"Ukraine"	"2000"	0.32909
+810	"USSR (until 1991)"	"2000"	0.259
+124	"Canada"	"2000"	0.410614
+840	"United States of America"	"2000"	0.438628
+44	"Bahamas"	"2000"	0.445025
+52	"Barbados"	"2000"	0.481486
+192	"Cuba"	"2000"	0.364542
+214	"Dominican Republic"	"2000"	0.519268
+332	"Haiti"	"2000"	0.5011
+388	"Jamaica"	"2000"	0.432427
+630	"Puerto Rico"	"2000"	0.558
+780	"Trinidad and Tobago"	"2000"	0.414916
+188	"Costa Rica"	"2000"	0.467327
+222	"El Salvador"	"2000"	0.53
+320	"Guatemala"	"2000"	0.54753
+340	"Honduras"	"2000"	0.5876
+484	"Mexico"	"2000"	0.4676
+558	"Nicaragua"	"2000"	0.579586
+591	"Panama"	"2000"	0.5755
+32	"Argentina"	"2000"	0.4666
+68	"Bolivia (Plurinational State of)"	"2000"	0.619282
+76	"Brazil"	"2000"	0.612
+152	"Chile"	"2000"	0.551711
+170	"Colombia"	"2000"	0.574
+218	"Ecuador"	"2000"	0.559
+328	"Guyana"	"2000"	0.432
+600	"Paraguay"	"2000"	0.547429
+604	"Peru"	"2000"	0.5055
+740	"Suriname"	"2000"	0.321593
+858	"Uruguay"	"2000"	0.422
+862	"Venezuela (Bolivarian Republic of)"	"2000"	0.4963
+36	"Australia"	"2000"	0.442197
+554	"New Zealand"	"2000"	0.37396
+242	"Fiji"	"2000"	0.425
+598	"Papua New Guinea"	"2000"	0.47
+4	"Afghanistan"	"2000"	0.42479
+50	"Bangladesh"	"2000"	0.471986
+356	"India"	"2000"	0.473951
+364	"Iran (Islamic Republic of)"	"2000"	0.394984
+524	"Nepal"	"2000"	0.438
+586	"Pakistan"	"2000"	0.403553
+144	"Sri Lanka"	"2000"	0.4595
+156	"China"	"2000"	0.444342
+344	"Hong Kong China"	"2000"	0.434
+392	"Japan"	"2000"	0.332732
+410	"Korea"	"2000"	0.3157
+9002	"Taiwan"	"2000"	0.327764
+360	"Indonesia"	"2000"	0.5
+418	"Lao People's Democratic Republic"	"2000"	0.401567
+458	"Malaysia"	"2000"	0.489
+104	"Myanmar"	"2000"	0.442748
+608	"Philippines"	"2000"	0.496
+702	"Singapore"	"2000"	0.4577
+764	"Thailand"	"2000"	0.46647
+704	"Viet Nam"	"2000"	0.435885
+51	"Armenia"	"2000"	0.427132
+31	"Azerbaijan"	"2000"	0.345
+268	"Georgia"	"2000"	0.489134
+368	"Iraq"	"2000"	0.645102
+376	"Israel"	"2000"	0.448653
+400	"Jordan"	"2000"	0.434541
+422	"Lebanon"	"2000"	0.562829
+760	"Syrian Arab Republic"	"2000"	0.462681
+792	"Turkey"	"2000"	0.46
+886	"Yemen (until 1990)"	"2000"	0.430372
+398	"Kazakhstan"	"2000"	0.295
+417	"Kyrgyzstan"	"2000"	0.308
+762	"Tajikistan"	"2000"	0.334
+795	"Turkmenistan"	"2000"	0.463546
+860	"Uzbekistan"	"2000"	0.315
+12	"Algeria"	"2000"	0.412892
+818	"Egypt"	"2000"	0.537782
+504	"Morocco"	"2000"	0.460311
+736	"Sudan (until 2011)"	"2000"	0.365806
+788	"Tunisia"	"2000"	0.423449
+204	"Benin"	"2000"	0.504018
+854	"Burkina Faso"	"2000"	0.478204
+384	"Cote d'Ivoire"	"2000"	0.410019
+270	"Gambia"	"2000"	0.499
+288	"Ghana"	"2000"	0.415112
+324	"Guinea"	"2000"	0.445975
+624	"Guinea-Bissau"	"2000"	0.469917
+466	"Mali"	"2000"	0.483725
+478	"Mauritania"	"2000"	0.417183
+562	"Niger"	"2000"	0.419472
+566	"Nigeria"	"2000"	0.511555
+686	"Senegal"	"2000"	0.464375
+694	"Sierra Leone"	"2000"	0.457499
+768	"Togo"	"2000"	0.443741
+24	"Angola"	"2000"	0.484881
+120	"Cameroon"	"2000"	0.383607
+140	"Central African Republic"	"2000"	0.479155
+148	"Chad"	"2000"	0.526589
+178	"Congo"	"2000"	0.374738
+266	"Gabon"	"2000"	0.591208
+72	"Botswana"	"2000"	0.411437
+426	"Lesotho"	"2000"	0.582861
+710	"South Africa"	"2000"	0.5452
+108	"Burundi"	"2000"	0.411525
+174	"Comoros"	"2000"	0.502936
+230	"Ethiopia (until 1993)"	"2000"	0.522263
+231	"Ethiopia (from 1993)"	"2000"	0.470658
+404	"Kenya"	"2000"	0.5115
+450	"Madagascar"	"2000"	0.479501
+454	"Malawi"	"2000"	0.514951
+480	"Mauritius"	"2000"	0.41
+508	"Mozambique"	"2000"	0.497601
+646	"Rwanda"	"2000"	0.40209
+690	"Seychelles"	"2000"	0.46
+800	"Uganda"	"2000"	0.406137
+834	"United Republic of Tanzania"	"2000"	0.4428
+894	"Zambia"	"2000"	0.498107
+716	"Zimbabwe"	"2000"	0.461734

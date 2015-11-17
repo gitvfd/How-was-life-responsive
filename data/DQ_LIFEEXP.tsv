@@ -1,0 +1,1531 @@
+"iso3"	"country"	"region"	"variable"	"value"
+"AUT"	"Austria"	"Western Europe"	"1820"	2
+"BEL"	"Belgium"	"Western Europe"	"1820"	2
+NA	"Federal Republic of Germany (until 1990)"	"Western Europe"	"1820"	2
+"FRA"	"France"	"Western Europe"	"1820"	2
+NA	"German Democratic Republic (until 1990)"	"Eastern Europe"	"1820"	0
+"DEU"	"Germany"	"Western Europe"	"1820"	2
+"LIE"	"Liechtenstein"	"Western Europe"	"1820"	2
+"LUX"	"Luxembourg"	"Western Europe"	"1820"	2
+"MCO"	"Monaco"	"Western Europe"	"1820"	2
+"NLD"	"Netherlands"	"Western Europe"	"1820"	2
+"CHE"	"Switzerland"	"Western Europe"	"1820"	2
+"ALA"	"Åland Islands"	"Western Europe"	"1820"	2
+NA	"Channel Islands"	"Western Europe"	"1820"	2
+"DNK"	"Denmark"	"Western Europe"	"1820"	2
+"EST"	"Estonia"	"Eastern Europe"	"1820"	0
+"FRO"	"Faeroe Islands"	"Western Europe"	"1820"	2
+"FIN"	"Finland"	"Western Europe"	"1820"	2
+"GGY"	"Guernsey"	"Western Europe"	"1820"	2
+"ISL"	"Iceland"	"Western Europe"	"1820"	2
+"IRL"	"Ireland"	"Western Europe"	"1820"	2
+"IMN"	"Isle of Man"	"Western Europe"	"1820"	2
+"JEY"	"Jersey"	"Western Europe"	"1820"	2
+"LVA"	"Latvia"	"Eastern Europe"	"1820"	0
+"LTU"	"Lithuania"	"Eastern Europe"	"1820"	0
+"NOR"	"Norway"	"Western Europe"	"1820"	2
+NA	"Sark"	"Western Europe"	"1820"	2
+"SJM"	"Svalbard and Jan Mayen Islands"	"Western Europe"	"1820"	2
+"SWE"	"Sweden"	"Western Europe"	"1820"	2
+"GBR"	"United Kingdom"	"Western Europe"	"1820"	2
+"ALB"	"Albania"	"Eastern Europe"	"1820"	0
+"AND"	"Andorra"	"Western Europe"	"1820"	2
+"BIH"	"Bosnia and Herzegovina"	"Eastern Europe"	"1820"	0
+"HRV"	"Croatia"	"Eastern Europe"	"1820"	0
+"GIB"	"Gibraltar"	"Western Europe"	"1820"	2
+"GRC"	"Greece"	"Western Europe"	"1820"	2
+"VAT"	"Holy See"	"Western Europe"	"1820"	2
+"ITA"	"Italy"	"Western Europe"	"1820"	2
+"MLT"	"Malta"	"Western Europe"	"1820"	2
+"MNE"	"Montenegro"	"Eastern Europe"	"1820"	0
+"PRT"	"Portugal"	"Western Europe"	"1820"	2
+"SMR"	"San Marino"	"Western Europe"	"1820"	2
+"SRB"	"Serbia"	"Eastern Europe"	"1820"	0
+NA	"Serbia and Montenegro (until 2006)"	"Eastern Europe"	"1820"	0
+"SVN"	"Slovenia"	"Eastern Europe"	"1820"	0
+NA	"Socialist Federal Republic of Yugoslavia (until 1992)"	"Eastern Europe"	"1820"	0
+"ESP"	"Spain"	"Western Europe"	"1820"	2
+"MKD"	"Former Yugoslav Republic of Macedonia"	"Eastern Europe"	"1820"	0
+"BLR"	"Belarus"	"Eastern Europe"	"1820"	0
+"BGR"	"Bulgaria"	"Eastern Europe"	"1820"	0
+"CZE"	"Czech Republic"	"Eastern Europe"	"1820"	0
+NA	"Czechoslovakia (until 1993)"	"Eastern Europe"	"1820"	0
+"HUN"	"Hungary"	"Eastern Europe"	"1820"	0
+"POL"	"Poland"	"Eastern Europe"	"1820"	0
+"MDA"	"Republic of Moldova"	"Eastern Europe"	"1820"	0
+"ROU"	"Romania"	"Eastern Europe"	"1820"	0
+"RUS"	"Russian Federation"	"Eastern Europe"	"1820"	0
+"SVK"	"Slovakia"	"Eastern Europe"	"1820"	0
+"UKR"	"Ukraine"	"Eastern Europe"	"1820"	0
+NA	"USSR (until 1991)"	"Eastern Europe"	"1820"	0
+"BMU"	"Bermuda"	"Latin America and Caribbean"	"1820"	0
+"CAN"	"Canada"	"Western Offshoots"	"1820"	0
+"GRL"	"Greenland"	"Western Europe"	"1820"	2
+"SPM"	"Saint Pierre and Miquelon"	"Latin America and Caribbean"	"1820"	0
+"USA"	"United States of America"	"Western Offshoots"	"1820"	0
+"AIA"	"Anguilla"	"Latin America and Caribbean"	"1820"	0
+"ATG"	"Antigua and Barbuda"	"Latin America and Caribbean"	"1820"	0
+"ABW"	"Aruba"	"Latin America and Caribbean"	"1820"	0
+"BHS"	"Bahamas"	"Latin America and Caribbean"	"1820"	0
+"BRB"	"Barbados"	"Latin America and Caribbean"	"1820"	0
+NA	"Bonaire, Saint Eustatius and Saba"	"Latin America and Caribbean"	"1820"	0
+"VGB"	"British Virgin Islands"	"Latin America and Caribbean"	"1820"	0
+"CYM"	"Cayman Islands"	"Latin America and Caribbean"	"1820"	0
+"CUB"	"Cuba"	"Latin America and Caribbean"	"1820"	0
+"CUW"	"Curaçao"	"Latin America and Caribbean"	"1820"	0
+"DMA"	"Dominica"	"Latin America and Caribbean"	"1820"	0
+"DOM"	"Dominican Republic"	"Latin America and Caribbean"	"1820"	0
+"GRD"	"Grenada"	"Latin America and Caribbean"	"1820"	0
+"GLP"	"Guadeloupe"	"Latin America and Caribbean"	"1820"	0
+"HTI"	"Haiti"	"Latin America and Caribbean"	"1820"	0
+"JAM"	"Jamaica"	"Latin America and Caribbean"	"1820"	0
+"MTQ"	"Martinique"	"Latin America and Caribbean"	"1820"	0
+"MSR"	"Montserrat"	"Latin America and Caribbean"	"1820"	0
+"ANT"	"Netherlands Antilles (until 2010)"	"Latin America and Caribbean"	"1820"	0
+"PRI"	"Puerto Rico"	"Latin America and Caribbean"	"1820"	0
+"BLM"	"Saint-Barth_lemy"	"Latin America and Caribbean"	"1820"	0
+"KNA"	"Saint Kitts and Nevis"	"Latin America and Caribbean"	"1820"	0
+"LCA"	"Saint Lucia"	"Latin America and Caribbean"	"1820"	0
+"MAF"	"Saint Martin (French part)"	"Latin America and Caribbean"	"1820"	0
+"VCT"	"Saint Vincent and the Grenadines"	"Latin America and Caribbean"	"1820"	0
+"SXM"	"Sint Maarten (Dutch part)"	"Latin America and Caribbean"	"1820"	0
+"TTO"	"Trinidad and Tobago"	"Latin America and Caribbean"	"1820"	0
+"TCA"	"Turks and Caicos Islands"	"Latin America and Caribbean"	"1820"	0
+"VIR"	"United States Virgin Islands"	"Latin America and Caribbean"	"1820"	0
+"BLZ"	"Belize"	"Latin America and Caribbean"	"1820"	0
+"CRI"	"Costa Rica"	"Latin America and Caribbean"	"1820"	0
+"SLV"	"El Salvador"	"Latin America and Caribbean"	"1820"	0
+"GTM"	"Guatemala"	"Latin America and Caribbean"	"1820"	0
+"HND"	"Honduras"	"Latin America and Caribbean"	"1820"	0
+"MEX"	"Mexico"	"Latin America and Caribbean"	"1820"	0
+"NIC"	"Nicaragua"	"Latin America and Caribbean"	"1820"	0
+"PAN"	"Panama"	"Latin America and Caribbean"	"1820"	0
+"ARG"	"Argentina"	"Latin America and Caribbean"	"1820"	0
+"BOL"	"Bolivia (Plurinational State of)"	"Latin America and Caribbean"	"1820"	0
+"BRA"	"Brazil"	"Latin America and Caribbean"	"1820"	0
+"CHL"	"Chile"	"Latin America and Caribbean"	"1820"	0
+"COL"	"Colombia"	"Latin America and Caribbean"	"1820"	0
+"ECU"	"Ecuador"	"Latin America and Caribbean"	"1820"	0
+"FLK"	"Falkland Islands (Malvinas)"	"Latin America and Caribbean"	"1820"	0
+"GUF"	"French Guiana"	"Latin America and Caribbean"	"1820"	0
+"GUY"	"Guyana"	"Latin America and Caribbean"	"1820"	0
+"PRY"	"Paraguay"	"Latin America and Caribbean"	"1820"	0
+"PER"	"Peru"	"Latin America and Caribbean"	"1820"	0
+"SUR"	"Suriname"	"Latin America and Caribbean"	"1820"	0
+"URY"	"Uruguay"	"Latin America and Caribbean"	"1820"	0
+"VEN"	"Venezuela (Bolivarian Republic of)"	"Latin America and Caribbean"	"1820"	0
+"AUS"	"Australia"	"Western Offshoots"	"1820"	0
+"NZL"	"New Zealand"	"Western Offshoots"	"1820"	0
+"NFK"	"Norfolk Island"	"South and South-East Asia"	"1820"	0
+"FJI"	"Fiji"	"South and South-East Asia"	"1820"	0
+"NCL"	"New Caledonia"	"South and South-East Asia"	"1820"	0
+"PNG"	"Papua New Guinea"	"South and South-East Asia"	"1820"	0
+"SLB"	"Solomon Islands"	"South and South-East Asia"	"1820"	0
+"VUT"	"Vanuatu"	"South and South-East Asia"	"1820"	0
+"GUM"	"Guam"	"South and South-East Asia"	"1820"	0
+"KIR"	"Kiribati"	"South and South-East Asia"	"1820"	0
+"MHL"	"Marshall Islands"	"South and South-East Asia"	"1820"	0
+"FSM"	"Micronesia (Federated States of)"	"South and South-East Asia"	"1820"	0
+"NRU"	"Nauru"	"South and South-East Asia"	"1820"	0
+"MNP"	"Northern Mariana Islands"	"South and South-East Asia"	"1820"	0
+NA	"Pacific Islands (Trust Territory) (1947-1986)"	"South and South-East Asia"	"1820"	0
+"PLW"	"Palau"	"South and South-East Asia"	"1820"	0
+"ASM"	"American Samoa"	"South and South-East Asia"	"1820"	0
+"COK"	"Cook Islands"	"South and South-East Asia"	"1820"	0
+"PYF"	"French Polynesia"	"South and South-East Asia"	"1820"	0
+"NIU"	"Niue"	"South and South-East Asia"	"1820"	0
+"PCN"	"Pitcairn"	"South and South-East Asia"	"1820"	0
+"WSM"	"Samoa"	"South and South-East Asia"	"1820"	0
+NA	"Tokelau"	"South and South-East Asia"	"1820"	0
+"TON"	"Tonga"	"South and South-East Asia"	"1820"	0
+"TUV"	"Tuvalu"	"South and South-East Asia"	"1820"	0
+"WLF"	"Wallis and Futuna Islands"	"South and South-East Asia"	"1820"	0
+"AFG"	"Afghanistan"	"South and South-East Asia"	"1820"	0
+"BGD"	"Bangladesh"	"South and South-East Asia"	"1820"	0
+"BTN"	"Bhutan"	"South and South-East Asia"	"1820"	0
+"IND"	"India"	"South and South-East Asia"	"1820"	0
+"IRN"	"Iran (Islamic Republic of)"	"MENA"	"1820"	0
+"MDV"	"Maldives"	"South and South-East Asia"	"1820"	0
+"NPL"	"Nepal"	"South and South-East Asia"	"1820"	0
+"PAK"	"Pakistan"	"South and South-East Asia"	"1820"	0
+"LKA"	"Sri Lanka"	"South and South-East Asia"	"1820"	0
+"CHN"	"China"	"East Asia"	"1820"	0
+"HKG"	"Hong Kong China"	"East Asia"	"1820"	0
+"MAC"	"China, Macao Special Administrative Region"	"East Asia"	"1820"	0
+"PRK"	"Democratic People's Republic of Korea"	"East Asia"	"1820"	0
+"JPN"	"Japan"	"East Asia"	"1820"	0
+"MNG"	"Mongolia"	"East Asia"	"1820"	0
+"KOR"	"Korea"	"East Asia"	"1820"	0
+"BRN"	"Brunei Darussalam"	"South and South-East Asia"	"1820"	0
+"KHM"	"Cambodia"	"South and South-East Asia"	"1820"	0
+"IDN"	"Indonesia"	"South and South-East Asia"	"1820"	0
+"LAO"	"Lao People's Democratic Republic"	"South and South-East Asia"	"1820"	0
+"MYS"	"Malaysia"	"South and South-East Asia"	"1820"	0
+"MMR"	"Myanmar"	"South and South-East Asia"	"1820"	0
+"PHL"	"Philippines"	"South and South-East Asia"	"1820"	0
+"SGP"	"Singapore"	"South and South-East Asia"	"1820"	0
+"THA"	"Thailand"	"South and South-East Asia"	"1820"	0
+"TLS"	"Timor-Leste"	"South and South-East Asia"	"1820"	0
+"VNM"	"Viet Nam"	"South and South-East Asia"	"1820"	0
+"ARM"	"Armenia"	"Eastern Europe"	"1820"	0
+"AZE"	"Azerbaijan"	"Eastern Europe"	"1820"	0
+"BHR"	"Bahrain"	"MENA"	"1820"	0
+"CYP"	"Cyprus"	"MENA"	"1820"	0
+NA	"Democratic Yemen (until 1990)"	"MENA"	"1820"	0
+"GEO"	"Georgia"	"Eastern Europe"	"1820"	0
+"IRQ"	"Iraq"	"MENA"	"1820"	0
+"ISR"	"Israel"	"MENA"	"1820"	0
+"JOR"	"Jordan"	"MENA"	"1820"	0
+"KWT"	"Kuwait"	"MENA"	"1820"	0
+"LBN"	"Lebanon"	"MENA"	"1820"	0
+"PSE"	"Palestinian Authority"	"MENA"	"1820"	0
+"OMN"	"Oman"	"MENA"	"1820"	0
+"QAT"	"Qatar"	"MENA"	"1820"	0
+"SAU"	"Saudi Arabia"	"MENA"	"1820"	0
+"SYR"	"Syrian Arab Republic"	"MENA"	"1820"	0
+"TUR"	"Turkey"	"MENA"	"1820"	0
+"ARE"	"United Arab Emirates"	"MENA"	"1820"	0
+NA	"Yemen (until 1990)"	"MENA"	"1820"	0
+"YEM"	"Yemen"	"MENA"	"1820"	0
+"KAZ"	"Kazakhstan"	"Eastern Europe"	"1820"	0
+"KGZ"	"Kyrgyzstan"	"Eastern Europe"	"1820"	0
+"TJK"	"Tajikistan"	"Eastern Europe"	"1820"	0
+"TKM"	"Turkmenistan"	"Eastern Europe"	"1820"	0
+"UZB"	"Uzbekistan"	"Eastern Europe"	"1820"	0
+"DZA"	"Algeria"	"MENA"	"1820"	0
+"EGY"	"Egypt"	"MENA"	"1820"	0
+"LBY"	"Libya"	"MENA"	"1820"	0
+"MAR"	"Morocco"	"MENA"	"1820"	0
+"SSD"	"South Sudan"	"MENA"	"1820"	0
+NA	"Sudan (North)"	"MENA"	"1820"	0
+"SDN"	"Sudan (until 2011)"	"MENA"	"1820"	0
+"TUN"	"Tunisia"	"MENA"	"1820"	0
+"ESH"	"Western Sahara"	"MENA"	"1820"	0
+"BEN"	"Benin"	"Sub-Saharan Africa"	"1820"	0
+"BFA"	"Burkina Faso"	"Sub-Saharan Africa"	"1820"	0
+"CPV"	"Cape Verde"	"Sub-Saharan Africa"	"1820"	0
+"CIV"	"Cote d'Ivoire"	"Sub-Saharan Africa"	"1820"	0
+"GMB"	"Gambia"	"Sub-Saharan Africa"	"1820"	0
+"GHA"	"Ghana"	"Sub-Saharan Africa"	"1820"	0
+"GIN"	"Guinea"	"Sub-Saharan Africa"	"1820"	0
+"GNB"	"Guinea-Bissau"	"Sub-Saharan Africa"	"1820"	0
+"LBR"	"Liberia"	"Sub-Saharan Africa"	"1820"	0
+"MLI"	"Mali"	"Sub-Saharan Africa"	"1820"	0
+"MRT"	"Mauritania"	"Sub-Saharan Africa"	"1820"	0
+"NER"	"Niger"	"Sub-Saharan Africa"	"1820"	0
+"NGA"	"Nigeria"	"Sub-Saharan Africa"	"1820"	0
+"SHN"	"Saint Helena"	"Sub-Saharan Africa"	"1820"	0
+"SEN"	"Senegal"	"Sub-Saharan Africa"	"1820"	0
+"SLE"	"Sierra Leone"	"Sub-Saharan Africa"	"1820"	0
+"TGO"	"Togo"	"Sub-Saharan Africa"	"1820"	0
+"AGO"	"Angola"	"Sub-Saharan Africa"	"1820"	0
+"CMR"	"Cameroon"	"Sub-Saharan Africa"	"1820"	0
+"CAF"	"Central African Republic"	"Sub-Saharan Africa"	"1820"	0
+"TCD"	"Chad"	"Sub-Saharan Africa"	"1820"	0
+"COG"	"Congo"	"Sub-Saharan Africa"	"1820"	0
+"COD"	"Democratic Republic of the Congo"	"Sub-Saharan Africa"	"1820"	0
+"GNQ"	"Equatorial Guinea"	"Sub-Saharan Africa"	"1820"	0
+"GAB"	"Gabon"	"Sub-Saharan Africa"	"1820"	0
+"STP"	"Sao Tome and Principe"	"Sub-Saharan Africa"	"1820"	0
+"BWA"	"Botswana"	"Sub-Saharan Africa"	"1820"	0
+"LSO"	"Lesotho"	"Sub-Saharan Africa"	"1820"	0
+"NAM"	"Namibia"	"Sub-Saharan Africa"	"1820"	0
+"ZAF"	"South Africa"	"Sub-Saharan Africa"	"1820"	0
+"SWZ"	"Swaziland"	"Sub-Saharan Africa"	"1820"	0
+"BDI"	"Burundi"	"Sub-Saharan Africa"	"1820"	0
+"COM"	"Comoros"	"Sub-Saharan Africa"	"1820"	0
+"DJI"	"Djibouti"	"Sub-Saharan Africa"	"1820"	0
+"ERI"	"Eritrea"	"Sub-Saharan Africa"	"1820"	0
+NA	"Ethiopia (until 1993)"	"Sub-Saharan Africa"	"1820"	0
+"ETH"	"Ethiopia (from 1993)"	"Sub-Saharan Africa"	"1820"	0
+"KEN"	"Kenya"	"Sub-Saharan Africa"	"1820"	0
+"MDG"	"Madagascar"	"Sub-Saharan Africa"	"1820"	0
+"MWI"	"Malawi"	"Sub-Saharan Africa"	"1820"	0
+"MUS"	"Mauritius"	"Sub-Saharan Africa"	"1820"	0
+"MYT"	"Mayotte"	"Sub-Saharan Africa"	"1820"	0
+"MOZ"	"Mozambique"	"Sub-Saharan Africa"	"1820"	0
+"REU"	"R_union"	"Sub-Saharan Africa"	"1820"	0
+"RWA"	"Rwanda"	"Sub-Saharan Africa"	"1820"	0
+"SYC"	"Seychelles"	"Sub-Saharan Africa"	"1820"	0
+"SOM"	"Somalia"	"Sub-Saharan Africa"	"1820"	0
+"UGA"	"Uganda"	"Sub-Saharan Africa"	"1820"	0
+"TZA"	"United Republic of Tanzania"	"Sub-Saharan Africa"	"1820"	0
+"ZMB"	"Zambia"	"Sub-Saharan Africa"	"1820"	0
+"ZWE"	"Zimbabwe"	"Sub-Saharan Africa"	"1820"	0
+"TWN"	"Taiwan"	"East Asia"	"1820"	0
+"XKS"	"Kosovo"	"Eastern Europe"	"1820"	0
+"AUT"	"Austria"	"Western Europe"	"1870"	2
+"BEL"	"Belgium"	"Western Europe"	"1870"	2
+NA	"Federal Republic of Germany (until 1990)"	"Western Europe"	"1870"	2
+"FRA"	"France"	"Western Europe"	"1870"	2
+NA	"German Democratic Republic (until 1990)"	"Eastern Europe"	"1870"	0
+"DEU"	"Germany"	"Western Europe"	"1870"	2
+"LIE"	"Liechtenstein"	"Western Europe"	"1870"	2
+"LUX"	"Luxembourg"	"Western Europe"	"1870"	2
+"MCO"	"Monaco"	"Western Europe"	"1870"	2
+"NLD"	"Netherlands"	"Western Europe"	"1870"	2
+"CHE"	"Switzerland"	"Western Europe"	"1870"	2
+"ALA"	"Åland Islands"	"Western Europe"	"1870"	2
+NA	"Channel Islands"	"Western Europe"	"1870"	2
+"DNK"	"Denmark"	"Western Europe"	"1870"	2
+"EST"	"Estonia"	"Eastern Europe"	"1870"	0
+"FRO"	"Faeroe Islands"	"Western Europe"	"1870"	2
+"FIN"	"Finland"	"Western Europe"	"1870"	2
+"GGY"	"Guernsey"	"Western Europe"	"1870"	2
+"ISL"	"Iceland"	"Western Europe"	"1870"	2
+"IRL"	"Ireland"	"Western Europe"	"1870"	2
+"IMN"	"Isle of Man"	"Western Europe"	"1870"	2
+"JEY"	"Jersey"	"Western Europe"	"1870"	2
+"LVA"	"Latvia"	"Eastern Europe"	"1870"	0
+"LTU"	"Lithuania"	"Eastern Europe"	"1870"	0
+"NOR"	"Norway"	"Western Europe"	"1870"	2
+NA	"Sark"	"Western Europe"	"1870"	2
+"SJM"	"Svalbard and Jan Mayen Islands"	"Western Europe"	"1870"	2
+"SWE"	"Sweden"	"Western Europe"	"1870"	2
+"GBR"	"United Kingdom"	"Western Europe"	"1870"	2
+"ALB"	"Albania"	"Eastern Europe"	"1870"	0
+"AND"	"Andorra"	"Western Europe"	"1870"	2
+"BIH"	"Bosnia and Herzegovina"	"Eastern Europe"	"1870"	0
+"HRV"	"Croatia"	"Eastern Europe"	"1870"	0
+"GIB"	"Gibraltar"	"Western Europe"	"1870"	2
+"GRC"	"Greece"	"Western Europe"	"1870"	2
+"VAT"	"Holy See"	"Western Europe"	"1870"	2
+"ITA"	"Italy"	"Western Europe"	"1870"	2
+"MLT"	"Malta"	"Western Europe"	"1870"	2
+"MNE"	"Montenegro"	"Eastern Europe"	"1870"	0
+"PRT"	"Portugal"	"Western Europe"	"1870"	2
+"SMR"	"San Marino"	"Western Europe"	"1870"	2
+"SRB"	"Serbia"	"Eastern Europe"	"1870"	0
+NA	"Serbia and Montenegro (until 2006)"	"Eastern Europe"	"1870"	0
+"SVN"	"Slovenia"	"Eastern Europe"	"1870"	0
+NA	"Socialist Federal Republic of Yugoslavia (until 1992)"	"Eastern Europe"	"1870"	0
+"ESP"	"Spain"	"Western Europe"	"1870"	2
+"MKD"	"Former Yugoslav Republic of Macedonia"	"Eastern Europe"	"1870"	0
+"BLR"	"Belarus"	"Eastern Europe"	"1870"	0
+"BGR"	"Bulgaria"	"Eastern Europe"	"1870"	0
+"CZE"	"Czech Republic"	"Eastern Europe"	"1870"	0
+NA	"Czechoslovakia (until 1993)"	"Eastern Europe"	"1870"	0
+"HUN"	"Hungary"	"Eastern Europe"	"1870"	0
+"POL"	"Poland"	"Eastern Europe"	"1870"	0
+"MDA"	"Republic of Moldova"	"Eastern Europe"	"1870"	0
+"ROU"	"Romania"	"Eastern Europe"	"1870"	0
+"RUS"	"Russian Federation"	"Eastern Europe"	"1870"	0
+"SVK"	"Slovakia"	"Eastern Europe"	"1870"	0
+"UKR"	"Ukraine"	"Eastern Europe"	"1870"	0
+NA	"USSR (until 1991)"	"Eastern Europe"	"1870"	0
+"BMU"	"Bermuda"	"Latin America and Caribbean"	"1870"	0
+"CAN"	"Canada"	"Western Offshoots"	"1870"	0
+"GRL"	"Greenland"	"Western Europe"	"1870"	2
+"SPM"	"Saint Pierre and Miquelon"	"Latin America and Caribbean"	"1870"	0
+"USA"	"United States of America"	"Western Offshoots"	"1870"	0
+"AIA"	"Anguilla"	"Latin America and Caribbean"	"1870"	0
+"ATG"	"Antigua and Barbuda"	"Latin America and Caribbean"	"1870"	0
+"ABW"	"Aruba"	"Latin America and Caribbean"	"1870"	0
+"BHS"	"Bahamas"	"Latin America and Caribbean"	"1870"	0
+"BRB"	"Barbados"	"Latin America and Caribbean"	"1870"	0
+NA	"Bonaire, Saint Eustatius and Saba"	"Latin America and Caribbean"	"1870"	0
+"VGB"	"British Virgin Islands"	"Latin America and Caribbean"	"1870"	0
+"CYM"	"Cayman Islands"	"Latin America and Caribbean"	"1870"	0
+"CUB"	"Cuba"	"Latin America and Caribbean"	"1870"	0
+"CUW"	"Curaçao"	"Latin America and Caribbean"	"1870"	0
+"DMA"	"Dominica"	"Latin America and Caribbean"	"1870"	0
+"DOM"	"Dominican Republic"	"Latin America and Caribbean"	"1870"	0
+"GRD"	"Grenada"	"Latin America and Caribbean"	"1870"	0
+"GLP"	"Guadeloupe"	"Latin America and Caribbean"	"1870"	0
+"HTI"	"Haiti"	"Latin America and Caribbean"	"1870"	0
+"JAM"	"Jamaica"	"Latin America and Caribbean"	"1870"	0
+"MTQ"	"Martinique"	"Latin America and Caribbean"	"1870"	0
+"MSR"	"Montserrat"	"Latin America and Caribbean"	"1870"	0
+"ANT"	"Netherlands Antilles (until 2010)"	"Latin America and Caribbean"	"1870"	0
+"PRI"	"Puerto Rico"	"Latin America and Caribbean"	"1870"	0
+"BLM"	"Saint-Barth_lemy"	"Latin America and Caribbean"	"1870"	0
+"KNA"	"Saint Kitts and Nevis"	"Latin America and Caribbean"	"1870"	0
+"LCA"	"Saint Lucia"	"Latin America and Caribbean"	"1870"	0
+"MAF"	"Saint Martin (French part)"	"Latin America and Caribbean"	"1870"	0
+"VCT"	"Saint Vincent and the Grenadines"	"Latin America and Caribbean"	"1870"	0
+"SXM"	"Sint Maarten (Dutch part)"	"Latin America and Caribbean"	"1870"	0
+"TTO"	"Trinidad and Tobago"	"Latin America and Caribbean"	"1870"	0
+"TCA"	"Turks and Caicos Islands"	"Latin America and Caribbean"	"1870"	0
+"VIR"	"United States Virgin Islands"	"Latin America and Caribbean"	"1870"	0
+"BLZ"	"Belize"	"Latin America and Caribbean"	"1870"	0
+"CRI"	"Costa Rica"	"Latin America and Caribbean"	"1870"	0
+"SLV"	"El Salvador"	"Latin America and Caribbean"	"1870"	0
+"GTM"	"Guatemala"	"Latin America and Caribbean"	"1870"	0
+"HND"	"Honduras"	"Latin America and Caribbean"	"1870"	0
+"MEX"	"Mexico"	"Latin America and Caribbean"	"1870"	0
+"NIC"	"Nicaragua"	"Latin America and Caribbean"	"1870"	0
+"PAN"	"Panama"	"Latin America and Caribbean"	"1870"	0
+"ARG"	"Argentina"	"Latin America and Caribbean"	"1870"	0
+"BOL"	"Bolivia (Plurinational State of)"	"Latin America and Caribbean"	"1870"	0
+"BRA"	"Brazil"	"Latin America and Caribbean"	"1870"	0
+"CHL"	"Chile"	"Latin America and Caribbean"	"1870"	0
+"COL"	"Colombia"	"Latin America and Caribbean"	"1870"	0
+"ECU"	"Ecuador"	"Latin America and Caribbean"	"1870"	0
+"FLK"	"Falkland Islands (Malvinas)"	"Latin America and Caribbean"	"1870"	0
+"GUF"	"French Guiana"	"Latin America and Caribbean"	"1870"	0
+"GUY"	"Guyana"	"Latin America and Caribbean"	"1870"	0
+"PRY"	"Paraguay"	"Latin America and Caribbean"	"1870"	0
+"PER"	"Peru"	"Latin America and Caribbean"	"1870"	0
+"SUR"	"Suriname"	"Latin America and Caribbean"	"1870"	0
+"URY"	"Uruguay"	"Latin America and Caribbean"	"1870"	0
+"VEN"	"Venezuela (Bolivarian Republic of)"	"Latin America and Caribbean"	"1870"	0
+"AUS"	"Australia"	"Western Offshoots"	"1870"	0
+"NZL"	"New Zealand"	"Western Offshoots"	"1870"	0
+"NFK"	"Norfolk Island"	"South and South-East Asia"	"1870"	0
+"FJI"	"Fiji"	"South and South-East Asia"	"1870"	0
+"NCL"	"New Caledonia"	"South and South-East Asia"	"1870"	0
+"PNG"	"Papua New Guinea"	"South and South-East Asia"	"1870"	0
+"SLB"	"Solomon Islands"	"South and South-East Asia"	"1870"	0
+"VUT"	"Vanuatu"	"South and South-East Asia"	"1870"	0
+"GUM"	"Guam"	"South and South-East Asia"	"1870"	0
+"KIR"	"Kiribati"	"South and South-East Asia"	"1870"	0
+"MHL"	"Marshall Islands"	"South and South-East Asia"	"1870"	0
+"FSM"	"Micronesia (Federated States of)"	"South and South-East Asia"	"1870"	0
+"NRU"	"Nauru"	"South and South-East Asia"	"1870"	0
+"MNP"	"Northern Mariana Islands"	"South and South-East Asia"	"1870"	0
+NA	"Pacific Islands (Trust Territory) (1947-1986)"	"South and South-East Asia"	"1870"	0
+"PLW"	"Palau"	"South and South-East Asia"	"1870"	0
+"ASM"	"American Samoa"	"South and South-East Asia"	"1870"	0
+"COK"	"Cook Islands"	"South and South-East Asia"	"1870"	0
+"PYF"	"French Polynesia"	"South and South-East Asia"	"1870"	0
+"NIU"	"Niue"	"South and South-East Asia"	"1870"	0
+"PCN"	"Pitcairn"	"South and South-East Asia"	"1870"	0
+"WSM"	"Samoa"	"South and South-East Asia"	"1870"	0
+NA	"Tokelau"	"South and South-East Asia"	"1870"	0
+"TON"	"Tonga"	"South and South-East Asia"	"1870"	0
+"TUV"	"Tuvalu"	"South and South-East Asia"	"1870"	0
+"WLF"	"Wallis and Futuna Islands"	"South and South-East Asia"	"1870"	0
+"AFG"	"Afghanistan"	"South and South-East Asia"	"1870"	0
+"BGD"	"Bangladesh"	"South and South-East Asia"	"1870"	0
+"BTN"	"Bhutan"	"South and South-East Asia"	"1870"	0
+"IND"	"India"	"South and South-East Asia"	"1870"	0
+"IRN"	"Iran (Islamic Republic of)"	"MENA"	"1870"	0
+"MDV"	"Maldives"	"South and South-East Asia"	"1870"	0
+"NPL"	"Nepal"	"South and South-East Asia"	"1870"	0
+"PAK"	"Pakistan"	"South and South-East Asia"	"1870"	0
+"LKA"	"Sri Lanka"	"South and South-East Asia"	"1870"	0
+"CHN"	"China"	"East Asia"	"1870"	3
+"HKG"	"Hong Kong China"	"East Asia"	"1870"	3
+"MAC"	"China, Macao Special Administrative Region"	"East Asia"	"1870"	3
+"PRK"	"Democratic People's Republic of Korea"	"East Asia"	"1870"	3
+"JPN"	"Japan"	"East Asia"	"1870"	3
+"MNG"	"Mongolia"	"East Asia"	"1870"	3
+"KOR"	"Korea"	"East Asia"	"1870"	3
+"BRN"	"Brunei Darussalam"	"South and South-East Asia"	"1870"	0
+"KHM"	"Cambodia"	"South and South-East Asia"	"1870"	0
+"IDN"	"Indonesia"	"South and South-East Asia"	"1870"	0
+"LAO"	"Lao People's Democratic Republic"	"South and South-East Asia"	"1870"	0
+"MYS"	"Malaysia"	"South and South-East Asia"	"1870"	0
+"MMR"	"Myanmar"	"South and South-East Asia"	"1870"	0
+"PHL"	"Philippines"	"South and South-East Asia"	"1870"	0
+"SGP"	"Singapore"	"South and South-East Asia"	"1870"	0
+"THA"	"Thailand"	"South and South-East Asia"	"1870"	0
+"TLS"	"Timor-Leste"	"South and South-East Asia"	"1870"	0
+"VNM"	"Viet Nam"	"South and South-East Asia"	"1870"	0
+"ARM"	"Armenia"	"Eastern Europe"	"1870"	0
+"AZE"	"Azerbaijan"	"Eastern Europe"	"1870"	0
+"BHR"	"Bahrain"	"MENA"	"1870"	0
+"CYP"	"Cyprus"	"MENA"	"1870"	0
+NA	"Democratic Yemen (until 1990)"	"MENA"	"1870"	0
+"GEO"	"Georgia"	"Eastern Europe"	"1870"	0
+"IRQ"	"Iraq"	"MENA"	"1870"	0
+"ISR"	"Israel"	"MENA"	"1870"	0
+"JOR"	"Jordan"	"MENA"	"1870"	0
+"KWT"	"Kuwait"	"MENA"	"1870"	0
+"LBN"	"Lebanon"	"MENA"	"1870"	0
+"PSE"	"Palestinian Authority"	"MENA"	"1870"	0
+"OMN"	"Oman"	"MENA"	"1870"	0
+"QAT"	"Qatar"	"MENA"	"1870"	0
+"SAU"	"Saudi Arabia"	"MENA"	"1870"	0
+"SYR"	"Syrian Arab Republic"	"MENA"	"1870"	0
+"TUR"	"Turkey"	"MENA"	"1870"	0
+"ARE"	"United Arab Emirates"	"MENA"	"1870"	0
+NA	"Yemen (until 1990)"	"MENA"	"1870"	0
+"YEM"	"Yemen"	"MENA"	"1870"	0
+"KAZ"	"Kazakhstan"	"Eastern Europe"	"1870"	0
+"KGZ"	"Kyrgyzstan"	"Eastern Europe"	"1870"	0
+"TJK"	"Tajikistan"	"Eastern Europe"	"1870"	0
+"TKM"	"Turkmenistan"	"Eastern Europe"	"1870"	0
+"UZB"	"Uzbekistan"	"Eastern Europe"	"1870"	0
+"DZA"	"Algeria"	"MENA"	"1870"	0
+"EGY"	"Egypt"	"MENA"	"1870"	0
+"LBY"	"Libya"	"MENA"	"1870"	0
+"MAR"	"Morocco"	"MENA"	"1870"	0
+"SSD"	"South Sudan"	"MENA"	"1870"	0
+NA	"Sudan (North)"	"MENA"	"1870"	0
+"SDN"	"Sudan (until 2011)"	"MENA"	"1870"	0
+"TUN"	"Tunisia"	"MENA"	"1870"	0
+"ESH"	"Western Sahara"	"MENA"	"1870"	0
+"BEN"	"Benin"	"Sub-Saharan Africa"	"1870"	0
+"BFA"	"Burkina Faso"	"Sub-Saharan Africa"	"1870"	0
+"CPV"	"Cape Verde"	"Sub-Saharan Africa"	"1870"	0
+"CIV"	"Cote d'Ivoire"	"Sub-Saharan Africa"	"1870"	0
+"GMB"	"Gambia"	"Sub-Saharan Africa"	"1870"	0
+"GHA"	"Ghana"	"Sub-Saharan Africa"	"1870"	0
+"GIN"	"Guinea"	"Sub-Saharan Africa"	"1870"	0
+"GNB"	"Guinea-Bissau"	"Sub-Saharan Africa"	"1870"	0
+"LBR"	"Liberia"	"Sub-Saharan Africa"	"1870"	0
+"MLI"	"Mali"	"Sub-Saharan Africa"	"1870"	0
+"MRT"	"Mauritania"	"Sub-Saharan Africa"	"1870"	0
+"NER"	"Niger"	"Sub-Saharan Africa"	"1870"	0
+"NGA"	"Nigeria"	"Sub-Saharan Africa"	"1870"	0
+"SHN"	"Saint Helena"	"Sub-Saharan Africa"	"1870"	0
+"SEN"	"Senegal"	"Sub-Saharan Africa"	"1870"	0
+"SLE"	"Sierra Leone"	"Sub-Saharan Africa"	"1870"	0
+"TGO"	"Togo"	"Sub-Saharan Africa"	"1870"	0
+"AGO"	"Angola"	"Sub-Saharan Africa"	"1870"	0
+"CMR"	"Cameroon"	"Sub-Saharan Africa"	"1870"	0
+"CAF"	"Central African Republic"	"Sub-Saharan Africa"	"1870"	0
+"TCD"	"Chad"	"Sub-Saharan Africa"	"1870"	0
+"COG"	"Congo"	"Sub-Saharan Africa"	"1870"	0
+"COD"	"Democratic Republic of the Congo"	"Sub-Saharan Africa"	"1870"	0
+"GNQ"	"Equatorial Guinea"	"Sub-Saharan Africa"	"1870"	0
+"GAB"	"Gabon"	"Sub-Saharan Africa"	"1870"	0
+"STP"	"Sao Tome and Principe"	"Sub-Saharan Africa"	"1870"	0
+"BWA"	"Botswana"	"Sub-Saharan Africa"	"1870"	0
+"LSO"	"Lesotho"	"Sub-Saharan Africa"	"1870"	0
+"NAM"	"Namibia"	"Sub-Saharan Africa"	"1870"	0
+"ZAF"	"South Africa"	"Sub-Saharan Africa"	"1870"	0
+"SWZ"	"Swaziland"	"Sub-Saharan Africa"	"1870"	0
+"BDI"	"Burundi"	"Sub-Saharan Africa"	"1870"	0
+"COM"	"Comoros"	"Sub-Saharan Africa"	"1870"	0
+"DJI"	"Djibouti"	"Sub-Saharan Africa"	"1870"	0
+"ERI"	"Eritrea"	"Sub-Saharan Africa"	"1870"	0
+NA	"Ethiopia (until 1993)"	"Sub-Saharan Africa"	"1870"	0
+"ETH"	"Ethiopia (from 1993)"	"Sub-Saharan Africa"	"1870"	0
+"KEN"	"Kenya"	"Sub-Saharan Africa"	"1870"	0
+"MDG"	"Madagascar"	"Sub-Saharan Africa"	"1870"	0
+"MWI"	"Malawi"	"Sub-Saharan Africa"	"1870"	0
+"MUS"	"Mauritius"	"Sub-Saharan Africa"	"1870"	0
+"MYT"	"Mayotte"	"Sub-Saharan Africa"	"1870"	0
+"MOZ"	"Mozambique"	"Sub-Saharan Africa"	"1870"	0
+"REU"	"R_union"	"Sub-Saharan Africa"	"1870"	0
+"RWA"	"Rwanda"	"Sub-Saharan Africa"	"1870"	0
+"SYC"	"Seychelles"	"Sub-Saharan Africa"	"1870"	0
+"SOM"	"Somalia"	"Sub-Saharan Africa"	"1870"	0
+"UGA"	"Uganda"	"Sub-Saharan Africa"	"1870"	0
+"TZA"	"United Republic of Tanzania"	"Sub-Saharan Africa"	"1870"	0
+"ZMB"	"Zambia"	"Sub-Saharan Africa"	"1870"	0
+"ZWE"	"Zimbabwe"	"Sub-Saharan Africa"	"1870"	0
+"TWN"	"Taiwan"	"East Asia"	"1870"	3
+"XKS"	"Kosovo"	"Eastern Europe"	"1870"	0
+"AUT"	"Austria"	"Western Europe"	"1920"	2
+"BEL"	"Belgium"	"Western Europe"	"1920"	2
+NA	"Federal Republic of Germany (until 1990)"	"Western Europe"	"1920"	2
+"FRA"	"France"	"Western Europe"	"1920"	2
+NA	"German Democratic Republic (until 1990)"	"Eastern Europe"	"1920"	2
+"DEU"	"Germany"	"Western Europe"	"1920"	2
+"LIE"	"Liechtenstein"	"Western Europe"	"1920"	2
+"LUX"	"Luxembourg"	"Western Europe"	"1920"	2
+"MCO"	"Monaco"	"Western Europe"	"1920"	2
+"NLD"	"Netherlands"	"Western Europe"	"1920"	2
+"CHE"	"Switzerland"	"Western Europe"	"1920"	2
+"ALA"	"Åland Islands"	"Western Europe"	"1920"	2
+NA	"Channel Islands"	"Western Europe"	"1920"	2
+"DNK"	"Denmark"	"Western Europe"	"1920"	2
+"EST"	"Estonia"	"Eastern Europe"	"1920"	2
+"FRO"	"Faeroe Islands"	"Western Europe"	"1920"	2
+"FIN"	"Finland"	"Western Europe"	"1920"	2
+"GGY"	"Guernsey"	"Western Europe"	"1920"	2
+"ISL"	"Iceland"	"Western Europe"	"1920"	2
+"IRL"	"Ireland"	"Western Europe"	"1920"	2
+"IMN"	"Isle of Man"	"Western Europe"	"1920"	2
+"JEY"	"Jersey"	"Western Europe"	"1920"	2
+"LVA"	"Latvia"	"Eastern Europe"	"1920"	2
+"LTU"	"Lithuania"	"Eastern Europe"	"1920"	2
+"NOR"	"Norway"	"Western Europe"	"1920"	2
+NA	"Sark"	"Western Europe"	"1920"	2
+"SJM"	"Svalbard and Jan Mayen Islands"	"Western Europe"	"1920"	2
+"SWE"	"Sweden"	"Western Europe"	"1920"	2
+"GBR"	"United Kingdom"	"Western Europe"	"1920"	2
+"ALB"	"Albania"	"Eastern Europe"	"1920"	2
+"AND"	"Andorra"	"Western Europe"	"1920"	2
+"BIH"	"Bosnia and Herzegovina"	"Eastern Europe"	"1920"	2
+"HRV"	"Croatia"	"Eastern Europe"	"1920"	2
+"GIB"	"Gibraltar"	"Western Europe"	"1920"	2
+"GRC"	"Greece"	"Western Europe"	"1920"	2
+"VAT"	"Holy See"	"Western Europe"	"1920"	2
+"ITA"	"Italy"	"Western Europe"	"1920"	2
+"MLT"	"Malta"	"Western Europe"	"1920"	2
+"MNE"	"Montenegro"	"Eastern Europe"	"1920"	2
+"PRT"	"Portugal"	"Western Europe"	"1920"	2
+"SMR"	"San Marino"	"Western Europe"	"1920"	2
+"SRB"	"Serbia"	"Eastern Europe"	"1920"	2
+NA	"Serbia and Montenegro (until 2006)"	"Eastern Europe"	"1920"	2
+"SVN"	"Slovenia"	"Eastern Europe"	"1920"	2
+NA	"Socialist Federal Republic of Yugoslavia (until 1992)"	"Eastern Europe"	"1920"	2
+"ESP"	"Spain"	"Western Europe"	"1920"	2
+"MKD"	"Former Yugoslav Republic of Macedonia"	"Eastern Europe"	"1920"	2
+"BLR"	"Belarus"	"Eastern Europe"	"1920"	2
+"BGR"	"Bulgaria"	"Eastern Europe"	"1920"	2
+"CZE"	"Czech Republic"	"Eastern Europe"	"1920"	2
+NA	"Czechoslovakia (until 1993)"	"Eastern Europe"	"1920"	2
+"HUN"	"Hungary"	"Eastern Europe"	"1920"	2
+"POL"	"Poland"	"Eastern Europe"	"1920"	2
+"MDA"	"Republic of Moldova"	"Eastern Europe"	"1920"	2
+"ROU"	"Romania"	"Eastern Europe"	"1920"	2
+"RUS"	"Russian Federation"	"Eastern Europe"	"1920"	2
+"SVK"	"Slovakia"	"Eastern Europe"	"1920"	2
+"UKR"	"Ukraine"	"Eastern Europe"	"1920"	2
+NA	"USSR (until 1991)"	"Eastern Europe"	"1920"	2
+"BMU"	"Bermuda"	"Latin America and Caribbean"	"1920"	3
+"CAN"	"Canada"	"Western Offshoots"	"1920"	2
+"GRL"	"Greenland"	"Western Europe"	"1920"	2
+"SPM"	"Saint Pierre and Miquelon"	"Latin America and Caribbean"	"1920"	3
+"USA"	"United States of America"	"Western Offshoots"	"1920"	2
+"AIA"	"Anguilla"	"Latin America and Caribbean"	"1920"	3
+"ATG"	"Antigua and Barbuda"	"Latin America and Caribbean"	"1920"	3
+"ABW"	"Aruba"	"Latin America and Caribbean"	"1920"	3
+"BHS"	"Bahamas"	"Latin America and Caribbean"	"1920"	3
+"BRB"	"Barbados"	"Latin America and Caribbean"	"1920"	3
+NA	"Bonaire, Saint Eustatius and Saba"	"Latin America and Caribbean"	"1920"	3
+"VGB"	"British Virgin Islands"	"Latin America and Caribbean"	"1920"	3
+"CYM"	"Cayman Islands"	"Latin America and Caribbean"	"1920"	3
+"CUB"	"Cuba"	"Latin America and Caribbean"	"1920"	3
+"CUW"	"Curaçao"	"Latin America and Caribbean"	"1920"	3
+"DMA"	"Dominica"	"Latin America and Caribbean"	"1920"	3
+"DOM"	"Dominican Republic"	"Latin America and Caribbean"	"1920"	3
+"GRD"	"Grenada"	"Latin America and Caribbean"	"1920"	3
+"GLP"	"Guadeloupe"	"Latin America and Caribbean"	"1920"	3
+"HTI"	"Haiti"	"Latin America and Caribbean"	"1920"	3
+"JAM"	"Jamaica"	"Latin America and Caribbean"	"1920"	3
+"MTQ"	"Martinique"	"Latin America and Caribbean"	"1920"	3
+"MSR"	"Montserrat"	"Latin America and Caribbean"	"1920"	3
+"ANT"	"Netherlands Antilles (until 2010)"	"Latin America and Caribbean"	"1920"	3
+"PRI"	"Puerto Rico"	"Latin America and Caribbean"	"1920"	3
+"BLM"	"Saint-Barth_lemy"	"Latin America and Caribbean"	"1920"	3
+"KNA"	"Saint Kitts and Nevis"	"Latin America and Caribbean"	"1920"	3
+"LCA"	"Saint Lucia"	"Latin America and Caribbean"	"1920"	3
+"MAF"	"Saint Martin (French part)"	"Latin America and Caribbean"	"1920"	3
+"VCT"	"Saint Vincent and the Grenadines"	"Latin America and Caribbean"	"1920"	3
+"SXM"	"Sint Maarten (Dutch part)"	"Latin America and Caribbean"	"1920"	3
+"TTO"	"Trinidad and Tobago"	"Latin America and Caribbean"	"1920"	3
+"TCA"	"Turks and Caicos Islands"	"Latin America and Caribbean"	"1920"	3
+"VIR"	"United States Virgin Islands"	"Latin America and Caribbean"	"1920"	3
+"BLZ"	"Belize"	"Latin America and Caribbean"	"1920"	3
+"CRI"	"Costa Rica"	"Latin America and Caribbean"	"1920"	3
+"SLV"	"El Salvador"	"Latin America and Caribbean"	"1920"	3
+"GTM"	"Guatemala"	"Latin America and Caribbean"	"1920"	3
+"HND"	"Honduras"	"Latin America and Caribbean"	"1920"	3
+"MEX"	"Mexico"	"Latin America and Caribbean"	"1920"	3
+"NIC"	"Nicaragua"	"Latin America and Caribbean"	"1920"	3
+"PAN"	"Panama"	"Latin America and Caribbean"	"1920"	3
+"ARG"	"Argentina"	"Latin America and Caribbean"	"1920"	3
+"BOL"	"Bolivia (Plurinational State of)"	"Latin America and Caribbean"	"1920"	3
+"BRA"	"Brazil"	"Latin America and Caribbean"	"1920"	3
+"CHL"	"Chile"	"Latin America and Caribbean"	"1920"	3
+"COL"	"Colombia"	"Latin America and Caribbean"	"1920"	3
+"ECU"	"Ecuador"	"Latin America and Caribbean"	"1920"	3
+"FLK"	"Falkland Islands (Malvinas)"	"Latin America and Caribbean"	"1920"	3
+"GUF"	"French Guiana"	"Latin America and Caribbean"	"1920"	3
+"GUY"	"Guyana"	"Latin America and Caribbean"	"1920"	3
+"PRY"	"Paraguay"	"Latin America and Caribbean"	"1920"	3
+"PER"	"Peru"	"Latin America and Caribbean"	"1920"	3
+"SUR"	"Suriname"	"Latin America and Caribbean"	"1920"	3
+"URY"	"Uruguay"	"Latin America and Caribbean"	"1920"	3
+"VEN"	"Venezuela (Bolivarian Republic of)"	"Latin America and Caribbean"	"1920"	3
+"AUS"	"Australia"	"Western Offshoots"	"1920"	2
+"NZL"	"New Zealand"	"Western Offshoots"	"1920"	2
+"NFK"	"Norfolk Island"	"South and South-East Asia"	"1920"	0
+"FJI"	"Fiji"	"South and South-East Asia"	"1920"	0
+"NCL"	"New Caledonia"	"South and South-East Asia"	"1920"	0
+"PNG"	"Papua New Guinea"	"South and South-East Asia"	"1920"	0
+"SLB"	"Solomon Islands"	"South and South-East Asia"	"1920"	0
+"VUT"	"Vanuatu"	"South and South-East Asia"	"1920"	0
+"GUM"	"Guam"	"South and South-East Asia"	"1920"	0
+"KIR"	"Kiribati"	"South and South-East Asia"	"1920"	0
+"MHL"	"Marshall Islands"	"South and South-East Asia"	"1920"	0
+"FSM"	"Micronesia (Federated States of)"	"South and South-East Asia"	"1920"	0
+"NRU"	"Nauru"	"South and South-East Asia"	"1920"	0
+"MNP"	"Northern Mariana Islands"	"South and South-East Asia"	"1920"	0
+NA	"Pacific Islands (Trust Territory) (1947-1986)"	"South and South-East Asia"	"1920"	0
+"PLW"	"Palau"	"South and South-East Asia"	"1920"	0
+"ASM"	"American Samoa"	"South and South-East Asia"	"1920"	0
+"COK"	"Cook Islands"	"South and South-East Asia"	"1920"	0
+"PYF"	"French Polynesia"	"South and South-East Asia"	"1920"	0
+"NIU"	"Niue"	"South and South-East Asia"	"1920"	0
+"PCN"	"Pitcairn"	"South and South-East Asia"	"1920"	0
+"WSM"	"Samoa"	"South and South-East Asia"	"1920"	0
+NA	"Tokelau"	"South and South-East Asia"	"1920"	0
+"TON"	"Tonga"	"South and South-East Asia"	"1920"	0
+"TUV"	"Tuvalu"	"South and South-East Asia"	"1920"	0
+"WLF"	"Wallis and Futuna Islands"	"South and South-East Asia"	"1920"	0
+"AFG"	"Afghanistan"	"South and South-East Asia"	"1920"	0
+"BGD"	"Bangladesh"	"South and South-East Asia"	"1920"	0
+"BTN"	"Bhutan"	"South and South-East Asia"	"1920"	0
+"IND"	"India"	"South and South-East Asia"	"1920"	0
+"IRN"	"Iran (Islamic Republic of)"	"MENA"	"1920"	0
+"MDV"	"Maldives"	"South and South-East Asia"	"1920"	0
+"NPL"	"Nepal"	"South and South-East Asia"	"1920"	0
+"PAK"	"Pakistan"	"South and South-East Asia"	"1920"	0
+"LKA"	"Sri Lanka"	"South and South-East Asia"	"1920"	0
+"CHN"	"China"	"East Asia"	"1920"	2
+"HKG"	"Hong Kong China"	"East Asia"	"1920"	2
+"MAC"	"China, Macao Special Administrative Region"	"East Asia"	"1920"	2
+"PRK"	"Democratic People's Republic of Korea"	"East Asia"	"1920"	2
+"JPN"	"Japan"	"East Asia"	"1920"	2
+"MNG"	"Mongolia"	"East Asia"	"1920"	2
+"KOR"	"Korea"	"East Asia"	"1920"	2
+"BRN"	"Brunei Darussalam"	"South and South-East Asia"	"1920"	0
+"KHM"	"Cambodia"	"South and South-East Asia"	"1920"	0
+"IDN"	"Indonesia"	"South and South-East Asia"	"1920"	0
+"LAO"	"Lao People's Democratic Republic"	"South and South-East Asia"	"1920"	0
+"MYS"	"Malaysia"	"South and South-East Asia"	"1920"	0
+"MMR"	"Myanmar"	"South and South-East Asia"	"1920"	0
+"PHL"	"Philippines"	"South and South-East Asia"	"1920"	0
+"SGP"	"Singapore"	"South and South-East Asia"	"1920"	0
+"THA"	"Thailand"	"South and South-East Asia"	"1920"	0
+"TLS"	"Timor-Leste"	"South and South-East Asia"	"1920"	0
+"VNM"	"Viet Nam"	"South and South-East Asia"	"1920"	0
+"ARM"	"Armenia"	"Eastern Europe"	"1920"	2
+"AZE"	"Azerbaijan"	"Eastern Europe"	"1920"	2
+"BHR"	"Bahrain"	"MENA"	"1920"	0
+"CYP"	"Cyprus"	"MENA"	"1920"	0
+NA	"Democratic Yemen (until 1990)"	"MENA"	"1920"	0
+"GEO"	"Georgia"	"Eastern Europe"	"1920"	2
+"IRQ"	"Iraq"	"MENA"	"1920"	0
+"ISR"	"Israel"	"MENA"	"1920"	0
+"JOR"	"Jordan"	"MENA"	"1920"	0
+"KWT"	"Kuwait"	"MENA"	"1920"	0
+"LBN"	"Lebanon"	"MENA"	"1920"	0
+"PSE"	"Palestinian Authority"	"MENA"	"1920"	0
+"OMN"	"Oman"	"MENA"	"1920"	0
+"QAT"	"Qatar"	"MENA"	"1920"	0
+"SAU"	"Saudi Arabia"	"MENA"	"1920"	0
+"SYR"	"Syrian Arab Republic"	"MENA"	"1920"	0
+"TUR"	"Turkey"	"MENA"	"1920"	0
+"ARE"	"United Arab Emirates"	"MENA"	"1920"	0
+NA	"Yemen (until 1990)"	"MENA"	"1920"	0
+"YEM"	"Yemen"	"MENA"	"1920"	0
+"KAZ"	"Kazakhstan"	"Eastern Europe"	"1920"	2
+"KGZ"	"Kyrgyzstan"	"Eastern Europe"	"1920"	2
+"TJK"	"Tajikistan"	"Eastern Europe"	"1920"	2
+"TKM"	"Turkmenistan"	"Eastern Europe"	"1920"	2
+"UZB"	"Uzbekistan"	"Eastern Europe"	"1920"	2
+"DZA"	"Algeria"	"MENA"	"1920"	0
+"EGY"	"Egypt"	"MENA"	"1920"	0
+"LBY"	"Libya"	"MENA"	"1920"	0
+"MAR"	"Morocco"	"MENA"	"1920"	0
+"SSD"	"South Sudan"	"MENA"	"1920"	0
+NA	"Sudan (North)"	"MENA"	"1920"	0
+"SDN"	"Sudan (until 2011)"	"MENA"	"1920"	0
+"TUN"	"Tunisia"	"MENA"	"1920"	0
+"ESH"	"Western Sahara"	"MENA"	"1920"	0
+"BEN"	"Benin"	"Sub-Saharan Africa"	"1920"	0
+"BFA"	"Burkina Faso"	"Sub-Saharan Africa"	"1920"	0
+"CPV"	"Cape Verde"	"Sub-Saharan Africa"	"1920"	0
+"CIV"	"Cote d'Ivoire"	"Sub-Saharan Africa"	"1920"	0
+"GMB"	"Gambia"	"Sub-Saharan Africa"	"1920"	0
+"GHA"	"Ghana"	"Sub-Saharan Africa"	"1920"	0
+"GIN"	"Guinea"	"Sub-Saharan Africa"	"1920"	0
+"GNB"	"Guinea-Bissau"	"Sub-Saharan Africa"	"1920"	0
+"LBR"	"Liberia"	"Sub-Saharan Africa"	"1920"	0
+"MLI"	"Mali"	"Sub-Saharan Africa"	"1920"	0
+"MRT"	"Mauritania"	"Sub-Saharan Africa"	"1920"	0
+"NER"	"Niger"	"Sub-Saharan Africa"	"1920"	0
+"NGA"	"Nigeria"	"Sub-Saharan Africa"	"1920"	0
+"SHN"	"Saint Helena"	"Sub-Saharan Africa"	"1920"	0
+"SEN"	"Senegal"	"Sub-Saharan Africa"	"1920"	0
+"SLE"	"Sierra Leone"	"Sub-Saharan Africa"	"1920"	0
+"TGO"	"Togo"	"Sub-Saharan Africa"	"1920"	0
+"AGO"	"Angola"	"Sub-Saharan Africa"	"1920"	0
+"CMR"	"Cameroon"	"Sub-Saharan Africa"	"1920"	0
+"CAF"	"Central African Republic"	"Sub-Saharan Africa"	"1920"	0
+"TCD"	"Chad"	"Sub-Saharan Africa"	"1920"	0
+"COG"	"Congo"	"Sub-Saharan Africa"	"1920"	0
+"COD"	"Democratic Republic of the Congo"	"Sub-Saharan Africa"	"1920"	0
+"GNQ"	"Equatorial Guinea"	"Sub-Saharan Africa"	"1920"	0
+"GAB"	"Gabon"	"Sub-Saharan Africa"	"1920"	0
+"STP"	"Sao Tome and Principe"	"Sub-Saharan Africa"	"1920"	0
+"BWA"	"Botswana"	"Sub-Saharan Africa"	"1920"	0
+"LSO"	"Lesotho"	"Sub-Saharan Africa"	"1920"	0
+"NAM"	"Namibia"	"Sub-Saharan Africa"	"1920"	0
+"ZAF"	"South Africa"	"Sub-Saharan Africa"	"1920"	0
+"SWZ"	"Swaziland"	"Sub-Saharan Africa"	"1920"	0
+"BDI"	"Burundi"	"Sub-Saharan Africa"	"1920"	0
+"COM"	"Comoros"	"Sub-Saharan Africa"	"1920"	0
+"DJI"	"Djibouti"	"Sub-Saharan Africa"	"1920"	0
+"ERI"	"Eritrea"	"Sub-Saharan Africa"	"1920"	0
+NA	"Ethiopia (until 1993)"	"Sub-Saharan Africa"	"1920"	0
+"ETH"	"Ethiopia (from 1993)"	"Sub-Saharan Africa"	"1920"	0
+"KEN"	"Kenya"	"Sub-Saharan Africa"	"1920"	0
+"MDG"	"Madagascar"	"Sub-Saharan Africa"	"1920"	0
+"MWI"	"Malawi"	"Sub-Saharan Africa"	"1920"	0
+"MUS"	"Mauritius"	"Sub-Saharan Africa"	"1920"	0
+"MYT"	"Mayotte"	"Sub-Saharan Africa"	"1920"	0
+"MOZ"	"Mozambique"	"Sub-Saharan Africa"	"1920"	0
+"REU"	"R_union"	"Sub-Saharan Africa"	"1920"	0
+"RWA"	"Rwanda"	"Sub-Saharan Africa"	"1920"	0
+"SYC"	"Seychelles"	"Sub-Saharan Africa"	"1920"	0
+"SOM"	"Somalia"	"Sub-Saharan Africa"	"1920"	0
+"UGA"	"Uganda"	"Sub-Saharan Africa"	"1920"	0
+"TZA"	"United Republic of Tanzania"	"Sub-Saharan Africa"	"1920"	0
+"ZMB"	"Zambia"	"Sub-Saharan Africa"	"1920"	0
+"ZWE"	"Zimbabwe"	"Sub-Saharan Africa"	"1920"	0
+"TWN"	"Taiwan"	"East Asia"	"1920"	2
+"XKS"	"Kosovo"	"Eastern Europe"	"1920"	2
+"AUT"	"Austria"	"Western Europe"	"1950"	1
+"BEL"	"Belgium"	"Western Europe"	"1950"	1
+NA	"Federal Republic of Germany (until 1990)"	"Western Europe"	"1950"	1
+"FRA"	"France"	"Western Europe"	"1950"	1
+NA	"German Democratic Republic (until 1990)"	"Eastern Europe"	"1950"	1
+"DEU"	"Germany"	"Western Europe"	"1950"	1
+"LIE"	"Liechtenstein"	"Western Europe"	"1950"	1
+"LUX"	"Luxembourg"	"Western Europe"	"1950"	1
+"MCO"	"Monaco"	"Western Europe"	"1950"	1
+"NLD"	"Netherlands"	"Western Europe"	"1950"	1
+"CHE"	"Switzerland"	"Western Europe"	"1950"	1
+"ALA"	"Åland Islands"	"Western Europe"	"1950"	1
+NA	"Channel Islands"	"Western Europe"	"1950"	1
+"DNK"	"Denmark"	"Western Europe"	"1950"	1
+"EST"	"Estonia"	"Eastern Europe"	"1950"	1
+"FRO"	"Faeroe Islands"	"Western Europe"	"1950"	1
+"FIN"	"Finland"	"Western Europe"	"1950"	1
+"GGY"	"Guernsey"	"Western Europe"	"1950"	1
+"ISL"	"Iceland"	"Western Europe"	"1950"	1
+"IRL"	"Ireland"	"Western Europe"	"1950"	1
+"IMN"	"Isle of Man"	"Western Europe"	"1950"	1
+"JEY"	"Jersey"	"Western Europe"	"1950"	1
+"LVA"	"Latvia"	"Eastern Europe"	"1950"	1
+"LTU"	"Lithuania"	"Eastern Europe"	"1950"	1
+"NOR"	"Norway"	"Western Europe"	"1950"	1
+NA	"Sark"	"Western Europe"	"1950"	1
+"SJM"	"Svalbard and Jan Mayen Islands"	"Western Europe"	"1950"	1
+"SWE"	"Sweden"	"Western Europe"	"1950"	1
+"GBR"	"United Kingdom"	"Western Europe"	"1950"	1
+"ALB"	"Albania"	"Eastern Europe"	"1950"	1
+"AND"	"Andorra"	"Western Europe"	"1950"	1
+"BIH"	"Bosnia and Herzegovina"	"Eastern Europe"	"1950"	1
+"HRV"	"Croatia"	"Eastern Europe"	"1950"	1
+"GIB"	"Gibraltar"	"Western Europe"	"1950"	1
+"GRC"	"Greece"	"Western Europe"	"1950"	1
+"VAT"	"Holy See"	"Western Europe"	"1950"	1
+"ITA"	"Italy"	"Western Europe"	"1950"	1
+"MLT"	"Malta"	"Western Europe"	"1950"	1
+"MNE"	"Montenegro"	"Eastern Europe"	"1950"	1
+"PRT"	"Portugal"	"Western Europe"	"1950"	1
+"SMR"	"San Marino"	"Western Europe"	"1950"	1
+"SRB"	"Serbia"	"Eastern Europe"	"1950"	1
+NA	"Serbia and Montenegro (until 2006)"	"Eastern Europe"	"1950"	1
+"SVN"	"Slovenia"	"Eastern Europe"	"1950"	1
+NA	"Socialist Federal Republic of Yugoslavia (until 1992)"	"Eastern Europe"	"1950"	1
+"ESP"	"Spain"	"Western Europe"	"1950"	1
+"MKD"	"Former Yugoslav Republic of Macedonia"	"Eastern Europe"	"1950"	1
+"BLR"	"Belarus"	"Eastern Europe"	"1950"	1
+"BGR"	"Bulgaria"	"Eastern Europe"	"1950"	1
+"CZE"	"Czech Republic"	"Eastern Europe"	"1950"	1
+NA	"Czechoslovakia (until 1993)"	"Eastern Europe"	"1950"	1
+"HUN"	"Hungary"	"Eastern Europe"	"1950"	1
+"POL"	"Poland"	"Eastern Europe"	"1950"	1
+"MDA"	"Republic of Moldova"	"Eastern Europe"	"1950"	1
+"ROU"	"Romania"	"Eastern Europe"	"1950"	1
+"RUS"	"Russian Federation"	"Eastern Europe"	"1950"	1
+"SVK"	"Slovakia"	"Eastern Europe"	"1950"	1
+"UKR"	"Ukraine"	"Eastern Europe"	"1950"	1
+NA	"USSR (until 1991)"	"Eastern Europe"	"1950"	1
+"BMU"	"Bermuda"	"Latin America and Caribbean"	"1950"	1
+"CAN"	"Canada"	"Western Offshoots"	"1950"	1
+"GRL"	"Greenland"	"Western Europe"	"1950"	1
+"SPM"	"Saint Pierre and Miquelon"	"Latin America and Caribbean"	"1950"	1
+"USA"	"United States of America"	"Western Offshoots"	"1950"	1
+"AIA"	"Anguilla"	"Latin America and Caribbean"	"1950"	1
+"ATG"	"Antigua and Barbuda"	"Latin America and Caribbean"	"1950"	1
+"ABW"	"Aruba"	"Latin America and Caribbean"	"1950"	1
+"BHS"	"Bahamas"	"Latin America and Caribbean"	"1950"	1
+"BRB"	"Barbados"	"Latin America and Caribbean"	"1950"	1
+NA	"Bonaire, Saint Eustatius and Saba"	"Latin America and Caribbean"	"1950"	1
+"VGB"	"British Virgin Islands"	"Latin America and Caribbean"	"1950"	1
+"CYM"	"Cayman Islands"	"Latin America and Caribbean"	"1950"	1
+"CUB"	"Cuba"	"Latin America and Caribbean"	"1950"	1
+"CUW"	"Curaçao"	"Latin America and Caribbean"	"1950"	1
+"DMA"	"Dominica"	"Latin America and Caribbean"	"1950"	1
+"DOM"	"Dominican Republic"	"Latin America and Caribbean"	"1950"	1
+"GRD"	"Grenada"	"Latin America and Caribbean"	"1950"	1
+"GLP"	"Guadeloupe"	"Latin America and Caribbean"	"1950"	1
+"HTI"	"Haiti"	"Latin America and Caribbean"	"1950"	1
+"JAM"	"Jamaica"	"Latin America and Caribbean"	"1950"	1
+"MTQ"	"Martinique"	"Latin America and Caribbean"	"1950"	1
+"MSR"	"Montserrat"	"Latin America and Caribbean"	"1950"	1
+"ANT"	"Netherlands Antilles (until 2010)"	"Latin America and Caribbean"	"1950"	1
+"PRI"	"Puerto Rico"	"Latin America and Caribbean"	"1950"	1
+"BLM"	"Saint-Barth_lemy"	"Latin America and Caribbean"	"1950"	1
+"KNA"	"Saint Kitts and Nevis"	"Latin America and Caribbean"	"1950"	1
+"LCA"	"Saint Lucia"	"Latin America and Caribbean"	"1950"	1
+"MAF"	"Saint Martin (French part)"	"Latin America and Caribbean"	"1950"	1
+"VCT"	"Saint Vincent and the Grenadines"	"Latin America and Caribbean"	"1950"	1
+"SXM"	"Sint Maarten (Dutch part)"	"Latin America and Caribbean"	"1950"	1
+"TTO"	"Trinidad and Tobago"	"Latin America and Caribbean"	"1950"	1
+"TCA"	"Turks and Caicos Islands"	"Latin America and Caribbean"	"1950"	1
+"VIR"	"United States Virgin Islands"	"Latin America and Caribbean"	"1950"	1
+"BLZ"	"Belize"	"Latin America and Caribbean"	"1950"	1
+"CRI"	"Costa Rica"	"Latin America and Caribbean"	"1950"	1
+"SLV"	"El Salvador"	"Latin America and Caribbean"	"1950"	1
+"GTM"	"Guatemala"	"Latin America and Caribbean"	"1950"	1
+"HND"	"Honduras"	"Latin America and Caribbean"	"1950"	1
+"MEX"	"Mexico"	"Latin America and Caribbean"	"1950"	1
+"NIC"	"Nicaragua"	"Latin America and Caribbean"	"1950"	1
+"PAN"	"Panama"	"Latin America and Caribbean"	"1950"	1
+"ARG"	"Argentina"	"Latin America and Caribbean"	"1950"	1
+"BOL"	"Bolivia (Plurinational State of)"	"Latin America and Caribbean"	"1950"	1
+"BRA"	"Brazil"	"Latin America and Caribbean"	"1950"	1
+"CHL"	"Chile"	"Latin America and Caribbean"	"1950"	1
+"COL"	"Colombia"	"Latin America and Caribbean"	"1950"	1
+"ECU"	"Ecuador"	"Latin America and Caribbean"	"1950"	1
+"FLK"	"Falkland Islands (Malvinas)"	"Latin America and Caribbean"	"1950"	1
+"GUF"	"French Guiana"	"Latin America and Caribbean"	"1950"	1
+"GUY"	"Guyana"	"Latin America and Caribbean"	"1950"	1
+"PRY"	"Paraguay"	"Latin America and Caribbean"	"1950"	1
+"PER"	"Peru"	"Latin America and Caribbean"	"1950"	1
+"SUR"	"Suriname"	"Latin America and Caribbean"	"1950"	1
+"URY"	"Uruguay"	"Latin America and Caribbean"	"1950"	1
+"VEN"	"Venezuela (Bolivarian Republic of)"	"Latin America and Caribbean"	"1950"	1
+"AUS"	"Australia"	"Western Offshoots"	"1950"	1
+"NZL"	"New Zealand"	"Western Offshoots"	"1950"	1
+"NFK"	"Norfolk Island"	"South and South-East Asia"	"1950"	1
+"FJI"	"Fiji"	"South and South-East Asia"	"1950"	1
+"NCL"	"New Caledonia"	"South and South-East Asia"	"1950"	1
+"PNG"	"Papua New Guinea"	"South and South-East Asia"	"1950"	1
+"SLB"	"Solomon Islands"	"South and South-East Asia"	"1950"	1
+"VUT"	"Vanuatu"	"South and South-East Asia"	"1950"	1
+"GUM"	"Guam"	"South and South-East Asia"	"1950"	1
+"KIR"	"Kiribati"	"South and South-East Asia"	"1950"	1
+"MHL"	"Marshall Islands"	"South and South-East Asia"	"1950"	1
+"FSM"	"Micronesia (Federated States of)"	"South and South-East Asia"	"1950"	1
+"NRU"	"Nauru"	"South and South-East Asia"	"1950"	1
+"MNP"	"Northern Mariana Islands"	"South and South-East Asia"	"1950"	1
+NA	"Pacific Islands (Trust Territory) (1947-1986)"	"South and South-East Asia"	"1950"	1
+"PLW"	"Palau"	"South and South-East Asia"	"1950"	1
+"ASM"	"American Samoa"	"South and South-East Asia"	"1950"	1
+"COK"	"Cook Islands"	"South and South-East Asia"	"1950"	1
+"PYF"	"French Polynesia"	"South and South-East Asia"	"1950"	1
+"NIU"	"Niue"	"South and South-East Asia"	"1950"	1
+"PCN"	"Pitcairn"	"South and South-East Asia"	"1950"	1
+"WSM"	"Samoa"	"South and South-East Asia"	"1950"	1
+NA	"Tokelau"	"South and South-East Asia"	"1950"	1
+"TON"	"Tonga"	"South and South-East Asia"	"1950"	1
+"TUV"	"Tuvalu"	"South and South-East Asia"	"1950"	1
+"WLF"	"Wallis and Futuna Islands"	"South and South-East Asia"	"1950"	1
+"AFG"	"Afghanistan"	"South and South-East Asia"	"1950"	1
+"BGD"	"Bangladesh"	"South and South-East Asia"	"1950"	1
+"BTN"	"Bhutan"	"South and South-East Asia"	"1950"	1
+"IND"	"India"	"South and South-East Asia"	"1950"	1
+"IRN"	"Iran (Islamic Republic of)"	"MENA"	"1950"	1
+"MDV"	"Maldives"	"South and South-East Asia"	"1950"	1
+"NPL"	"Nepal"	"South and South-East Asia"	"1950"	1
+"PAK"	"Pakistan"	"South and South-East Asia"	"1950"	1
+"LKA"	"Sri Lanka"	"South and South-East Asia"	"1950"	1
+"CHN"	"China"	"East Asia"	"1950"	1
+"HKG"	"Hong Kong China"	"East Asia"	"1950"	1
+"MAC"	"China, Macao Special Administrative Region"	"East Asia"	"1950"	1
+"PRK"	"Democratic People's Republic of Korea"	"East Asia"	"1950"	1
+"JPN"	"Japan"	"East Asia"	"1950"	1
+"MNG"	"Mongolia"	"East Asia"	"1950"	1
+"KOR"	"Korea"	"East Asia"	"1950"	1
+"BRN"	"Brunei Darussalam"	"South and South-East Asia"	"1950"	1
+"KHM"	"Cambodia"	"South and South-East Asia"	"1950"	1
+"IDN"	"Indonesia"	"South and South-East Asia"	"1950"	1
+"LAO"	"Lao People's Democratic Republic"	"South and South-East Asia"	"1950"	1
+"MYS"	"Malaysia"	"South and South-East Asia"	"1950"	1
+"MMR"	"Myanmar"	"South and South-East Asia"	"1950"	1
+"PHL"	"Philippines"	"South and South-East Asia"	"1950"	1
+"SGP"	"Singapore"	"South and South-East Asia"	"1950"	1
+"THA"	"Thailand"	"South and South-East Asia"	"1950"	1
+"TLS"	"Timor-Leste"	"South and South-East Asia"	"1950"	1
+"VNM"	"Viet Nam"	"South and South-East Asia"	"1950"	1
+"ARM"	"Armenia"	"Eastern Europe"	"1950"	1
+"AZE"	"Azerbaijan"	"Eastern Europe"	"1950"	1
+"BHR"	"Bahrain"	"MENA"	"1950"	1
+"CYP"	"Cyprus"	"MENA"	"1950"	1
+NA	"Democratic Yemen (until 1990)"	"MENA"	"1950"	1
+"GEO"	"Georgia"	"Eastern Europe"	"1950"	1
+"IRQ"	"Iraq"	"MENA"	"1950"	1
+"ISR"	"Israel"	"MENA"	"1950"	1
+"JOR"	"Jordan"	"MENA"	"1950"	1
+"KWT"	"Kuwait"	"MENA"	"1950"	1
+"LBN"	"Lebanon"	"MENA"	"1950"	1
+"PSE"	"Palestinian Authority"	"MENA"	"1950"	1
+"OMN"	"Oman"	"MENA"	"1950"	1
+"QAT"	"Qatar"	"MENA"	"1950"	1
+"SAU"	"Saudi Arabia"	"MENA"	"1950"	1
+"SYR"	"Syrian Arab Republic"	"MENA"	"1950"	1
+"TUR"	"Turkey"	"MENA"	"1950"	1
+"ARE"	"United Arab Emirates"	"MENA"	"1950"	1
+NA	"Yemen (until 1990)"	"MENA"	"1950"	1
+"YEM"	"Yemen"	"MENA"	"1950"	1
+"KAZ"	"Kazakhstan"	"Eastern Europe"	"1950"	1
+"KGZ"	"Kyrgyzstan"	"Eastern Europe"	"1950"	1
+"TJK"	"Tajikistan"	"Eastern Europe"	"1950"	1
+"TKM"	"Turkmenistan"	"Eastern Europe"	"1950"	1
+"UZB"	"Uzbekistan"	"Eastern Europe"	"1950"	1
+"DZA"	"Algeria"	"MENA"	"1950"	1
+"EGY"	"Egypt"	"MENA"	"1950"	1
+"LBY"	"Libya"	"MENA"	"1950"	1
+"MAR"	"Morocco"	"MENA"	"1950"	1
+"SSD"	"South Sudan"	"MENA"	"1950"	1
+NA	"Sudan (North)"	"MENA"	"1950"	1
+"SDN"	"Sudan (until 2011)"	"MENA"	"1950"	1
+"TUN"	"Tunisia"	"MENA"	"1950"	1
+"ESH"	"Western Sahara"	"MENA"	"1950"	1
+"BEN"	"Benin"	"Sub-Saharan Africa"	"1950"	1
+"BFA"	"Burkina Faso"	"Sub-Saharan Africa"	"1950"	1
+"CPV"	"Cape Verde"	"Sub-Saharan Africa"	"1950"	1
+"CIV"	"Cote d'Ivoire"	"Sub-Saharan Africa"	"1950"	1
+"GMB"	"Gambia"	"Sub-Saharan Africa"	"1950"	1
+"GHA"	"Ghana"	"Sub-Saharan Africa"	"1950"	1
+"GIN"	"Guinea"	"Sub-Saharan Africa"	"1950"	1
+"GNB"	"Guinea-Bissau"	"Sub-Saharan Africa"	"1950"	1
+"LBR"	"Liberia"	"Sub-Saharan Africa"	"1950"	1
+"MLI"	"Mali"	"Sub-Saharan Africa"	"1950"	1
+"MRT"	"Mauritania"	"Sub-Saharan Africa"	"1950"	1
+"NER"	"Niger"	"Sub-Saharan Africa"	"1950"	1
+"NGA"	"Nigeria"	"Sub-Saharan Africa"	"1950"	1
+"SHN"	"Saint Helena"	"Sub-Saharan Africa"	"1950"	1
+"SEN"	"Senegal"	"Sub-Saharan Africa"	"1950"	1
+"SLE"	"Sierra Leone"	"Sub-Saharan Africa"	"1950"	1
+"TGO"	"Togo"	"Sub-Saharan Africa"	"1950"	1
+"AGO"	"Angola"	"Sub-Saharan Africa"	"1950"	1
+"CMR"	"Cameroon"	"Sub-Saharan Africa"	"1950"	1
+"CAF"	"Central African Republic"	"Sub-Saharan Africa"	"1950"	1
+"TCD"	"Chad"	"Sub-Saharan Africa"	"1950"	1
+"COG"	"Congo"	"Sub-Saharan Africa"	"1950"	1
+"COD"	"Democratic Republic of the Congo"	"Sub-Saharan Africa"	"1950"	1
+"GNQ"	"Equatorial Guinea"	"Sub-Saharan Africa"	"1950"	1
+"GAB"	"Gabon"	"Sub-Saharan Africa"	"1950"	1
+"STP"	"Sao Tome and Principe"	"Sub-Saharan Africa"	"1950"	1
+"BWA"	"Botswana"	"Sub-Saharan Africa"	"1950"	1
+"LSO"	"Lesotho"	"Sub-Saharan Africa"	"1950"	1
+"NAM"	"Namibia"	"Sub-Saharan Africa"	"1950"	1
+"ZAF"	"South Africa"	"Sub-Saharan Africa"	"1950"	1
+"SWZ"	"Swaziland"	"Sub-Saharan Africa"	"1950"	1
+"BDI"	"Burundi"	"Sub-Saharan Africa"	"1950"	1
+"COM"	"Comoros"	"Sub-Saharan Africa"	"1950"	1
+"DJI"	"Djibouti"	"Sub-Saharan Africa"	"1950"	1
+"ERI"	"Eritrea"	"Sub-Saharan Africa"	"1950"	1
+NA	"Ethiopia (until 1993)"	"Sub-Saharan Africa"	"1950"	1
+"ETH"	"Ethiopia (from 1993)"	"Sub-Saharan Africa"	"1950"	1
+"KEN"	"Kenya"	"Sub-Saharan Africa"	"1950"	1
+"MDG"	"Madagascar"	"Sub-Saharan Africa"	"1950"	1
+"MWI"	"Malawi"	"Sub-Saharan Africa"	"1950"	1
+"MUS"	"Mauritius"	"Sub-Saharan Africa"	"1950"	1
+"MYT"	"Mayotte"	"Sub-Saharan Africa"	"1950"	1
+"MOZ"	"Mozambique"	"Sub-Saharan Africa"	"1950"	1
+"REU"	"R_union"	"Sub-Saharan Africa"	"1950"	1
+"RWA"	"Rwanda"	"Sub-Saharan Africa"	"1950"	1
+"SYC"	"Seychelles"	"Sub-Saharan Africa"	"1950"	1
+"SOM"	"Somalia"	"Sub-Saharan Africa"	"1950"	1
+"UGA"	"Uganda"	"Sub-Saharan Africa"	"1950"	1
+"TZA"	"United Republic of Tanzania"	"Sub-Saharan Africa"	"1950"	1
+"ZMB"	"Zambia"	"Sub-Saharan Africa"	"1950"	1
+"ZWE"	"Zimbabwe"	"Sub-Saharan Africa"	"1950"	1
+"TWN"	"Taiwan"	"East Asia"	"1950"	1
+"XKS"	"Kosovo"	"Eastern Europe"	"1950"	1
+"AUT"	"Austria"	"Western Europe"	"1970"	1
+"BEL"	"Belgium"	"Western Europe"	"1970"	1
+NA	"Federal Republic of Germany (until 1990)"	"Western Europe"	"1970"	1
+"FRA"	"France"	"Western Europe"	"1970"	1
+NA	"German Democratic Republic (until 1990)"	"Eastern Europe"	"1970"	1
+"DEU"	"Germany"	"Western Europe"	"1970"	1
+"LIE"	"Liechtenstein"	"Western Europe"	"1970"	1
+"LUX"	"Luxembourg"	"Western Europe"	"1970"	1
+"MCO"	"Monaco"	"Western Europe"	"1970"	1
+"NLD"	"Netherlands"	"Western Europe"	"1970"	1
+"CHE"	"Switzerland"	"Western Europe"	"1970"	1
+"ALA"	"Åland Islands"	"Western Europe"	"1970"	1
+NA	"Channel Islands"	"Western Europe"	"1970"	1
+"DNK"	"Denmark"	"Western Europe"	"1970"	1
+"EST"	"Estonia"	"Eastern Europe"	"1970"	1
+"FRO"	"Faeroe Islands"	"Western Europe"	"1970"	1
+"FIN"	"Finland"	"Western Europe"	"1970"	1
+"GGY"	"Guernsey"	"Western Europe"	"1970"	1
+"ISL"	"Iceland"	"Western Europe"	"1970"	1
+"IRL"	"Ireland"	"Western Europe"	"1970"	1
+"IMN"	"Isle of Man"	"Western Europe"	"1970"	1
+"JEY"	"Jersey"	"Western Europe"	"1970"	1
+"LVA"	"Latvia"	"Eastern Europe"	"1970"	1
+"LTU"	"Lithuania"	"Eastern Europe"	"1970"	1
+"NOR"	"Norway"	"Western Europe"	"1970"	1
+NA	"Sark"	"Western Europe"	"1970"	1
+"SJM"	"Svalbard and Jan Mayen Islands"	"Western Europe"	"1970"	1
+"SWE"	"Sweden"	"Western Europe"	"1970"	1
+"GBR"	"United Kingdom"	"Western Europe"	"1970"	1
+"ALB"	"Albania"	"Eastern Europe"	"1970"	1
+"AND"	"Andorra"	"Western Europe"	"1970"	1
+"BIH"	"Bosnia and Herzegovina"	"Eastern Europe"	"1970"	1
+"HRV"	"Croatia"	"Eastern Europe"	"1970"	1
+"GIB"	"Gibraltar"	"Western Europe"	"1970"	1
+"GRC"	"Greece"	"Western Europe"	"1970"	1
+"VAT"	"Holy See"	"Western Europe"	"1970"	1
+"ITA"	"Italy"	"Western Europe"	"1970"	1
+"MLT"	"Malta"	"Western Europe"	"1970"	1
+"MNE"	"Montenegro"	"Eastern Europe"	"1970"	1
+"PRT"	"Portugal"	"Western Europe"	"1970"	1
+"SMR"	"San Marino"	"Western Europe"	"1970"	1
+"SRB"	"Serbia"	"Eastern Europe"	"1970"	1
+NA	"Serbia and Montenegro (until 2006)"	"Eastern Europe"	"1970"	1
+"SVN"	"Slovenia"	"Eastern Europe"	"1970"	1
+NA	"Socialist Federal Republic of Yugoslavia (until 1992)"	"Eastern Europe"	"1970"	1
+"ESP"	"Spain"	"Western Europe"	"1970"	1
+"MKD"	"Former Yugoslav Republic of Macedonia"	"Eastern Europe"	"1970"	1
+"BLR"	"Belarus"	"Eastern Europe"	"1970"	1
+"BGR"	"Bulgaria"	"Eastern Europe"	"1970"	1
+"CZE"	"Czech Republic"	"Eastern Europe"	"1970"	1
+NA	"Czechoslovakia (until 1993)"	"Eastern Europe"	"1970"	1
+"HUN"	"Hungary"	"Eastern Europe"	"1970"	1
+"POL"	"Poland"	"Eastern Europe"	"1970"	1
+"MDA"	"Republic of Moldova"	"Eastern Europe"	"1970"	1
+"ROU"	"Romania"	"Eastern Europe"	"1970"	1
+"RUS"	"Russian Federation"	"Eastern Europe"	"1970"	1
+"SVK"	"Slovakia"	"Eastern Europe"	"1970"	1
+"UKR"	"Ukraine"	"Eastern Europe"	"1970"	1
+NA	"USSR (until 1991)"	"Eastern Europe"	"1970"	1
+"BMU"	"Bermuda"	"Latin America and Caribbean"	"1970"	1
+"CAN"	"Canada"	"Western Offshoots"	"1970"	1
+"GRL"	"Greenland"	"Western Europe"	"1970"	1
+"SPM"	"Saint Pierre and Miquelon"	"Latin America and Caribbean"	"1970"	1
+"USA"	"United States of America"	"Western Offshoots"	"1970"	1
+"AIA"	"Anguilla"	"Latin America and Caribbean"	"1970"	1
+"ATG"	"Antigua and Barbuda"	"Latin America and Caribbean"	"1970"	1
+"ABW"	"Aruba"	"Latin America and Caribbean"	"1970"	1
+"BHS"	"Bahamas"	"Latin America and Caribbean"	"1970"	1
+"BRB"	"Barbados"	"Latin America and Caribbean"	"1970"	1
+NA	"Bonaire, Saint Eustatius and Saba"	"Latin America and Caribbean"	"1970"	1
+"VGB"	"British Virgin Islands"	"Latin America and Caribbean"	"1970"	1
+"CYM"	"Cayman Islands"	"Latin America and Caribbean"	"1970"	1
+"CUB"	"Cuba"	"Latin America and Caribbean"	"1970"	1
+"CUW"	"Curaçao"	"Latin America and Caribbean"	"1970"	1
+"DMA"	"Dominica"	"Latin America and Caribbean"	"1970"	1
+"DOM"	"Dominican Republic"	"Latin America and Caribbean"	"1970"	1
+"GRD"	"Grenada"	"Latin America and Caribbean"	"1970"	1
+"GLP"	"Guadeloupe"	"Latin America and Caribbean"	"1970"	1
+"HTI"	"Haiti"	"Latin America and Caribbean"	"1970"	1
+"JAM"	"Jamaica"	"Latin America and Caribbean"	"1970"	1
+"MTQ"	"Martinique"	"Latin America and Caribbean"	"1970"	1
+"MSR"	"Montserrat"	"Latin America and Caribbean"	"1970"	1
+"ANT"	"Netherlands Antilles (until 2010)"	"Latin America and Caribbean"	"1970"	1
+"PRI"	"Puerto Rico"	"Latin America and Caribbean"	"1970"	1
+"BLM"	"Saint-Barth_lemy"	"Latin America and Caribbean"	"1970"	1
+"KNA"	"Saint Kitts and Nevis"	"Latin America and Caribbean"	"1970"	1
+"LCA"	"Saint Lucia"	"Latin America and Caribbean"	"1970"	1
+"MAF"	"Saint Martin (French part)"	"Latin America and Caribbean"	"1970"	1
+"VCT"	"Saint Vincent and the Grenadines"	"Latin America and Caribbean"	"1970"	1
+"SXM"	"Sint Maarten (Dutch part)"	"Latin America and Caribbean"	"1970"	1
+"TTO"	"Trinidad and Tobago"	"Latin America and Caribbean"	"1970"	1
+"TCA"	"Turks and Caicos Islands"	"Latin America and Caribbean"	"1970"	1
+"VIR"	"United States Virgin Islands"	"Latin America and Caribbean"	"1970"	1
+"BLZ"	"Belize"	"Latin America and Caribbean"	"1970"	1
+"CRI"	"Costa Rica"	"Latin America and Caribbean"	"1970"	1
+"SLV"	"El Salvador"	"Latin America and Caribbean"	"1970"	1
+"GTM"	"Guatemala"	"Latin America and Caribbean"	"1970"	1
+"HND"	"Honduras"	"Latin America and Caribbean"	"1970"	1
+"MEX"	"Mexico"	"Latin America and Caribbean"	"1970"	1
+"NIC"	"Nicaragua"	"Latin America and Caribbean"	"1970"	1
+"PAN"	"Panama"	"Latin America and Caribbean"	"1970"	1
+"ARG"	"Argentina"	"Latin America and Caribbean"	"1970"	1
+"BOL"	"Bolivia (Plurinational State of)"	"Latin America and Caribbean"	"1970"	1
+"BRA"	"Brazil"	"Latin America and Caribbean"	"1970"	1
+"CHL"	"Chile"	"Latin America and Caribbean"	"1970"	1
+"COL"	"Colombia"	"Latin America and Caribbean"	"1970"	1
+"ECU"	"Ecuador"	"Latin America and Caribbean"	"1970"	1
+"FLK"	"Falkland Islands (Malvinas)"	"Latin America and Caribbean"	"1970"	1
+"GUF"	"French Guiana"	"Latin America and Caribbean"	"1970"	1
+"GUY"	"Guyana"	"Latin America and Caribbean"	"1970"	1
+"PRY"	"Paraguay"	"Latin America and Caribbean"	"1970"	1
+"PER"	"Peru"	"Latin America and Caribbean"	"1970"	1
+"SUR"	"Suriname"	"Latin America and Caribbean"	"1970"	1
+"URY"	"Uruguay"	"Latin America and Caribbean"	"1970"	1
+"VEN"	"Venezuela (Bolivarian Republic of)"	"Latin America and Caribbean"	"1970"	1
+"AUS"	"Australia"	"Western Offshoots"	"1970"	1
+"NZL"	"New Zealand"	"Western Offshoots"	"1970"	1
+"NFK"	"Norfolk Island"	"South and South-East Asia"	"1970"	1
+"FJI"	"Fiji"	"South and South-East Asia"	"1970"	1
+"NCL"	"New Caledonia"	"South and South-East Asia"	"1970"	1
+"PNG"	"Papua New Guinea"	"South and South-East Asia"	"1970"	1
+"SLB"	"Solomon Islands"	"South and South-East Asia"	"1970"	1
+"VUT"	"Vanuatu"	"South and South-East Asia"	"1970"	1
+"GUM"	"Guam"	"South and South-East Asia"	"1970"	1
+"KIR"	"Kiribati"	"South and South-East Asia"	"1970"	1
+"MHL"	"Marshall Islands"	"South and South-East Asia"	"1970"	1
+"FSM"	"Micronesia (Federated States of)"	"South and South-East Asia"	"1970"	1
+"NRU"	"Nauru"	"South and South-East Asia"	"1970"	1
+"MNP"	"Northern Mariana Islands"	"South and South-East Asia"	"1970"	1
+NA	"Pacific Islands (Trust Territory) (1947-1986)"	"South and South-East Asia"	"1970"	1
+"PLW"	"Palau"	"South and South-East Asia"	"1970"	1
+"ASM"	"American Samoa"	"South and South-East Asia"	"1970"	1
+"COK"	"Cook Islands"	"South and South-East Asia"	"1970"	1
+"PYF"	"French Polynesia"	"South and South-East Asia"	"1970"	1
+"NIU"	"Niue"	"South and South-East Asia"	"1970"	1
+"PCN"	"Pitcairn"	"South and South-East Asia"	"1970"	1
+"WSM"	"Samoa"	"South and South-East Asia"	"1970"	1
+NA	"Tokelau"	"South and South-East Asia"	"1970"	1
+"TON"	"Tonga"	"South and South-East Asia"	"1970"	1
+"TUV"	"Tuvalu"	"South and South-East Asia"	"1970"	1
+"WLF"	"Wallis and Futuna Islands"	"South and South-East Asia"	"1970"	1
+"AFG"	"Afghanistan"	"South and South-East Asia"	"1970"	1
+"BGD"	"Bangladesh"	"South and South-East Asia"	"1970"	1
+"BTN"	"Bhutan"	"South and South-East Asia"	"1970"	1
+"IND"	"India"	"South and South-East Asia"	"1970"	1
+"IRN"	"Iran (Islamic Republic of)"	"MENA"	"1970"	1
+"MDV"	"Maldives"	"South and South-East Asia"	"1970"	1
+"NPL"	"Nepal"	"South and South-East Asia"	"1970"	1
+"PAK"	"Pakistan"	"South and South-East Asia"	"1970"	1
+"LKA"	"Sri Lanka"	"South and South-East Asia"	"1970"	1
+"CHN"	"China"	"East Asia"	"1970"	1
+"HKG"	"Hong Kong China"	"East Asia"	"1970"	1
+"MAC"	"China, Macao Special Administrative Region"	"East Asia"	"1970"	1
+"PRK"	"Democratic People's Republic of Korea"	"East Asia"	"1970"	1
+"JPN"	"Japan"	"East Asia"	"1970"	1
+"MNG"	"Mongolia"	"East Asia"	"1970"	1
+"KOR"	"Korea"	"East Asia"	"1970"	1
+"BRN"	"Brunei Darussalam"	"South and South-East Asia"	"1970"	1
+"KHM"	"Cambodia"	"South and South-East Asia"	"1970"	1
+"IDN"	"Indonesia"	"South and South-East Asia"	"1970"	1
+"LAO"	"Lao People's Democratic Republic"	"South and South-East Asia"	"1970"	1
+"MYS"	"Malaysia"	"South and South-East Asia"	"1970"	1
+"MMR"	"Myanmar"	"South and South-East Asia"	"1970"	1
+"PHL"	"Philippines"	"South and South-East Asia"	"1970"	1
+"SGP"	"Singapore"	"South and South-East Asia"	"1970"	1
+"THA"	"Thailand"	"South and South-East Asia"	"1970"	1
+"TLS"	"Timor-Leste"	"South and South-East Asia"	"1970"	1
+"VNM"	"Viet Nam"	"South and South-East Asia"	"1970"	1
+"ARM"	"Armenia"	"Eastern Europe"	"1970"	1
+"AZE"	"Azerbaijan"	"Eastern Europe"	"1970"	1
+"BHR"	"Bahrain"	"MENA"	"1970"	1
+"CYP"	"Cyprus"	"MENA"	"1970"	1
+NA	"Democratic Yemen (until 1990)"	"MENA"	"1970"	1
+"GEO"	"Georgia"	"Eastern Europe"	"1970"	1
+"IRQ"	"Iraq"	"MENA"	"1970"	1
+"ISR"	"Israel"	"MENA"	"1970"	1
+"JOR"	"Jordan"	"MENA"	"1970"	1
+"KWT"	"Kuwait"	"MENA"	"1970"	1
+"LBN"	"Lebanon"	"MENA"	"1970"	1
+"PSE"	"Palestinian Authority"	"MENA"	"1970"	1
+"OMN"	"Oman"	"MENA"	"1970"	1
+"QAT"	"Qatar"	"MENA"	"1970"	1
+"SAU"	"Saudi Arabia"	"MENA"	"1970"	1
+"SYR"	"Syrian Arab Republic"	"MENA"	"1970"	1
+"TUR"	"Turkey"	"MENA"	"1970"	1
+"ARE"	"United Arab Emirates"	"MENA"	"1970"	1
+NA	"Yemen (until 1990)"	"MENA"	"1970"	1
+"YEM"	"Yemen"	"MENA"	"1970"	1
+"KAZ"	"Kazakhstan"	"Eastern Europe"	"1970"	1
+"KGZ"	"Kyrgyzstan"	"Eastern Europe"	"1970"	1
+"TJK"	"Tajikistan"	"Eastern Europe"	"1970"	1
+"TKM"	"Turkmenistan"	"Eastern Europe"	"1970"	1
+"UZB"	"Uzbekistan"	"Eastern Europe"	"1970"	1
+"DZA"	"Algeria"	"MENA"	"1970"	1
+"EGY"	"Egypt"	"MENA"	"1970"	1
+"LBY"	"Libya"	"MENA"	"1970"	1
+"MAR"	"Morocco"	"MENA"	"1970"	1
+"SSD"	"South Sudan"	"MENA"	"1970"	1
+NA	"Sudan (North)"	"MENA"	"1970"	1
+"SDN"	"Sudan (until 2011)"	"MENA"	"1970"	1
+"TUN"	"Tunisia"	"MENA"	"1970"	1
+"ESH"	"Western Sahara"	"MENA"	"1970"	1
+"BEN"	"Benin"	"Sub-Saharan Africa"	"1970"	1
+"BFA"	"Burkina Faso"	"Sub-Saharan Africa"	"1970"	1
+"CPV"	"Cape Verde"	"Sub-Saharan Africa"	"1970"	1
+"CIV"	"Cote d'Ivoire"	"Sub-Saharan Africa"	"1970"	1
+"GMB"	"Gambia"	"Sub-Saharan Africa"	"1970"	1
+"GHA"	"Ghana"	"Sub-Saharan Africa"	"1970"	1
+"GIN"	"Guinea"	"Sub-Saharan Africa"	"1970"	1
+"GNB"	"Guinea-Bissau"	"Sub-Saharan Africa"	"1970"	1
+"LBR"	"Liberia"	"Sub-Saharan Africa"	"1970"	1
+"MLI"	"Mali"	"Sub-Saharan Africa"	"1970"	1
+"MRT"	"Mauritania"	"Sub-Saharan Africa"	"1970"	1
+"NER"	"Niger"	"Sub-Saharan Africa"	"1970"	1
+"NGA"	"Nigeria"	"Sub-Saharan Africa"	"1970"	1
+"SHN"	"Saint Helena"	"Sub-Saharan Africa"	"1970"	1
+"SEN"	"Senegal"	"Sub-Saharan Africa"	"1970"	1
+"SLE"	"Sierra Leone"	"Sub-Saharan Africa"	"1970"	1
+"TGO"	"Togo"	"Sub-Saharan Africa"	"1970"	1
+"AGO"	"Angola"	"Sub-Saharan Africa"	"1970"	1
+"CMR"	"Cameroon"	"Sub-Saharan Africa"	"1970"	1
+"CAF"	"Central African Republic"	"Sub-Saharan Africa"	"1970"	1
+"TCD"	"Chad"	"Sub-Saharan Africa"	"1970"	1
+"COG"	"Congo"	"Sub-Saharan Africa"	"1970"	1
+"COD"	"Democratic Republic of the Congo"	"Sub-Saharan Africa"	"1970"	1
+"GNQ"	"Equatorial Guinea"	"Sub-Saharan Africa"	"1970"	1
+"GAB"	"Gabon"	"Sub-Saharan Africa"	"1970"	1
+"STP"	"Sao Tome and Principe"	"Sub-Saharan Africa"	"1970"	1
+"BWA"	"Botswana"	"Sub-Saharan Africa"	"1970"	1
+"LSO"	"Lesotho"	"Sub-Saharan Africa"	"1970"	1
+"NAM"	"Namibia"	"Sub-Saharan Africa"	"1970"	1
+"ZAF"	"South Africa"	"Sub-Saharan Africa"	"1970"	1
+"SWZ"	"Swaziland"	"Sub-Saharan Africa"	"1970"	1
+"BDI"	"Burundi"	"Sub-Saharan Africa"	"1970"	1
+"COM"	"Comoros"	"Sub-Saharan Africa"	"1970"	1
+"DJI"	"Djibouti"	"Sub-Saharan Africa"	"1970"	1
+"ERI"	"Eritrea"	"Sub-Saharan Africa"	"1970"	1
+NA	"Ethiopia (until 1993)"	"Sub-Saharan Africa"	"1970"	1
+"ETH"	"Ethiopia (from 1993)"	"Sub-Saharan Africa"	"1970"	1
+"KEN"	"Kenya"	"Sub-Saharan Africa"	"1970"	1
+"MDG"	"Madagascar"	"Sub-Saharan Africa"	"1970"	1
+"MWI"	"Malawi"	"Sub-Saharan Africa"	"1970"	1
+"MUS"	"Mauritius"	"Sub-Saharan Africa"	"1970"	1
+"MYT"	"Mayotte"	"Sub-Saharan Africa"	"1970"	1
+"MOZ"	"Mozambique"	"Sub-Saharan Africa"	"1970"	1
+"REU"	"R_union"	"Sub-Saharan Africa"	"1970"	1
+"RWA"	"Rwanda"	"Sub-Saharan Africa"	"1970"	1
+"SYC"	"Seychelles"	"Sub-Saharan Africa"	"1970"	1
+"SOM"	"Somalia"	"Sub-Saharan Africa"	"1970"	1
+"UGA"	"Uganda"	"Sub-Saharan Africa"	"1970"	1
+"TZA"	"United Republic of Tanzania"	"Sub-Saharan Africa"	"1970"	1
+"ZMB"	"Zambia"	"Sub-Saharan Africa"	"1970"	1
+"ZWE"	"Zimbabwe"	"Sub-Saharan Africa"	"1970"	1
+"TWN"	"Taiwan"	"East Asia"	"1970"	1
+"XKS"	"Kosovo"	"Eastern Europe"	"1970"	1
+"AUT"	"Austria"	"Western Europe"	"2000"	1
+"BEL"	"Belgium"	"Western Europe"	"2000"	1
+NA	"Federal Republic of Germany (until 1990)"	"Western Europe"	"2000"	1
+"FRA"	"France"	"Western Europe"	"2000"	1
+NA	"German Democratic Republic (until 1990)"	"Eastern Europe"	"2000"	1
+"DEU"	"Germany"	"Western Europe"	"2000"	1
+"LIE"	"Liechtenstein"	"Western Europe"	"2000"	1
+"LUX"	"Luxembourg"	"Western Europe"	"2000"	1
+"MCO"	"Monaco"	"Western Europe"	"2000"	1
+"NLD"	"Netherlands"	"Western Europe"	"2000"	1
+"CHE"	"Switzerland"	"Western Europe"	"2000"	1
+"ALA"	"Åland Islands"	"Western Europe"	"2000"	1
+NA	"Channel Islands"	"Western Europe"	"2000"	1
+"DNK"	"Denmark"	"Western Europe"	"2000"	1
+"EST"	"Estonia"	"Eastern Europe"	"2000"	1
+"FRO"	"Faeroe Islands"	"Western Europe"	"2000"	1
+"FIN"	"Finland"	"Western Europe"	"2000"	1
+"GGY"	"Guernsey"	"Western Europe"	"2000"	1
+"ISL"	"Iceland"	"Western Europe"	"2000"	1
+"IRL"	"Ireland"	"Western Europe"	"2000"	1
+"IMN"	"Isle of Man"	"Western Europe"	"2000"	1
+"JEY"	"Jersey"	"Western Europe"	"2000"	1
+"LVA"	"Latvia"	"Eastern Europe"	"2000"	1
+"LTU"	"Lithuania"	"Eastern Europe"	"2000"	1
+"NOR"	"Norway"	"Western Europe"	"2000"	1
+NA	"Sark"	"Western Europe"	"2000"	1
+"SJM"	"Svalbard and Jan Mayen Islands"	"Western Europe"	"2000"	1
+"SWE"	"Sweden"	"Western Europe"	"2000"	1
+"GBR"	"United Kingdom"	"Western Europe"	"2000"	1
+"ALB"	"Albania"	"Eastern Europe"	"2000"	1
+"AND"	"Andorra"	"Western Europe"	"2000"	1
+"BIH"	"Bosnia and Herzegovina"	"Eastern Europe"	"2000"	1
+"HRV"	"Croatia"	"Eastern Europe"	"2000"	1
+"GIB"	"Gibraltar"	"Western Europe"	"2000"	1
+"GRC"	"Greece"	"Western Europe"	"2000"	1
+"VAT"	"Holy See"	"Western Europe"	"2000"	1
+"ITA"	"Italy"	"Western Europe"	"2000"	1
+"MLT"	"Malta"	"Western Europe"	"2000"	1
+"MNE"	"Montenegro"	"Eastern Europe"	"2000"	1
+"PRT"	"Portugal"	"Western Europe"	"2000"	1
+"SMR"	"San Marino"	"Western Europe"	"2000"	1
+"SRB"	"Serbia"	"Eastern Europe"	"2000"	1
+NA	"Serbia and Montenegro (until 2006)"	"Eastern Europe"	"2000"	1
+"SVN"	"Slovenia"	"Eastern Europe"	"2000"	1
+NA	"Socialist Federal Republic of Yugoslavia (until 1992)"	"Eastern Europe"	"2000"	1
+"ESP"	"Spain"	"Western Europe"	"2000"	1
+"MKD"	"Former Yugoslav Republic of Macedonia"	"Eastern Europe"	"2000"	1
+"BLR"	"Belarus"	"Eastern Europe"	"2000"	1
+"BGR"	"Bulgaria"	"Eastern Europe"	"2000"	1
+"CZE"	"Czech Republic"	"Eastern Europe"	"2000"	1
+NA	"Czechoslovakia (until 1993)"	"Eastern Europe"	"2000"	1
+"HUN"	"Hungary"	"Eastern Europe"	"2000"	1
+"POL"	"Poland"	"Eastern Europe"	"2000"	1
+"MDA"	"Republic of Moldova"	"Eastern Europe"	"2000"	1
+"ROU"	"Romania"	"Eastern Europe"	"2000"	1
+"RUS"	"Russian Federation"	"Eastern Europe"	"2000"	1
+"SVK"	"Slovakia"	"Eastern Europe"	"2000"	1
+"UKR"	"Ukraine"	"Eastern Europe"	"2000"	1
+NA	"USSR (until 1991)"	"Eastern Europe"	"2000"	1
+"BMU"	"Bermuda"	"Latin America and Caribbean"	"2000"	1
+"CAN"	"Canada"	"Western Offshoots"	"2000"	1
+"GRL"	"Greenland"	"Western Europe"	"2000"	1
+"SPM"	"Saint Pierre and Miquelon"	"Latin America and Caribbean"	"2000"	1
+"USA"	"United States of America"	"Western Offshoots"	"2000"	1
+"AIA"	"Anguilla"	"Latin America and Caribbean"	"2000"	1
+"ATG"	"Antigua and Barbuda"	"Latin America and Caribbean"	"2000"	1
+"ABW"	"Aruba"	"Latin America and Caribbean"	"2000"	1
+"BHS"	"Bahamas"	"Latin America and Caribbean"	"2000"	1
+"BRB"	"Barbados"	"Latin America and Caribbean"	"2000"	1
+NA	"Bonaire, Saint Eustatius and Saba"	"Latin America and Caribbean"	"2000"	1
+"VGB"	"British Virgin Islands"	"Latin America and Caribbean"	"2000"	1
+"CYM"	"Cayman Islands"	"Latin America and Caribbean"	"2000"	1
+"CUB"	"Cuba"	"Latin America and Caribbean"	"2000"	1
+"CUW"	"Curaçao"	"Latin America and Caribbean"	"2000"	1
+"DMA"	"Dominica"	"Latin America and Caribbean"	"2000"	1
+"DOM"	"Dominican Republic"	"Latin America and Caribbean"	"2000"	1
+"GRD"	"Grenada"	"Latin America and Caribbean"	"2000"	1
+"GLP"	"Guadeloupe"	"Latin America and Caribbean"	"2000"	1
+"HTI"	"Haiti"	"Latin America and Caribbean"	"2000"	1
+"JAM"	"Jamaica"	"Latin America and Caribbean"	"2000"	1
+"MTQ"	"Martinique"	"Latin America and Caribbean"	"2000"	1
+"MSR"	"Montserrat"	"Latin America and Caribbean"	"2000"	1
+"ANT"	"Netherlands Antilles (until 2010)"	"Latin America and Caribbean"	"2000"	1
+"PRI"	"Puerto Rico"	"Latin America and Caribbean"	"2000"	1
+"BLM"	"Saint-Barth_lemy"	"Latin America and Caribbean"	"2000"	1
+"KNA"	"Saint Kitts and Nevis"	"Latin America and Caribbean"	"2000"	1
+"LCA"	"Saint Lucia"	"Latin America and Caribbean"	"2000"	1
+"MAF"	"Saint Martin (French part)"	"Latin America and Caribbean"	"2000"	1
+"VCT"	"Saint Vincent and the Grenadines"	"Latin America and Caribbean"	"2000"	1
+"SXM"	"Sint Maarten (Dutch part)"	"Latin America and Caribbean"	"2000"	1
+"TTO"	"Trinidad and Tobago"	"Latin America and Caribbean"	"2000"	1
+"TCA"	"Turks and Caicos Islands"	"Latin America and Caribbean"	"2000"	1
+"VIR"	"United States Virgin Islands"	"Latin America and Caribbean"	"2000"	1
+"BLZ"	"Belize"	"Latin America and Caribbean"	"2000"	1
+"CRI"	"Costa Rica"	"Latin America and Caribbean"	"2000"	1
+"SLV"	"El Salvador"	"Latin America and Caribbean"	"2000"	1
+"GTM"	"Guatemala"	"Latin America and Caribbean"	"2000"	1
+"HND"	"Honduras"	"Latin America and Caribbean"	"2000"	1
+"MEX"	"Mexico"	"Latin America and Caribbean"	"2000"	1
+"NIC"	"Nicaragua"	"Latin America and Caribbean"	"2000"	1
+"PAN"	"Panama"	"Latin America and Caribbean"	"2000"	1
+"ARG"	"Argentina"	"Latin America and Caribbean"	"2000"	1
+"BOL"	"Bolivia (Plurinational State of)"	"Latin America and Caribbean"	"2000"	1
+"BRA"	"Brazil"	"Latin America and Caribbean"	"2000"	1
+"CHL"	"Chile"	"Latin America and Caribbean"	"2000"	1
+"COL"	"Colombia"	"Latin America and Caribbean"	"2000"	1
+"ECU"	"Ecuador"	"Latin America and Caribbean"	"2000"	1
+"FLK"	"Falkland Islands (Malvinas)"	"Latin America and Caribbean"	"2000"	1
+"GUF"	"French Guiana"	"Latin America and Caribbean"	"2000"	1
+"GUY"	"Guyana"	"Latin America and Caribbean"	"2000"	1
+"PRY"	"Paraguay"	"Latin America and Caribbean"	"2000"	1
+"PER"	"Peru"	"Latin America and Caribbean"	"2000"	1
+"SUR"	"Suriname"	"Latin America and Caribbean"	"2000"	1
+"URY"	"Uruguay"	"Latin America and Caribbean"	"2000"	1
+"VEN"	"Venezuela (Bolivarian Republic of)"	"Latin America and Caribbean"	"2000"	1
+"AUS"	"Australia"	"Western Offshoots"	"2000"	1
+"NZL"	"New Zealand"	"Western Offshoots"	"2000"	1
+"NFK"	"Norfolk Island"	"South and South-East Asia"	"2000"	1
+"FJI"	"Fiji"	"South and South-East Asia"	"2000"	1
+"NCL"	"New Caledonia"	"South and South-East Asia"	"2000"	1
+"PNG"	"Papua New Guinea"	"South and South-East Asia"	"2000"	1
+"SLB"	"Solomon Islands"	"South and South-East Asia"	"2000"	1
+"VUT"	"Vanuatu"	"South and South-East Asia"	"2000"	1
+"GUM"	"Guam"	"South and South-East Asia"	"2000"	1
+"KIR"	"Kiribati"	"South and South-East Asia"	"2000"	1
+"MHL"	"Marshall Islands"	"South and South-East Asia"	"2000"	1
+"FSM"	"Micronesia (Federated States of)"	"South and South-East Asia"	"2000"	1
+"NRU"	"Nauru"	"South and South-East Asia"	"2000"	1
+"MNP"	"Northern Mariana Islands"	"South and South-East Asia"	"2000"	1
+NA	"Pacific Islands (Trust Territory) (1947-1986)"	"South and South-East Asia"	"2000"	1
+"PLW"	"Palau"	"South and South-East Asia"	"2000"	1
+"ASM"	"American Samoa"	"South and South-East Asia"	"2000"	1
+"COK"	"Cook Islands"	"South and South-East Asia"	"2000"	1
+"PYF"	"French Polynesia"	"South and South-East Asia"	"2000"	1
+"NIU"	"Niue"	"South and South-East Asia"	"2000"	1
+"PCN"	"Pitcairn"	"South and South-East Asia"	"2000"	1
+"WSM"	"Samoa"	"South and South-East Asia"	"2000"	1
+NA	"Tokelau"	"South and South-East Asia"	"2000"	1
+"TON"	"Tonga"	"South and South-East Asia"	"2000"	1
+"TUV"	"Tuvalu"	"South and South-East Asia"	"2000"	1
+"WLF"	"Wallis and Futuna Islands"	"South and South-East Asia"	"2000"	1
+"AFG"	"Afghanistan"	"South and South-East Asia"	"2000"	1
+"BGD"	"Bangladesh"	"South and South-East Asia"	"2000"	1
+"BTN"	"Bhutan"	"South and South-East Asia"	"2000"	1
+"IND"	"India"	"South and South-East Asia"	"2000"	1
+"IRN"	"Iran (Islamic Republic of)"	"MENA"	"2000"	1
+"MDV"	"Maldives"	"South and South-East Asia"	"2000"	1
+"NPL"	"Nepal"	"South and South-East Asia"	"2000"	1
+"PAK"	"Pakistan"	"South and South-East Asia"	"2000"	1
+"LKA"	"Sri Lanka"	"South and South-East Asia"	"2000"	1
+"CHN"	"China"	"East Asia"	"2000"	1
+"HKG"	"Hong Kong China"	"East Asia"	"2000"	1
+"MAC"	"China, Macao Special Administrative Region"	"East Asia"	"2000"	1
+"PRK"	"Democratic People's Republic of Korea"	"East Asia"	"2000"	1
+"JPN"	"Japan"	"East Asia"	"2000"	1
+"MNG"	"Mongolia"	"East Asia"	"2000"	1
+"KOR"	"Korea"	"East Asia"	"2000"	1
+"BRN"	"Brunei Darussalam"	"South and South-East Asia"	"2000"	1
+"KHM"	"Cambodia"	"South and South-East Asia"	"2000"	1
+"IDN"	"Indonesia"	"South and South-East Asia"	"2000"	1
+"LAO"	"Lao People's Democratic Republic"	"South and South-East Asia"	"2000"	1
+"MYS"	"Malaysia"	"South and South-East Asia"	"2000"	1
+"MMR"	"Myanmar"	"South and South-East Asia"	"2000"	1
+"PHL"	"Philippines"	"South and South-East Asia"	"2000"	1
+"SGP"	"Singapore"	"South and South-East Asia"	"2000"	1
+"THA"	"Thailand"	"South and South-East Asia"	"2000"	1
+"TLS"	"Timor-Leste"	"South and South-East Asia"	"2000"	1
+"VNM"	"Viet Nam"	"South and South-East Asia"	"2000"	1
+"ARM"	"Armenia"	"Eastern Europe"	"2000"	1
+"AZE"	"Azerbaijan"	"Eastern Europe"	"2000"	1
+"BHR"	"Bahrain"	"MENA"	"2000"	1
+"CYP"	"Cyprus"	"MENA"	"2000"	1
+NA	"Democratic Yemen (until 1990)"	"MENA"	"2000"	1
+"GEO"	"Georgia"	"Eastern Europe"	"2000"	1
+"IRQ"	"Iraq"	"MENA"	"2000"	1
+"ISR"	"Israel"	"MENA"	"2000"	1
+"JOR"	"Jordan"	"MENA"	"2000"	1
+"KWT"	"Kuwait"	"MENA"	"2000"	1
+"LBN"	"Lebanon"	"MENA"	"2000"	1
+"PSE"	"Palestinian Authority"	"MENA"	"2000"	1
+"OMN"	"Oman"	"MENA"	"2000"	1
+"QAT"	"Qatar"	"MENA"	"2000"	1
+"SAU"	"Saudi Arabia"	"MENA"	"2000"	1
+"SYR"	"Syrian Arab Republic"	"MENA"	"2000"	1
+"TUR"	"Turkey"	"MENA"	"2000"	1
+"ARE"	"United Arab Emirates"	"MENA"	"2000"	1
+NA	"Yemen (until 1990)"	"MENA"	"2000"	1
+"YEM"	"Yemen"	"MENA"	"2000"	1
+"KAZ"	"Kazakhstan"	"Eastern Europe"	"2000"	1
+"KGZ"	"Kyrgyzstan"	"Eastern Europe"	"2000"	1
+"TJK"	"Tajikistan"	"Eastern Europe"	"2000"	1
+"TKM"	"Turkmenistan"	"Eastern Europe"	"2000"	1
+"UZB"	"Uzbekistan"	"Eastern Europe"	"2000"	1
+"DZA"	"Algeria"	"MENA"	"2000"	1
+"EGY"	"Egypt"	"MENA"	"2000"	1
+"LBY"	"Libya"	"MENA"	"2000"	1
+"MAR"	"Morocco"	"MENA"	"2000"	1
+"SSD"	"South Sudan"	"MENA"	"2000"	1
+NA	"Sudan (North)"	"MENA"	"2000"	1
+"SDN"	"Sudan (until 2011)"	"MENA"	"2000"	1
+"TUN"	"Tunisia"	"MENA"	"2000"	1
+"ESH"	"Western Sahara"	"MENA"	"2000"	1
+"BEN"	"Benin"	"Sub-Saharan Africa"	"2000"	1
+"BFA"	"Burkina Faso"	"Sub-Saharan Africa"	"2000"	1
+"CPV"	"Cape Verde"	"Sub-Saharan Africa"	"2000"	1
+"CIV"	"Cote d'Ivoire"	"Sub-Saharan Africa"	"2000"	1
+"GMB"	"Gambia"	"Sub-Saharan Africa"	"2000"	1
+"GHA"	"Ghana"	"Sub-Saharan Africa"	"2000"	1
+"GIN"	"Guinea"	"Sub-Saharan Africa"	"2000"	1
+"GNB"	"Guinea-Bissau"	"Sub-Saharan Africa"	"2000"	1
+"LBR"	"Liberia"	"Sub-Saharan Africa"	"2000"	1
+"MLI"	"Mali"	"Sub-Saharan Africa"	"2000"	1
+"MRT"	"Mauritania"	"Sub-Saharan Africa"	"2000"	1
+"NER"	"Niger"	"Sub-Saharan Africa"	"2000"	1
+"NGA"	"Nigeria"	"Sub-Saharan Africa"	"2000"	1
+"SHN"	"Saint Helena"	"Sub-Saharan Africa"	"2000"	1
+"SEN"	"Senegal"	"Sub-Saharan Africa"	"2000"	1
+"SLE"	"Sierra Leone"	"Sub-Saharan Africa"	"2000"	1
+"TGO"	"Togo"	"Sub-Saharan Africa"	"2000"	1
+"AGO"	"Angola"	"Sub-Saharan Africa"	"2000"	1
+"CMR"	"Cameroon"	"Sub-Saharan Africa"	"2000"	1
+"CAF"	"Central African Republic"	"Sub-Saharan Africa"	"2000"	1
+"TCD"	"Chad"	"Sub-Saharan Africa"	"2000"	1
+"COG"	"Congo"	"Sub-Saharan Africa"	"2000"	1
+"COD"	"Democratic Republic of the Congo"	"Sub-Saharan Africa"	"2000"	1
+"GNQ"	"Equatorial Guinea"	"Sub-Saharan Africa"	"2000"	1
+"GAB"	"Gabon"	"Sub-Saharan Africa"	"2000"	1
+"STP"	"Sao Tome and Principe"	"Sub-Saharan Africa"	"2000"	1
+"BWA"	"Botswana"	"Sub-Saharan Africa"	"2000"	1
+"LSO"	"Lesotho"	"Sub-Saharan Africa"	"2000"	1
+"NAM"	"Namibia"	"Sub-Saharan Africa"	"2000"	1
+"ZAF"	"South Africa"	"Sub-Saharan Africa"	"2000"	1
+"SWZ"	"Swaziland"	"Sub-Saharan Africa"	"2000"	1
+"BDI"	"Burundi"	"Sub-Saharan Africa"	"2000"	1
+"COM"	"Comoros"	"Sub-Saharan Africa"	"2000"	1
+"DJI"	"Djibouti"	"Sub-Saharan Africa"	"2000"	1
+"ERI"	"Eritrea"	"Sub-Saharan Africa"	"2000"	1
+NA	"Ethiopia (until 1993)"	"Sub-Saharan Africa"	"2000"	1
+"ETH"	"Ethiopia (from 1993)"	"Sub-Saharan Africa"	"2000"	1
+"KEN"	"Kenya"	"Sub-Saharan Africa"	"2000"	1
+"MDG"	"Madagascar"	"Sub-Saharan Africa"	"2000"	1
+"MWI"	"Malawi"	"Sub-Saharan Africa"	"2000"	1
+"MUS"	"Mauritius"	"Sub-Saharan Africa"	"2000"	1
+"MYT"	"Mayotte"	"Sub-Saharan Africa"	"2000"	1
+"MOZ"	"Mozambique"	"Sub-Saharan Africa"	"2000"	1
+"REU"	"R_union"	"Sub-Saharan Africa"	"2000"	1
+"RWA"	"Rwanda"	"Sub-Saharan Africa"	"2000"	1
+"SYC"	"Seychelles"	"Sub-Saharan Africa"	"2000"	1
+"SOM"	"Somalia"	"Sub-Saharan Africa"	"2000"	1
+"UGA"	"Uganda"	"Sub-Saharan Africa"	"2000"	1
+"TZA"	"United Republic of Tanzania"	"Sub-Saharan Africa"	"2000"	1
+"ZMB"	"Zambia"	"Sub-Saharan Africa"	"2000"	1
+"ZWE"	"Zimbabwe"	"Sub-Saharan Africa"	"2000"	1
+"TWN"	"Taiwan"	"East Asia"	"2000"	1
+"XKS"	"Kosovo"	"Eastern Europe"	"2000"	1

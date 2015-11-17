@@ -1,0 +1,476 @@
+Code	Region	Country	variable	value
+826	Western Europe	United Kingdom	1820	0.8
+528	Western Europe	Netherlands	1820	0.76
+250	Western Europe	France	1820	0.71
+276	Western Europe	Germany	1820	0.65
+380	Western Europe	Italy	1820	0.63
+724	Western Europe	Spain	1820	0.56
+752	Western Europe	Sweden	1820	0.97
+616	Eastern Europe	Poland	1820	0.82
+643	Eastern Europe	Russian Federation	1820	0.98
+36	Western Offshoots	Australia	1820	1
+124	Western Offshoots	Canada	1820	1
+840	Western Offshoots	United States of America	1820	0.99
+484	Latin America and Caribean	Mexico	1820	0.96
+76	Latin America and Caribean	Brazil	1820	1
+32	Latin America and Caribean	Argentina	1820	0.99
+818	MENA	Egypt	1820	1
+792	MENA	Turkey	1820	1
+404	Sub-Saharan Africa	Kenya	1820	0.93
+566	Sub-Saharan Africa	Nigeria	1820	0.84
+710	Sub-Saharan Africa	South Africa	1820	1
+156	East Asia	China	1820	0.88
+392	East Asia	Japan	1820	0.95
+356	South and South-East Asia	India	1820	0.79
+360	South and South-East Asia	Indonesia	1820	0.99
+764	South and South-East Asia	Thailand	1820	0.99
+826	Western Europe	United Kingdom	1830	0.79
+528	Western Europe	Netherlands	1830	0.75
+250	Western Europe	France	1830	0.7
+276	Western Europe	Germany	1830	0.63
+380	Western Europe	Italy	1830	0.62
+724	Western Europe	Spain	1830	0.54
+752	Western Europe	Sweden	1830	0.96
+616	Eastern Europe	Poland	1830	0.81
+643	Eastern Europe	Russian Federation	1830	0.98
+36	Western Offshoots	Australia	1830	1
+124	Western Offshoots	Canada	1830	1
+840	Western Offshoots	United States of America	1830	0.98
+484	Latin America and Caribean	Mexico	1830	0.96
+76	Latin America and Caribean	Brazil	1830	1
+32	Latin America and Caribean	Argentina	1830	0.99
+818	MENA	Egypt	1830	1
+792	MENA	Turkey	1830	1
+404	Sub-Saharan Africa	Kenya	1830	0.93
+566	Sub-Saharan Africa	Nigeria	1830	0.84
+710	Sub-Saharan Africa	South Africa	1830	1
+156	East Asia	China	1830	0.87
+392	East Asia	Japan	1830	0.95
+356	South and South-East Asia	India	1830	0.78
+360	South and South-East Asia	Indonesia	1830	0.98
+764	South and South-East Asia	Thailand	1830	0.99
+826	Western Europe	United Kingdom	1840	0.77
+528	Western Europe	Netherlands	1840	0.74
+250	Western Europe	France	1840	0.69
+276	Western Europe	Germany	1840	0.62
+380	Western Europe	Italy	1840	0.6
+724	Western Europe	Spain	1840	0.54
+752	Western Europe	Sweden	1840	0.96
+616	Eastern Europe	Poland	1840	0.8
+643	Eastern Europe	Russian Federation	1840	0.98
+36	Western Offshoots	Australia	1840	1
+124	Western Offshoots	Canada	1840	1
+840	Western Offshoots	United States of America	1840	0.98
+484	Latin America and Caribean	Mexico	1840	0.96
+76	Latin America and Caribean	Brazil	1840	1
+32	Latin America and Caribean	Argentina	1840	0.99
+818	MENA	Egypt	1840	1
+792	MENA	Turkey	1840	1
+404	Sub-Saharan Africa	Kenya	1840	0.92
+566	Sub-Saharan Africa	Nigeria	1840	0.83
+710	Sub-Saharan Africa	South Africa	1840	1
+156	East Asia	China	1840	0.87
+392	East Asia	Japan	1840	0.95
+356	South and South-East Asia	India	1840	0.78
+360	South and South-East Asia	Indonesia	1840	0.98
+764	South and South-East Asia	Thailand	1840	0.98
+826	Western Europe	United Kingdom	1850	0.78
+528	Western Europe	Netherlands	1850	0.73
+250	Western Europe	France	1850	0.68
+276	Western Europe	Germany	1850	0.61
+380	Western Europe	Italy	1850	0.58
+724	Western Europe	Spain	1850	0.5
+752	Western Europe	Sweden	1850	0.95
+616	Eastern Europe	Poland	1850	0.79
+643	Eastern Europe	Russian Federation	1850	0.98
+36	Western Offshoots	Australia	1850	0.99
+124	Western Offshoots	Canada	1850	1
+840	Western Offshoots	United States of America	1850	0.97
+484	Latin America and Caribean	Mexico	1850	0.96
+76	Latin America and Caribean	Brazil	1850	0.99
+32	Latin America and Caribean	Argentina	1850	0.99
+818	MENA	Egypt	1850	1
+792	MENA	Turkey	1850	0.99
+404	Sub-Saharan Africa	Kenya	1850	0.92
+566	Sub-Saharan Africa	Nigeria	1850	0.83
+710	Sub-Saharan Africa	South Africa	1850	1
+156	East Asia	China	1850	0.87
+392	East Asia	Japan	1850	0.95
+356	South and South-East Asia	India	1850	0.76
+360	South and South-East Asia	Indonesia	1850	0.98
+764	South and South-East Asia	Thailand	1850	0.98
+826	Western Europe	United Kingdom	1860	0.8
+528	Western Europe	Netherlands	1860	0.72
+250	Western Europe	France	1860	0.68
+276	Western Europe	Germany	1860	0.61
+380	Western Europe	Italy	1860	0.57
+724	Western Europe	Spain	1860	0.46
+752	Western Europe	Sweden	1860	0.95
+616	Eastern Europe	Poland	1860	0.76
+643	Eastern Europe	Russian Federation	1860	0.97
+36	Western Offshoots	Australia	1860	0.99
+124	Western Offshoots	Canada	1860	0.99
+840	Western Offshoots	United States of America	1860	0.96
+484	Latin America and Caribean	Mexico	1860	0.96
+76	Latin America and Caribean	Brazil	1860	0.99
+32	Latin America and Caribean	Argentina	1860	0.98
+818	MENA	Egypt	1860	1
+792	MENA	Turkey	1860	0.99
+404	Sub-Saharan Africa	Kenya	1860	0.92
+566	Sub-Saharan Africa	Nigeria	1860	0.82
+710	Sub-Saharan Africa	South Africa	1860	0.99
+156	East Asia	China	1860	0.87
+392	East Asia	Japan	1860	0.95
+356	South and South-East Asia	India	1860	0.75
+360	South and South-East Asia	Indonesia	1860	0.97
+764	South and South-East Asia	Thailand	1860	0.98
+826	Western Europe	United Kingdom	1870	0.75
+528	Western Europe	Netherlands	1870	0.71
+250	Western Europe	France	1870	0.68
+276	Western Europe	Germany	1870	0.61
+380	Western Europe	Italy	1870	0.57
+724	Western Europe	Spain	1870	0.44
+752	Western Europe	Sweden	1870	0.94
+616	Eastern Europe	Poland	1870	0.74
+643	Eastern Europe	Russian Federation	1870	0.97
+36	Western Offshoots	Australia	1870	0.98
+124	Western Offshoots	Canada	1870	0.99
+840	Western Offshoots	United States of America	1870	0.95
+484	Latin America and Caribean	Mexico	1870	0.96
+76	Latin America and Caribean	Brazil	1870	0.99
+32	Latin America and Caribean	Argentina	1870	0.98
+818	MENA	Egypt	1870	1
+792	MENA	Turkey	1870	0.99
+404	Sub-Saharan Africa	Kenya	1870	0.92
+566	Sub-Saharan Africa	Nigeria	1870	0.81
+710	Sub-Saharan Africa	South Africa	1870	0.99
+156	East Asia	China	1870	0.89
+392	East Asia	Japan	1870	0.95
+356	South and South-East Asia	India	1870	0.73
+360	South and South-East Asia	Indonesia	1870	0.97
+764	South and South-East Asia	Thailand	1870	0.98
+826	Western Europe	United Kingdom	1880	0.73
+528	Western Europe	Netherlands	1880	0.69
+250	Western Europe	France	1880	0.67
+276	Western Europe	Germany	1880	0.61
+380	Western Europe	Italy	1880	0.56
+724	Western Europe	Spain	1880	0.42
+752	Western Europe	Sweden	1880	0.94
+616	Eastern Europe	Poland	1880	0.72
+643	Eastern Europe	Russian Federation	1880	0.96
+36	Western Offshoots	Australia	1880	0.97
+124	Western Offshoots	Canada	1880	0.99
+840	Western Offshoots	United States of America	1880	0.94
+484	Latin America and Caribean	Mexico	1880	0.96
+76	Latin America and Caribean	Brazil	1880	0.99
+32	Latin America and Caribean	Argentina	1880	0.97
+818	MENA	Egypt	1880	1
+792	MENA	Turkey	1880	0.99
+404	Sub-Saharan Africa	Kenya	1880	0.91
+566	Sub-Saharan Africa	Nigeria	1880	0.8
+710	Sub-Saharan Africa	South Africa	1880	0.97
+156	East Asia	China	1880	0.89
+392	East Asia	Japan	1880	0.94
+356	South and South-East Asia	India	1880	0.73
+360	South and South-East Asia	Indonesia	1880	0.96
+764	South and South-East Asia	Thailand	1880	0.97
+826	Western Europe	United Kingdom	1890	0.71
+528	Western Europe	Netherlands	1890	0.67
+250	Western Europe	France	1890	0.67
+276	Western Europe	Germany	1890	0.61
+380	Western Europe	Italy	1890	0.55
+724	Western Europe	Spain	1890	0.4
+752	Western Europe	Sweden	1890	0.94
+616	Eastern Europe	Poland	1890	0.7
+643	Eastern Europe	Russian Federation	1890	0.96
+36	Western Offshoots	Australia	1890	0.96
+124	Western Offshoots	Canada	1890	0.98
+840	Western Offshoots	United States of America	1890	0.91
+484	Latin America and Caribean	Mexico	1890	0.95
+76	Latin America and Caribean	Brazil	1890	0.99
+32	Latin America and Caribean	Argentina	1890	0.97
+818	MENA	Egypt	1890	0.99
+792	MENA	Turkey	1890	0.99
+404	Sub-Saharan Africa	Kenya	1890	0.91
+566	Sub-Saharan Africa	Nigeria	1890	0.79
+710	Sub-Saharan Africa	South Africa	1890	0.96
+156	East Asia	China	1890	0.89
+392	East Asia	Japan	1890	0.94
+356	South and South-East Asia	India	1890	0.7
+360	South and South-East Asia	Indonesia	1890	0.96
+764	South and South-East Asia	Thailand	1890	0.97
+826	Western Europe	United Kingdom	1900	0.69
+528	Western Europe	Netherlands	1900	0.64
+250	Western Europe	France	1900	0.66
+276	Western Europe	Germany	1900	0.6
+380	Western Europe	Italy	1900	0.54
+724	Western Europe	Spain	1900	0.4
+752	Western Europe	Sweden	1900	0.94
+616	Eastern Europe	Poland	1900	0.7
+643	Eastern Europe	Russian Federation	1900	0.96
+36	Western Offshoots	Australia	1900	0.94
+124	Western Offshoots	Canada	1900	0.98
+840	Western Offshoots	United States of America	1900	0.9
+484	Latin America and Caribean	Mexico	1900	0.94
+76	Latin America and Caribean	Brazil	1900	0.98
+32	Latin America and Caribean	Argentina	1900	0.96
+818	MENA	Egypt	1900	0.99
+792	MENA	Turkey	1900	0.99
+404	Sub-Saharan Africa	Kenya	1900	0.91
+566	Sub-Saharan Africa	Nigeria	1900	0.78
+710	Sub-Saharan Africa	South Africa	1900	0.94
+156	East Asia	China	1900	0.89
+392	East Asia	Japan	1900	0.93
+356	South and South-East Asia	India	1900	0.7
+360	South and South-East Asia	Indonesia	1900	0.95
+764	South and South-East Asia	Thailand	1900	0.96
+826	Western Europe	United Kingdom	1910	0.67
+528	Western Europe	Netherlands	1910	0.54
+250	Western Europe	France	1910	0.66
+276	Western Europe	Germany	1910	0.57
+380	Western Europe	Italy	1910	0.53
+724	Western Europe	Spain	1910	0.38
+752	Western Europe	Sweden	1910	0.93
+616	Eastern Europe	Poland	1910	0.71
+643	Eastern Europe	Russian Federation	1910	0.94
+36	Western Offshoots	Australia	1910	0.91
+124	Western Offshoots	Canada	1910	0.97
+840	Western Offshoots	United States of America	1910	0.87
+484	Latin America and Caribean	Mexico	1910	0.93
+76	Latin America and Caribean	Brazil	1910	0.98
+32	Latin America and Caribean	Argentina	1910	0.94
+818	MENA	Egypt	1910	0.99
+792	MENA	Turkey	1910	0.99
+404	Sub-Saharan Africa	Kenya	1910	0.9
+566	Sub-Saharan Africa	Nigeria	1910	0.77
+710	Sub-Saharan Africa	South Africa	1910	0.94
+156	East Asia	China	1910	0.88
+392	East Asia	Japan	1910	0.92
+356	South and South-East Asia	India	1910	0.72
+360	South and South-East Asia	Indonesia	1910	0.94
+764	South and South-East Asia	Thailand	1910	0.96
+826	Western Europe	United Kingdom	1920	0.66
+528	Western Europe	Netherlands	1920	0.64
+250	Western Europe	France	1920	0.67
+276	Western Europe	Germany	1920	0.61
+380	Western Europe	Italy	1920	0.5
+724	Western Europe	Spain	1920	0.4
+752	Western Europe	Sweden	1920	0.93
+616	Eastern Europe	Poland	1920	0.72
+643	Eastern Europe	Russian Federation	1920	0.95
+36	Western Offshoots	Australia	1920	0.87
+124	Western Offshoots	Canada	1920	0.96
+840	Western Offshoots	United States of America	1920	0.85
+484	Latin America and Caribean	Mexico	1920	0.94
+76	Latin America and Caribean	Brazil	1920	0.98
+32	Latin America and Caribean	Argentina	1920	0.91
+818	MENA	Egypt	1920	0.99
+792	MENA	Turkey	1920	0.99
+404	Sub-Saharan Africa	Kenya	1920	0.89
+566	Sub-Saharan Africa	Nigeria	1920	0.75
+710	Sub-Saharan Africa	South Africa	1920	0.9
+156	East Asia	China	1920	0.87
+392	East Asia	Japan	1920	0.92
+356	South and South-East Asia	India	1920	0.72
+360	South and South-East Asia	Indonesia	1920	0.93
+764	South and South-East Asia	Thailand	1920	0.94
+826	Western Europe	United Kingdom	1930	0.64
+528	Western Europe	Netherlands	1930	0.67
+250	Western Europe	France	1930	0.66
+276	Western Europe	Germany	1930	0.61
+380	Western Europe	Italy	1930	0.5
+724	Western Europe	Spain	1930	0.43
+752	Western Europe	Sweden	1930	0.94
+616	Eastern Europe	Poland	1930	0.66
+643	Eastern Europe	Russian Federation	1930	0.94
+36	Western Offshoots	Australia	1930	0.86
+124	Western Offshoots	Canada	1930	0.96
+840	Western Offshoots	United States of America	1930	0.84
+484	Latin America and Caribean	Mexico	1930	0.92
+76	Latin America and Caribean	Brazil	1930	0.97
+32	Latin America and Caribean	Argentina	1930	0.88
+818	MENA	Egypt	1930	0.99
+792	MENA	Turkey	1930	0.99
+404	Sub-Saharan Africa	Kenya	1930	0.88
+566	Sub-Saharan Africa	Nigeria	1930	0.74
+710	Sub-Saharan Africa	South Africa	1930	0.87
+156	East Asia	China	1930	0.87
+392	East Asia	Japan	1930	0.91
+356	South and South-East Asia	India	1930	0.7
+360	South and South-East Asia	Indonesia	1930	0.92
+764	South and South-East Asia	Thailand	1930	0.93
+826	Western Europe	United Kingdom	1940	0.63
+528	Western Europe	Netherlands	1940	0.59
+250	Western Europe	France	1940	0.67
+276	Western Europe	Germany	1940	0.61
+380	Western Europe	Italy	1940	0.51
+724	Western Europe	Spain	1940	0.48
+752	Western Europe	Sweden	1940	0.94
+616	Eastern Europe	Poland	1940	0.65
+643	Eastern Europe	Russian Federation	1940	0.93
+36	Western Offshoots	Australia	1940	0.84
+124	Western Offshoots	Canada	1940	0.96
+840	Western Offshoots	United States of America	1940	0.83
+484	Latin America and Caribean	Mexico	1940	0.91
+76	Latin America and Caribean	Brazil	1940	0.95
+32	Latin America and Caribean	Argentina	1940	0.86
+818	MENA	Egypt	1940	0.99
+792	MENA	Turkey	1940	0.99
+404	Sub-Saharan Africa	Kenya	1940	0.87
+566	Sub-Saharan Africa	Nigeria	1940	0.72
+710	Sub-Saharan Africa	South Africa	1940	0.84
+156	East Asia	China	1940	0.87
+392	East Asia	Japan	1940	0.9
+356	South and South-East Asia	India	1940	0.68
+360	South and South-East Asia	Indonesia	1940	0.92
+764	South and South-East Asia	Thailand	1940	0.91
+826	Western Europe	United Kingdom	1950	0.61
+528	Western Europe	Netherlands	1950	0.62
+250	Western Europe	France	1950	0.67
+276	Western Europe	Germany	1950	0.64
+380	Western Europe	Italy	1950	0.53
+724	Western Europe	Spain	1950	0.55
+752	Western Europe	Sweden	1950	0.93
+616	Eastern Europe	Poland	1950	0.67
+643	Eastern Europe	Russian Federation	1950	0.94
+36	Western Offshoots	Australia	1950	0.82
+124	Western Offshoots	Canada	1950	0.95
+840	Western Offshoots	United States of America	1950	0.8
+484	Latin America and Caribean	Mexico	1950	0.87
+76	Latin America and Caribean	Brazil	1950	0.94
+32	Latin America and Caribean	Argentina	1950	0.85
+818	MENA	Egypt	1950	0.98
+792	MENA	Turkey	1950	0.99
+404	Sub-Saharan Africa	Kenya	1950	0.86
+566	Sub-Saharan Africa	Nigeria	1950	0.7
+710	Sub-Saharan Africa	South Africa	1950	0.78
+156	East Asia	China	1950	0.87
+392	East Asia	Japan	1950	0.89
+356	South and South-East Asia	India	1950	0.67
+360	South and South-East Asia	Indonesia	1950	0.92
+764	South and South-East Asia	Thailand	1950	0.88
+826	Western Europe	United Kingdom	1960	0.61
+528	Western Europe	Netherlands	1960	0.64
+250	Western Europe	France	1960	0.65
+276	Western Europe	Germany	1960	0.67
+380	Western Europe	Italy	1960	0.56
+724	Western Europe	Spain	1960	0.63
+752	Western Europe	Sweden	1960	0.93
+616	Eastern Europe	Poland	1960	0.58
+643	Eastern Europe	Russian Federation	1960	0.92
+36	Western Offshoots	Australia	1960	0.8
+124	Western Offshoots	Canada	1960	0.95
+840	Western Offshoots	United States of America	1960	0.76
+484	Latin America and Caribean	Mexico	1960	0.8
+76	Latin America and Caribean	Brazil	1960	0.93
+32	Latin America and Caribean	Argentina	1960	0.82
+818	MENA	Egypt	1960	0.98
+792	MENA	Turkey	1960	0.99
+404	Sub-Saharan Africa	Kenya	1960	0.84
+566	Sub-Saharan Africa	Nigeria	1960	0.64
+710	Sub-Saharan Africa	South Africa	1960	0.7
+156	East Asia	China	1960	0.84
+392	East Asia	Japan	1960	0.87
+356	South and South-East Asia	India	1960	0.62
+360	South and South-East Asia	Indonesia	1960	0.88
+764	South and South-East Asia	Thailand	1960	0.84
+826	Western Europe	United Kingdom	1970	0.62
+528	Western Europe	Netherlands	1970	0.66
+250	Western Europe	France	1970	0.67
+276	Western Europe	Germany	1970	0.67
+380	Western Europe	Italy	1970	0.57
+724	Western Europe	Spain	1970	0.64
+752	Western Europe	Sweden	1970	0.94
+616	Eastern Europe	Poland	1970	0.6
+643	Eastern Europe	Russian Federation	1970	0.92
+36	Western Offshoots	Australia	1970	0.79
+124	Western Offshoots	Canada	1970	0.95
+840	Western Offshoots	United States of America	1970	0.76
+484	Latin America and Caribean	Mexico	1970	0.8
+76	Latin America and Caribean	Brazil	1970	0.91
+32	Latin America and Caribean	Argentina	1970	0.82
+818	MENA	Egypt	1970	0.98
+792	MENA	Turkey	1970	0.99
+404	Sub-Saharan Africa	Kenya	1970	0.84
+566	Sub-Saharan Africa	Nigeria	1970	0.64
+710	Sub-Saharan Africa	South Africa	1970	0.72
+156	East Asia	China	1970	0.83
+392	East Asia	Japan	1970	0.87
+356	South and South-East Asia	India	1970	0.62
+360	South and South-East Asia	Indonesia	1970	0.88
+764	South and South-East Asia	Thailand	1970	0.81
+826	Western Europe	United Kingdom	1980	0.62
+528	Western Europe	Netherlands	1980	0.67
+250	Western Europe	France	1980	0.68
+276	Western Europe	Germany	1980	0.67
+380	Western Europe	Italy	1980	0.62
+724	Western Europe	Spain	1980	0.64
+752	Western Europe	Sweden	1980	0.94
+616	Eastern Europe	Poland	1980	0.61
+643	Eastern Europe	Russian Federation	1980	0.92
+36	Western Offshoots	Australia	1980	0.79
+124	Western Offshoots	Canada	1980	0.96
+840	Western Offshoots	United States of America	1980	0.76
+484	Latin America and Caribean	Mexico	1980	0.79
+76	Latin America and Caribean	Brazil	1980	0.89
+32	Latin America and Caribean	Argentina	1980	0.82
+818	MENA	Egypt	1980	0.98
+792	MENA	Turkey	1980	0.99
+404	Sub-Saharan Africa	Kenya	1980	0.84
+566	Sub-Saharan Africa	Nigeria	1980	0.63
+710	Sub-Saharan Africa	South Africa	1980	0.72
+156	East Asia	China	1980	0.82
+392	East Asia	Japan	1980	0.88
+356	South and South-East Asia	India	1980	0.61
+360	South and South-East Asia	Indonesia	1980	0.88
+764	South and South-East Asia	Thailand	1980	0.74
+826	Western Europe	United Kingdom	1990	0.63
+528	Western Europe	Netherlands	1990	0.65
+250	Western Europe	France	1990	0.68
+276	Western Europe	Germany	1990	0.66
+380	Western Europe	Italy	1990	0.64
+724	Western Europe	Spain	1990	0.65
+752	Western Europe	Sweden	1990	0.94
+616	Eastern Europe	Poland	1990	0.61
+643	Eastern Europe	Russian Federation	1990	0.92
+36	Western Offshoots	Australia	1990	0.79
+124	Western Offshoots	Canada	1990	0.95
+840	Western Offshoots	United States of America	1990	0.76
+484	Latin America and Caribean	Mexico	1990	0.78
+76	Latin America and Caribean	Brazil	1990	0.88
+32	Latin America and Caribean	Argentina	1990	0.82
+818	MENA	Egypt	1990	0.98
+792	MENA	Turkey	1990	0.98
+404	Sub-Saharan Africa	Kenya	1990	0.82
+566	Sub-Saharan Africa	Nigeria	1990	0.62
+710	Sub-Saharan Africa	South Africa	1990	0.71
+156	East Asia	China	1990	0.77
+392	East Asia	Japan	1990	0.88
+356	South and South-East Asia	India	1990	0.61
+360	South and South-East Asia	Indonesia	1990	0.86
+764	South and South-East Asia	Thailand	1990	0.71
+826	Western Europe	United Kingdom	2000	0.65
+528	Western Europe	Netherlands	2000	0.63
+250	Western Europe	France	2000	0.68
+276	Western Europe	Germany	2000	0.66
+380	Western Europe	Italy	2000	0.66
+724	Western Europe	Spain	2000	0.67
+752	Western Europe	Sweden	2000	0.95
+616	Eastern Europe	Poland	2000	0.62
+643	Eastern Europe	Russian Federation	2000	0.93
+36	Western Offshoots	Australia	2000	0.8
+124	Western Offshoots	Canada	2000	0.95
+840	Western Offshoots	United States of America	2000	0.77
+484	Latin America and Caribean	Mexico	2000	0.78
+76	Latin America and Caribean	Brazil	2000	0.87
+32	Latin America and Caribean	Argentina	2000	0.82
+818	MENA	Egypt	2000	0.97
+792	MENA	Turkey	2000	0.95
+404	Sub-Saharan Africa	Kenya	2000	0.82
+566	Sub-Saharan Africa	Nigeria	2000	0.61
+710	Sub-Saharan Africa	South Africa	2000	0.7
+156	East Asia	China	2000	0.77
+392	East Asia	Japan	2000	0.88
+356	South and South-East Asia	India	2000	0.6
+360	South and South-East Asia	Indonesia	2000	0.85
+764	South and South-East Asia	Thailand	2000	0.73
